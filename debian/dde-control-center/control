@@ -25,7 +25,6 @@ Depends: ${shlibs:Depends},
  dde-qml-dbus-factory,
  deepin-artwork-themes,
  deepin-qml-widgets,
- qt5-extra,
  xkb-data,
 Description: New control center for linux deepin
  New control center for linux deepin
