@@ -1,0 +1,39 @@
+Source: dde-daemon
+Section: devel
+Priority: extra
+Maintainer: 宋文武 <songwenwu@linuxdeepin.com>
+Build-Depends: debhelper (>= 9),
+ dde-go-dbus-factory,
+ golang-dlib-dev,
+ golang-xgb-dev,
+ golang-xgbutil-dev,
+ golang-go,
+ golang-fsnotify-dev,
+ golang-go-sqlite3-dev,
+ golang-gocheck-dev,
+ libmetacity-dev,
+ libudev-dev,
+ libglib2.0-dev,
+ libgtk-3-dev,
+ libgtk2.0-dev,
+ libxi-dev,
+ libx11-dev,
+ libxkbfile-dev,
+ libxtst-dev,
+ upower,
+ libfontconfig-dev,
+Standards-Version: 3.9.5
+Homepage: http://www.linuxdeepin.com
+
+Package: dde-daemon
+Architecture: any
+Depends: ${shlibs:Depends},
+ ${misc:Depends},
+ acpid,
+ bluez,
+ xcur2png,
+ xserver-xorg-input-wacom,
+Description: daemon handling the DDE session settings
+ This package contains the daemon which is responsible for setting the
+ various parameters of a DDE session and the applications that run
+ under it.
