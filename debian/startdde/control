@@ -9,7 +9,7 @@ Build-Depends: debhelper (>= 9), cmake, pkg-config, golang-go, coffeescript,
  golang-xgbutil-dev,
  golang-fsnotify-dev,
  dde-go-dbus-factory,
- libdeepin-webkit-3.0-0, libgail-3-dev, libgstreamer-plugins-base0.10-dev,
+ libdeepin-webkit-3.0-0
 Standards-Version: 3.9.5
 Homepage: http://github.com/linuxdeepin/startdde
 
@@ -17,9 +17,8 @@ Package: startdde
 Architecture: any
 Depends: ${shlibs:Depends},
  ${misc:Depends},
- dde-daemon (>= 0.0.1+20140731174758),
+ dde-daemon,
  dde-workspace,
  deepin-wm | compiz,
-Conflicts: deepin-session
 Description: starter of deepin desktop environment
  starter of deepin desktop environment.
