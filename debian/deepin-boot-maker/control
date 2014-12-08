@@ -1,0 +1,14 @@
+Source: deepin-boot-maker
+Section: misc
+Priority: extra
+Maintainer: 宋文武 <songwenwu@linuxdeepin.com>
+Build-Depends: debhelper (>= 9), qt5-default, qt5-qmake, qttools5-dev-tools
+Standards-Version: 3.9.5
+Homepage: http://www.linuxdeepin.com/
+
+Package: deepin-boot-maker
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, p7zip-full, mtools, fontconfig
+Description: Deepin Boot Maker is help for user to create a boot usb stick quick and easy
+ Deepin Boot Maker is help for user to create a boot usb stick quick and easy, it 
+ designed to support only deepin install iso, but it can can work for all ubuntu live install iso too.
