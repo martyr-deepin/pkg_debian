@@ -1,0 +1,25 @@
+Source: deepin-qml-widgets
+Section: devel
+Priority: extra
+Maintainer: 宋文武 <songwenwu@linuxdeepin.com>
+Build-Depends: debhelper (>= 9),
+ qt5-qmake,
+ qt5-default,
+ qtdeclarative5-dev,
+ libqt5webkit5-dev,
+ libqt5x11extras5-dev,
+ libqt5opengl5-dev,
+ pkg-config,
+ libxcomposite-dev, 
+ libxcb-damage0-dev,
+ deepin-gettext-tools
+Standards-Version: 3.9.5
+Homepage: http://www.linuxdeepin.com
+
+Package: deepin-qml-widgets
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},
+         qml-module-qtquick2,
+         qml-module-qtquick-controls
+Description: Deepin QML widgets
+ Deepin QML widgets
