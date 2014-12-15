@@ -38,4 +38,5 @@ Depends: ${shlibs:Depends},
          dde-daemon,
          dde-control-center,
          systemd-shim,
+         lightdm,
 Description: deepin desktop envrionment for Linuxdeepin new desktop environment.
