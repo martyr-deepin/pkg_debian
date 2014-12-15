@@ -20,6 +20,7 @@ Package: deepin-qml-widgets
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
          qml-module-qtquick2,
-         qml-module-qtquick-controls
+         qml-module-qtquick-controls,
+         qml-module-qtgraphicaleffects
 Description: Deepin QML widgets
  Deepin QML widgets
