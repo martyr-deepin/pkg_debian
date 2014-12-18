@@ -1,4 +1,4 @@
-Source: dbus-generator
+Source: go-dbus-generator
 Section: devel
 Priority: extra
 Maintainer: 宋文武 <songwenwu@linuxdeepin.com>
