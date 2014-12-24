@@ -17,6 +17,7 @@ Package: startdde
 Architecture: any
 Depends: ${shlibs:Depends},
  ${misc:Depends},
+ dbus-x11,
  dde-daemon,
  dde-workspace,
  deepin-wm | compiz,
