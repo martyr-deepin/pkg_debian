@@ -32,6 +32,8 @@ Depends: ${shlibs:Depends},
  acpid,
  bluez,
  xcur2png,
+ pulseaudio,
+ network-manager,
  xserver-xorg-input-wacom,
 Description: daemon handling the DDE session settings
  This package contains the daemon which is responsible for setting the
