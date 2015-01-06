@@ -21,6 +21,7 @@ Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
          qml-module-qtquick2,
          qml-module-qtquick-controls,
-         qml-module-qtgraphicaleffects
+         qml-module-qtgraphicaleffects,
+         qml-module-qt-labs-folderlistmodel,
 Description: Deepin QML widgets
  Deepin QML widgets
