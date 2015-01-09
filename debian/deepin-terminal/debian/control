@@ -9,7 +9,7 @@ Homepage: http://www.linuxdeepin.com/
 Package: deepin-terminal
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends},
-         python, deepin-ui, python-vte, expect, 
+         python, deepin-ui, python-vte, expect, python-dbus,
          hicolor-icon-theme, xdotool, python-deepin-gsettings
 Provides: x-terminal-emulator
 Description: Terminal Emulator from LinuxDeepin.
