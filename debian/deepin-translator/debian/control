@@ -20,6 +20,7 @@ Depends: ${shlibs:Depends},
  python-xpyb,
  python-xmltodict,
  xsel,
+ python-pyqt5.qtquick,
  python-deepin-utils,
  python-xlib,
  deepin-qml-widgets
