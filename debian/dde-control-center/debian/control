@@ -28,5 +28,6 @@ Depends: ${shlibs:Depends},
  qml-module-qtqml-models2,
  qml-module-qtmultimedia,
  xkb-data,
+ tzdata-l10n,
 Description: New control center for linux deepin
  New control center for linux deepin
