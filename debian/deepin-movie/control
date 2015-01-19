@@ -1,0 +1,26 @@
+Source: deepin-movie
+Section: misc
+Priority: extra
+Maintainer: Li Longyu (Ai Kotoba) <leaeasy@gmail.com>
+Build-Depends: debhelper (>= 9), python, deepin-gettext-tools
+Standards-Version: 3.9.5
+Homepage: http://www.linuxdeepin.com
+
+Package: deepin-movie
+Architecture: all
+Depends: ${shlibs:Depends},
+ ${misc:Depends},
+ python-pyqt5.qtquick,
+ mediainfo,
+ qml-module-qtav,
+ python-ass,
+ python-pysrt,
+ python-xpyb,
+ python-magic,
+ python-xpybutil,
+ python-deepin-utils,
+ python-peewee,
+ deepin-menu,
+ deepin-qml-widgets,
+Description: deepin movie for linuxdeepin desktop environment
+ Deepin movie with linuxdeepin desktop environment.
