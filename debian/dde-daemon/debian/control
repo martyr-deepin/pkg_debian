@@ -34,6 +34,8 @@ Depends: ${shlibs:Depends},
  xcur2png,
  upower,
  pulseaudio,
+ gir1.2-polkit-1.0,
+ policykit-1-gnome,
  network-manager,
  xserver-xorg-input-wacom,
 Description: daemon handling the DDE session settings
