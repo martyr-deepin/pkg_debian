@@ -20,6 +20,6 @@ Depends: ${shlibs:Depends},
  dbus-x11,
  dde-daemon,
  dde-workspace,
- deepin-wm | compiz,
+ deepin-wm | deepin-compiz | compiz,
 Description: starter of deepin desktop environment
  starter of deepin desktop environment.
