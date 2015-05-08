@@ -1,3 +1,0 @@
-override_dh_autoreconf dh_autoreconf
-dh_autoreconf
-dh_auto_configure
