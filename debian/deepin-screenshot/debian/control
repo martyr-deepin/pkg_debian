@@ -16,5 +16,6 @@ Depends: ${misc:Depends},
  python-wnck,
  python-xpybutil,
  python-pyqt5.qtmultimedia,
+ qml-module-qtquick-dialogs,
  deepin-social-sharing
 Description: Advanced screen shoting tool
