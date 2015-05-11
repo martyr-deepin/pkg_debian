@@ -1,5 +1,4 @@
 usr/bin
-usr/lib/*/deepin-wm/lib*.so
 usr/lib/*/deepin-wm/plugins/lib*.so
 usr/share/xsessions
 usr/share/applications
