@@ -45,7 +45,6 @@ Depends: ${shlibs:Depends},
  iso-codes,
  mobile-broadband-provider-info,
  policykit-1-gnome,
-Conflicts: dde-workspace ( < 2.1+20141028122406 )
 Description: daemon handling the DDE session settings
     This package contains the daemon which is responsible for setting the
     various parameters of a DDE session and the applications that run
