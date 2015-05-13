@@ -9,8 +9,8 @@ Homepage: http://www.linuxdeepin.com/
 Package: deepin-music-player
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends},
-         deepin-ui, python-mutagen, python-gst0.10,
-         python-pyquery, python-cddb, python-pycurl,
+         pyhton-pyqt5.quick, python-peewee,
+         python-pyquery, python-mutagen, python-request,
          python-chardet, python-keybinder,
          gstreamer0.10-plugins-good, gstreamer0.10-plugins-bad
 Suggests: gstreamer0.10-plugins-bad-multiverse, python-mmkeys
