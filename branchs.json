@@ -1,0 +1,71 @@
+{
+    "repo": "http://10.0.0.12/deepin-2015",
+    "default": "develop",
+    "packages": [
+	{
+	    "pkg": "deepin-boot-maker",
+	    "git": "ssh://cr.deepin.io:29418/deepin-boot-maker",
+	    "branch": "master"
+	},
+	{
+	    "pkg": "dae",
+	    "git": "ssh://cr.deepin.io:29418/dae",
+	    "branch": "develop"
+	},
+	{
+	    "pkg": "deepin-bug-reporter",
+	    "git": "ssh://cr.deepin.io:29418/deepin-bug-reporter",
+	    "branch": "develop"
+	},
+	{
+	    "pkg": "deepin-crossover",
+	    "git": "ssh://cr.deepin.io:29418/deepin-crossover",
+	    "branch": "develop"
+	},
+	{
+	    "pkg": "deepin-file-manager",
+	    "git": "ssh://cr.deepin.io:29418/deepin-file-manager",
+	    "branch": "develop"
+	},
+	{
+	    "pkg": "deepin-gettext-tools",
+	    "git": "ssh://cr.deepin.io:29418/deepin-gettext-tools",
+	    "branch": "develop"
+	},
+	{
+	    "pkg": "deepin-manual",
+	    "git": "ssh://cr.deepin.io:29418/deepin-manual",
+	    "branch": "develop"
+	},
+	{
+	    "pkg": "deepin-menu",
+	    "git": "ssh://cr.deepin.io:29418/deepin-menu",
+	    "branch": "release/*"
+	},
+	{
+	    "pkg": "deepin-ui",
+	    "git": "ssh://cr.deepin.io:29418/deepin-ui",
+	    "branch": "master"
+	},
+	{
+	    "pkg": "deepin-os-upgrader",
+	    "git": "ssh://cr.deepin.io:29418/deepin-os-upgrader",
+	    "branch": "master"
+	},
+	{
+	    "pkg": "deepin-terminal",
+	    "git": "ssh://cr.deepin.io:29418/deepin-terminal",
+	    "branch": "master"
+	},
+	{
+	    "pkg": "deepin-webkit",
+	    "git": "ssh://cr.deepin.io:29418/deepin-webkit",
+	    "branch": "master"
+	},
+	{
+	    "pkg": "dde-control-center",
+	    "git": "ssh://cr.deepin.io:29418/dde-control-center",
+	    "branch": "develop"
+	}
+    ]
+}
