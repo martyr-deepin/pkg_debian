@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9), python
 Standards-Version: 3.9.5
 Homepage: http://www.linuxdeepin.com/
 
-Package: deepin-music-player
+Package: deepin-music
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends},
          python-pyqt5.qtquick, python-peewee,
@@ -15,6 +15,7 @@ Depends: ${shlibs:Depends}, ${misc:Depends},
          python-pycurl, python-faulthandler, liboxideqt-qmlplugin,
          gstreamer0.10-plugins-good, gstreamer0.10-plugins-bad,
          gstreamer0.10-plugins-ugly, 
+Conflicts: deepin-music-player
 Suggests: gstreamer0.10-plugins-bad-multiverse, python-mmkeys
 Description: Awesome music player with brilliant and tweakful UI
  Deepin-UI based, gstreamer front-end, with features likes search music by 
