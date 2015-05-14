@@ -11,7 +11,8 @@ Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends},
          python-pyqt5.qtquick, python-peewee,
          python-pyquery, python-mutagen, python-requests,
-         python-chardet, python-keybinder,
+         python-chardet, python-keybinder, python-leveldb,
+         python-pycurl, python-faulthandler, liboxideqt-qmlplugin,
          gstreamer0.10-plugins-good, gstreamer0.10-plugins-bad
 Suggests: gstreamer0.10-plugins-bad-multiverse, python-mmkeys
 Description: Awesome music player with brilliant and tweakful UI
