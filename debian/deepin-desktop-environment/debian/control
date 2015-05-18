@@ -16,6 +16,7 @@ Build-Depends: debhelper (>= 9),
  libsqlite3-dev,
  libwebkitgtk-3.0-dev,
  libxtst-dev,
+ fake-node,
  pkg-config,
  python,
 Standards-Version: 3.9.5
