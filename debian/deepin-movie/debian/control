@@ -10,7 +10,6 @@ Package: deepin-movie
 Architecture: all
 Depends: ${shlibs:Depends},
  ${misc:Depends},
- deepin-manual,
  python-pyqt5.qtquick,
  mediainfo,
  qml-module-qtav,
@@ -23,5 +22,6 @@ Depends: ${shlibs:Depends},
  python-peewee,
  deepin-menu,
  deepin-qml-widgets,
+Recommends: deepin-manual,
 Description: deepin movie for linuxdeepin desktop environment
  Deepin movie with linuxdeepin desktop environment.
