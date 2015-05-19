@@ -10,6 +10,7 @@ Package: deepin-movie
 Architecture: all
 Depends: ${shlibs:Depends},
  ${misc:Depends},
+ deepin-manual,
  python-pyqt5.qtquick,
  mediainfo,
  qml-module-qtav,
