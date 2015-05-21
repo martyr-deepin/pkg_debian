@@ -24,18 +24,18 @@ Homepage: http://www.linuxdeepin.com
 
 Package: deepin-desktop-environment
 Architecture: any
-Depends: ${misc:Depends},
-         startdde,
-         dde-control-center,
-         dde-dock-applets,
+Depends: ${misc:Depends},dde-workspace
 Description: Meta Package for Deepin Desktop Environment
 
 Package: dde-workspace
 Architecture: any
 Depends: ${shlibs:Depends},
          ${misc:Depends},
+         dde-dock-applets,
          deepin-menu,
          libdeepin-webkit-3.0-0,
+         deepin-nautilus-properties,
+         startdde,
          dde-daemon,
          dde-control-center,
          lightdm,
