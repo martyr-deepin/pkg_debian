@@ -5,7 +5,7 @@
 	{
 	    "pkg": "deepin-boot-maker",
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-boot-maker",
-	    "branch": "master"
+	    "branch": "release/.*"
 	},
 	{
 	    "pkg": "dae",
@@ -40,7 +40,7 @@
 	{
 	    "pkg": "deepin-menu",
 	    "git": "https://cr.deepin.io/deepin-menu",
-	    "branch": "release/*"
+	    "branch": "release/.*"
 	},
 	{
 	    "pkg": "deepin-ui",
@@ -55,10 +55,10 @@
 	{
 	    "pkg": "deepin-terminal",
 	    "git": "https://cr.deepin.io/deepin-terminal",
-	    "branch": "master"
+	    "branch": "develop"
 	},
 	{
-	    "pkg": "deepin-webkit",
+	    "pkg": "libdeepin-webkit-3.0-0",
 	    "git": "https://cr.deepin.io/deepin-webkit",
 	    "branch": "master"
 	},
