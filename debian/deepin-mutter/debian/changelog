@@ -1,3 +1,11 @@
+deepin-mutter (3.14.4-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Switch Build-Depends from the transitional libsystemd-login-dev to
+    libsystemd-dev. (Closes: #779761)
+
+ -- Xu Fasheng <fasheng.xu@gmail.com>  Wed, 27 May 2015 14:00:08 +0800
+
 deepin-mutter (3.14.3-1deepin1) unstable; urgency=medium
 
   * New upstream release.
