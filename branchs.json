@@ -6,7 +6,7 @@
 	{
 	    "pkg": "deepin-boot-maker",
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-boot-maker",
-	    "branch": "release/.*"
+	    "branch": "develop"
 	},
 	{
 	    "pkg": "dae",
