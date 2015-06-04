@@ -38,6 +38,13 @@
 	    "branch": "develop"
 	},
 	{
+	    "pkg": "deepin-wm",
+	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-wm",
+	    "branch": "master",
+        "base_version": "0.0.1"
+
+	},
+	{
 	    "pkg": "deepin-menu",
 	    "git": "https://cr.deepin.io/deepin-menu",
 	    "branch": "release/.*"
