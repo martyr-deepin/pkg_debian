@@ -11,7 +11,7 @@
     {
         "pkg": "dde-workspace",
         "branch": "develop",
-        "packagename": "deepin-desktop-envrionment"
+        "packagename": "deepin-desktop-environment"
     },
 	{
 	    "pkg": "dae",
