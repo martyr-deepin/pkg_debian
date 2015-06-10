@@ -1,0 +1,11 @@
+deepin-remote-assistance (1.0.0+20150608095318~ebb0aabedd) trusty; urgency=medium
+
+  * Build from git ebb0aabeddf7b4227fa4f308013bf5ba5f941e0f
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Mon, 08 Jun 2015 09:53:19 +0800
+
+deepin-remote-assistance (1.0.0) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Xu Shaohua <xushaohua@linuxdeepin.com>  Tue, 05 May 2015 10:48:24 +0800
