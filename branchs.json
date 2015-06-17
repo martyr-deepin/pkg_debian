@@ -13,6 +13,10 @@
 	    "branch": "gtk3.14"
 	},
     {
+        "pkg": "deepin-feedback",
+        "branch": "master"
+    },
+    {
         "pkg": "dde-workspace",
         "branch": "release/2.3",
         "packagename": "deepin-desktop-environment"
