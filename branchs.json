@@ -14,7 +14,7 @@
 	},
     {
         "pkg": "dde-workspace",
-        "branch": "develop",
+        "branch": "release/2.3",
         "packagename": "deepin-desktop-environment"
     },
 	{
@@ -23,9 +23,9 @@
 	    "branch": "develop"
 	},
 	{
-	    "pkg": "deepin-bug-reporter",
-	    "git": "https://cr.deepin.io/deepin-bug-reporter",
-	    "branch": "develop"
+	    "pkg": "deepin-feedback",
+	    "git": "https://cr.deepin.io/deepin-feedback",
+	    "branch": "release/1.0"
 	},
 	{
 	    "pkg": "deepin-crossover",
@@ -35,7 +35,7 @@
 	{
 	    "pkg": "deepin-file-manager",
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-file-manager",
-	    "branch": "develop"
+	    "branch": "release/1.0"
 	},
 	{
 	    "pkg": "deepin-gettext-tools",
@@ -50,12 +50,12 @@
 	{
 	    "pkg": "deepin-wm",
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-wm",
-	    "branch": "develop"
+	    "branch": "release/0.2"
 	},
 	{
 	    "pkg": "deepin-menu",
 	    "git": "https://cr.deepin.io/deepin-menu",
-	    "branch": "release/.*"
+	    "branch": "release/2.3"
 	},
 	{
 	    "pkg": "deepin-ui",
@@ -70,7 +70,7 @@
 	{
 	    "pkg": "deepin-terminal",
 	    "git": "https://cr.deepin.io/deepin-terminal",
-	    "branch": "develop"
+	    "branch": "release/2.3"
 	},
 	{
 	    "pkg": "libdeepin-webkit-3.0-0",
@@ -80,7 +80,52 @@
 	{
 	    "pkg": "dde-control-center",
 	    "git": "https://cr.deepin.io/dde-control-center",
-	    "branch": "develop"
+	    "branch": "release/2.3"
+	},
+	{
+	    "pkg": "dde-api",
+	    "git": "https://cr.deepin.io/dde-api",
+	    "branch": "release/2.3"
+	},
+	{
+	    "pkg": "dde-daemon",
+	    "git": "https://cr.deepin.io/dde-daemon",
+	    "branch": "release/2.3"
+	},
+	{
+	    "pkg": "deepin-mutter",
+	    "git": "https://cr.deepin.io/deepin-mutter",
+	    "branch": "release/3.14"
+	},
+	{
+	    "pkg": "deepin-notifications",
+	    "git": "https://cr.deepin.io/deepin-notifications",
+	    "branch": "release/2.3"
+	},
+	{
+	    "pkg": "startdde",
+	    "git": "https://cr.deepin.io/startdde",
+	    "branch": "release/2.3"
+	},
+	{
+	    "pkg": "deepin-music",
+	    "git": "https://cr.deepin.io/deepin-music",
+	    "branch": "release/2.3"
+	},
+	{
+	    "pkg": "deepin-remote-assistance",
+	    "git": "https://cr.deepin.io/deepin-remote-assistance",
+	    "branch": "release/1.0"
+	},
+	{
+	    "pkg": "deepin-screenshot",
+	    "git": "https://cr.deepin.io/deepin-screenshot",
+	    "branch": "release/3.1"
+	},
+	{
+	    "pkg": "dde-dock-applets",
+	    "git": "https://cr.deepin.io/dde-dock-applets",
+	    "branch": "release/2.3"
 	}
     ]
 }
