@@ -44,7 +44,7 @@
 	},
 	{
 	    "pkg": "deepin-manual",
-	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-manual",
+	    "git": "https://cr.deepin.io/deepin-manual",
 	    "branch": "release/1.0"
 	},
 	{
