@@ -45,7 +45,7 @@
 	{
 	    "pkg": "deepin-manual",
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-manual",
-	    "branch": "develop"
+	    "branch": "release/1.0"
 	},
 	{
 	    "pkg": "deepin-wm",
@@ -70,7 +70,7 @@
 	{
 	    "pkg": "deepin-terminal",
 	    "git": "https://cr.deepin.io/deepin-terminal",
-	    "branch": "release/2.3"
+	    "branch": "release/1.1"
 	},
 	{
 	    "pkg": "libdeepin-webkit-3.0-0",
