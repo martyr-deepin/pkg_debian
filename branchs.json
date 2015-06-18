@@ -43,11 +43,6 @@
 	    "branch": "develop"
 	},
 	{
-	    "pkg": "deepin-manual",
-	    "git": "https://cr.deepin.io/deepin-manual",
-	    "branch": "release/1.0"
-	},
-	{
 	    "pkg": "deepin-wm",
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-wm",
 	    "branch": "release/0.2"
