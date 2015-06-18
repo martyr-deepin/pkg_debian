@@ -85,12 +85,12 @@
 	{
 	    "pkg": "dde-api",
 	    "git": "https://cr.deepin.io/dde-api",
-	    "branch": "release/2.3"
+	    "branch": "release/3.0"
 	},
 	{
 	    "pkg": "dde-daemon",
 	    "git": "https://cr.deepin.io/dde-daemon",
-	    "branch": "release/2.3"
+	    "branch": "release/3.0"
 	},
 	{
 	    "pkg": "deepin-mutter",
@@ -105,7 +105,7 @@
 	{
 	    "pkg": "startdde",
 	    "git": "https://cr.deepin.io/startdde",
-	    "branch": "release/2.3"
+	    "branch": "release/3.0"
 	},
 	{
 	    "pkg": "deepin-music",
