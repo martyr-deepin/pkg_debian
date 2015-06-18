@@ -53,6 +53,11 @@
 	    "branch": "release/2.3"
 	},
 	{
+	    "pkg": "deepin-manual",
+	    "git": "https://cr.deepin.io/deepin-manual",
+	    "branch": "develop"
+	},
+	{
 	    "pkg": "deepin-ui",
 	    "git": "https://cr.deepin.io/deepin-ui",
 	    "branch": "master"
