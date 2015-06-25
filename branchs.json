@@ -135,6 +135,11 @@
 	    "pkg": "dde-dock-applets",
 	    "git": "https://cr.deepin.io/dde-dock-applets",
 	    "branch": "release/2.3"
+	},
+	{
+	    "pkg": "deepin-qml-widgets",
+	    "git": "https://cr.deepin.io/deepin-qml-widgets",
+	    "branch": "release/2.4"
 	}
     ]
 }
