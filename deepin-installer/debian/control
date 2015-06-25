@@ -25,6 +25,7 @@ Package: deepin-installer
 Architecture: any
 Depends: ${shlibs:Depends}, libdeepin-webkit-3.0-0,
  ${misc:Depends},
+ nocache,
  btrfs-tools,
  dosfstools,
  e2fsprogs,
