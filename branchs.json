@@ -9,6 +9,10 @@
 	    "branch": "develop"
 	},
 	{
+	    "pkg": "qtav",
+	    "branch": "release"
+	},
+	{
 	    "pkg": "deepin-gtk-theme",
 	    "branch": "gtk3.14"
 	},
