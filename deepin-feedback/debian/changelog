@@ -1,0 +1,11 @@
+deepin-feedback (0.1+20150619092556~f7c03dabe6) trusty; urgency=medium
+
+  * Build from git f7c03dabe61ccbd23cac8a8b9b2fce598960fc9a
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Fri, 19 Jun 2015 09:25:56 +0800
+
+deepin-feedback (0.1) trusty; urgency=low
+
+  * Initial Release.
+
+ -- 宋文武 <songwenwu@linuxdeepin.com>  Mon, 25 Aug 2014 09:50:30 +0800
