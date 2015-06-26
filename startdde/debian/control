@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 9), cmake, pkg-config, golang-go, coffeescript,
  libwebkitgtk-3.0-dev,
  golang-dlib-dev,
  golang-xgbutil-dev,
- golang-fsnotify.howeyc-dev,
+ golang-fsnotify-dev,
  dde-go-dbus-factory,
  libdeepin-webkit-3.0-0, libgail-3-dev, libgstreamer-plugins-base0.10-dev,
 Standards-Version: 3.9.5
@@ -19,7 +19,7 @@ Depends: ${shlibs:Depends},
  ${misc:Depends},
  dde-daemon (>= 0.0.1+20140731174758),
  dde-workspace,
- deepin-wm | deepin-compiz | compiz,
+ deepin-wm | deepin-compiz,
 Conflicts: deepin-session
 Description: starter of deepin desktop environment
  starter of deepin desktop environment.

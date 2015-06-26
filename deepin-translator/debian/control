@@ -2,14 +2,15 @@ Source: deepin-translator
 Section: education
 Priority: optional
 Maintainer:  Li Longyu (Ai Kotoba) <leaeasy@gmail.com>
-Build-Depends: debhelper (>= 9), python
+Build-Depends: debhelper (>= 9), python (>= 2.6.3~)
 Standards-Version: 3.9.5
+Homepage: https://github.com/manateelazycat/deepin-translator
 
 Package: deepin-translator
 Architecture: all
 Depends: ${shlibs:Depends},
  ${misc:Depends},
- deepin-menu,
+ deepin-menu (>= 1.1+20140730105532),
  python-tesseract,
  python-pyocr,
  tesseract-ocr-eng,
@@ -19,8 +20,8 @@ Depends: ${shlibs:Depends},
  python-sip,
  python-xpyb,
  python-xmltodict,
+ qt5-extra,
  xsel,
- python-pyqt5.qtquick,
  python-deepin-utils,
  python-xlib,
  deepin-qml-widgets

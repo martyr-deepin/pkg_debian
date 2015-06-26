@@ -1,5 +1,11 @@
-dde-dock-applets (0.0.0) unstable; urgency=medium
+dde-dock-applets (0.0.4+20150519180614~47f1d65a66) trusty; urgency=medium
+
+  * Build from git 47f1d65a6624c5d84f2d131041b12f31476389ca
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Tue, 19 May 2015 18:06:15 +0800
+
+dde-dock-applets (0.0.3+20141124-1) trusty; urgency=medium
 
   * Unstable release.
 
- -- 宋文武 <songwenwu@linuxdeepin.com>  Mon, 24 Nov 2014 14:55:46 +0800
+ -- Mellon Xie <xielingyun@linuxdeepin.com>  Mon, 24 Nov 2014 14:55:46 +0800

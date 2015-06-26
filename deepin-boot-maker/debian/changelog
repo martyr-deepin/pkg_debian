@@ -1,3 +1,9 @@
+deepin-boot-maker (1.0+20150604163637~071d093756) trusty; urgency=medium
+
+  * Build from git 071d09375612417039a133d2d0ef0bf2b7da71a8
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Thu, 04 Jun 2015 16:36:38 +0800
+
 deepin-boot-maker (0.99) trusty; urgency=low
 
   * Upstreamer update

@@ -1,12 +1,12 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: go-dlib
-Source: https://gitcafe.com/Deepin/go-lib.git
+Source: http://github.com:linuxdeepin/go-lib.git
 
 Files: *
-Copyright: 2013-2014 Deepin <linuxdeepin@linuxdeepin.com>
+Copyright: 2013 Deepin <linuxdeepin@linuxdeepin.com>
 
 Files: debian/*
-Copyright: 2014 宋文武 <songwenwu@linuxdeepin.com>
+Copyright: 2013 Deepin Packages Builder <packages@linuxdeepin.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -23,3 +23,8 @@ License: GPL-2+
  .
  On Debian systems, the complete text of the GNU General
  Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+
+# Please also look if there are files or directories which have a
+# different copyright/license attached and list them here.
+# Please avoid to pick license terms that are more restrictive than the
+# packaged work, as it may make Debian's contributions unacceptable upstream.

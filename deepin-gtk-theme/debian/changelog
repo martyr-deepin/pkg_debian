@@ -1,3 +1,9 @@
+deepin-gtk-theme (14.07+20150327153743~2d420cb0b9) trusty; urgency=medium
+
+  * Build from git 2d420cb0b91a4c7ac41b3a135f1f14346340cdd0
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Fri, 27 Mar 2015 15:37:44 +0800
+
 deepin-gtk-theme (0.0.0) unstable; urgency=medium
 
   * Unstable release.

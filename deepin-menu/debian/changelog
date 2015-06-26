@@ -1,4 +1,10 @@
-deepin-menu (0.0.0) unstable; urgency=medium
+deepin-menu (1.1+20150415155150~faffe35053) trusty; urgency=medium
+
+  * Build from git faffe350537edf3d5acd2d42021e7ef9e224126a
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Wed, 15 Apr 2015 15:51:51 +0800
+
+deepin-menu (0.0~git20141027) unstable; urgency=medium
 
   * Unstable release.
 

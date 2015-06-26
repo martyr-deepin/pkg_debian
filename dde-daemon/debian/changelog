@@ -1,3 +1,15 @@
+dde-daemon (0.0.1+20150619132138~b7120bedfa) trusty; urgency=medium
+
+  * dummy update. 
+
+ -- pkg-builder <pkg-builder@packages.linuxdeepin.com>  Fri, 19 Jun 2015 10:42:42 +0800
+
+dde-daemon (0.0.1+20150415132138~b7120bedfa) trusty; urgency=medium
+
+  * Build from git b7120bedfa31ab58cd56b2baf08754edd0967ace
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Wed, 15 Apr 2015 13:21:38 +0800
+
 dde-daemon (0.0.1+20140805003158~60da01a153) trusty; urgency=low
 
   * Build from git 60da01a153a4f3e6f75a2819893b9112a368c451

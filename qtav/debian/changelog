@@ -1,3 +1,9 @@
+qtav (2.0+20150601150150~05d0432389) trusty; urgency=medium
+
+  * Build from git 05d0432389c935aaa777f605634fbc63477d78d5
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Mon, 01 Jun 2015 15:01:52 +0800
+
 qtav (1.6.0) unstable; urgency=low
 
   * VDA: use NV12 as default format. Support 0 copy. Better performance than any other playrs

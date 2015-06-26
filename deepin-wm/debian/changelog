@@ -1,3 +1,9 @@
+deepin-wm (0.2.0+20150402112803~fe6d6c194b) trusty; urgency=medium
+
+  * Build from git fe6d6c194bf2ac40d9561d355ecc96da7d9ebae6
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Thu, 02 Apr 2015 11:28:04 +0800
+
 deepin-wm (0.2.0) trusty; urgency=medium
 
   * Update from upstream.

@@ -1,4 +1,10 @@
-deepin-desktop-environment (0.0.0) unstable; urgency=medium
+deepin-desktop-environment (2.1+20150528170616~45cd9c8d06) trusty; urgency=medium
+
+  * Build from git 45cd9c8d06ad1c79f99422c1454442c8af9ea43e
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Thu, 28 May 2015 17:06:19 +0800
+
+deepin-desktop-environment (2.1~git20141109) unstable; urgency=medium
 
   * Unstable release.
 

@@ -1,3 +1,15 @@
+deepin-social-sharing (1.0.0+20150619165613~8c48a0dde9) trusty; urgency=medium
+
+  * dummy update. 
+
+ -- pkg-builder <pkg-builder@packages.linuxdeepin.com>  Fri, 19 Jun 2015 10:40:19 +0800
+
+deepin-social-sharing (1.0.0+20150413165613~8c48a0dde9) trusty; urgency=medium
+
+  * Build from git 8c48a0dde9001fe2b326115667fd77c400d1cb92
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Mon, 13 Apr 2015 16:56:14 +0800
+
 deepin-social-sharing (0.0.0) unstable; urgency=medium
 
   * Initial release.

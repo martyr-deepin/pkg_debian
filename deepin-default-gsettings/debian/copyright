@@ -7,7 +7,7 @@ Copyright: 2014 leaeasy <leaeasy@gmail.com>
 License: GPL-2+
 
 Files: debian/*
-Copyright: 2014 leaeasy <leaeasy@gmail.com>
+Copyright: 2014 Deepin Packages Builder <packages@linuxdeepin.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -24,3 +24,8 @@ License: GPL-2+
  .
  On Debian systems, the complete text of the GNU General
  Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+
+# Please also look if there are files or directories which have a
+# different copyright/license attached and list them here.
+# Please avoid to pick license terms that are more restrictive than the
+# packaged work, as it may make Debian's contributions unacceptable upstream.

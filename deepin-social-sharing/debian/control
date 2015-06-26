@@ -13,6 +13,5 @@ Depends: ${shlibs:Depends},
  python-pyqt5,
  python-requests,
  python-requests-oauthlib,
- qml-module-qtwebkit,
  deepin-qml-widgets,
 Description: System-wide social sharing service for Deepin!

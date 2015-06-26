@@ -2,7 +2,7 @@ Source: dde-dock-applets
 Section: admin
 Priority: optional
 Maintainer: Mellon Xie <xielingyun@linuxdeepin.com>
-Build-Depends: debhelper (>= 9),
+Build-Depends: debhelper (>= 9.0.0),
  pkg-config,
  libx11-dev,
  libxtst-dev,
@@ -18,11 +18,12 @@ Homepage: https://gitcafe.com/Deepin/dde-dock-applets
 Package: dde-dock-applets
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
- dde-control-center,
  dde-daemon,
  dde-api,
  dde-qml-dbus-factory,
+ deepin-icon-theme,
  deepin-artwork-themes,
  deepin-qml-widgets,
+ qt5-extra,
 Description: Dock Applets of Deepin Desktop Environment
  Dock applets of deepin desktop environment.

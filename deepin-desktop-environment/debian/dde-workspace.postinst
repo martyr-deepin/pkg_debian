@@ -1,10 +1,21 @@
 #!/bin/sh
 
-set -e 
+LIGHTDM_CONF="/etc/lightdm/lightdm.conf"
 
-if [ "$1" = "configure" ];then
-	update-alternatives --install /usr/share/xgreeters/lightdm-greeter.desktop \
-	lightdm-greeter /usr/share/xgreeters/lightdm-deepin-greeter.desktop 90
+autologin_user=$(grep ^autologin-user $LIGHTDM_CONF) 2>/dev/null
+autologin_user=${autologin_user#*=}
+
+LIGHTDM_SESSION="
+[SeatDefaults]
+greeter-session=lightdm-deepin-greeter
+user-session=deepin"
+if [ -n "${autologin_user}" ];then
+LIGHTDM_SESSION="${LIGHTDM_SESSION}
+autologin-user=${autologin_user}"
 fi
+echo "${LIGHTDM_SESSION}" | tee ${LIGHTDM_CONF} > /dev/null
 
-exit 0
+if [ "$1" = "install" ] || [ "$1" = "upgrade" ]; then
+	[ -e /etc/init/dde-account.conf ] && rm -f /etc/init/dde-account.conf
+	[ -e /etc/xdg/autostart/dde-osd.desktop ] && rm -f /etc/xdg/autostart/dde-osd.desktop || true
+fi

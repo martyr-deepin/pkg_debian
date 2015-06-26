@@ -1,5 +1,11 @@
-deepin-download-service (0.0.0) unstable; urgency=medium
+deepin-download-service (0.2+20150116184038~5668df3ca6) trusty; urgency=medium
 
-  * Unstable release.
+  * Build from git 5668df3ca64232d484141cb9e1234846ada6a130
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Fri, 16 Jan 2015 18:40:39 +0800
+
+deepin-download-service (0.1+git20140902) trusty; urgency=medium
+
+  * repackaging
 
  -- 宋文武 <songwenwu@linuxdeepin.com>  Wed, 03 Sep 2014 18:02:51 +0800

@@ -17,6 +17,8 @@ Homepage: http://gitcafe.com/Deepin/dde-control-center.git
 
 Package: dde-control-center
 Architecture: any
+Conflicts: dss
+Replaces: dss
 Depends: ${shlibs:Depends},
  ${misc:Depends},
  dde-account-faces,
@@ -25,10 +27,8 @@ Depends: ${shlibs:Depends},
  dde-qml-dbus-factory,
  deepin-artwork-themes,
  deepin-qml-widgets,
- qml-module-qtqml-models2,
- qml-module-qtmultimedia,
+ qt5-extra,
  libqt5svg5,
- xkb-data,
- tzdata-l10n,
+ xkb-data-i18n | xkb-data,
 Description: New control center for linux deepin
  New control center for linux deepin

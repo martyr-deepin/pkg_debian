@@ -1,10 +1,20 @@
-dae (1.0.0+20150228174134~a6758edb75) trusty; urgency=medium
+dae (1.0.1+git20150602061846~527f0c57bd) trusty; urgency=low
 
-  * Build from git a6758edb7550efd60994d8710785fc2c87e55e23
+  ** Build revision: 527f0c57bd6914a789c3e30e56081cea357e280b  @  release/1.0 **
 
- -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Sat, 28 Feb 2015 17:41:35 +0800
+  [upstreamer]
+  * Fix a cursor problem during window resizing.
+  * fix window state changes `maximized -> minimized -> normal` error
+  * Improve DAE
+  * Do not pass MouseMoveEvent to webview during dragging the window.
+  * fix changelog
 
-dae (0.0.0) unstable; urgency=medium
+  [debian]
+  * add builder.conf
+
+ -- None <None>  Tue, 02 Jun 2015 06:18:46 +0000
+
+dae (1.0.0) unstable; urgency=medium
 
   * Initial release.
 

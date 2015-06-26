@@ -1,4 +1,10 @@
-deepin-icon-theme (0.0.0) unstable; urgency=medium
+deepin-icon-theme (13.06.13+20150514164143~a3027b5436) trusty; urgency=medium
+
+  * Build from git a3027b54361d9a6fa852c0d53351029fab828a7a
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Thu, 14 May 2015 16:41:44 +0800
+
+deepin-icon-theme (0.0) unstable; urgency=medium
 
   * Unstable release.
 

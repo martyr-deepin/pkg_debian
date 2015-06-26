@@ -1,8 +1,8 @@
-deepin-remote-assistance (1.0.0+20150608095318~ebb0aabedd) trusty; urgency=medium
+deepin-remote-assistance (1.0.0+20150618110422~a672b0f4dd) trusty; urgency=medium
 
-  * Build from git ebb0aabeddf7b4227fa4f308013bf5ba5f941e0f
+  * Build from git a672b0f4dd4273d6f1ca0f51a2eb3f5c58b8aadd
 
- -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Mon, 08 Jun 2015 09:53:19 +0800
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Thu, 18 Jun 2015 11:04:22 +0800
 
 deepin-remote-assistance (1.0.0) unstable; urgency=medium
 

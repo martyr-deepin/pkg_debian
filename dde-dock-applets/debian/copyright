@@ -1,8 +1,12 @@
 Format: http://dep.debian.net/deps/dep5
-Upstream-Name: dde-dock-applets
+Upstream-Name: deepin-software-center
+
+Files: *
+Copyright: 2013 Deepin, Inc
+License: GPL-2+
 
 Files: debian/*
-Copyright: 2014 宋文武 <songwenwu@linuxdeepin.com>
+Copyright: 2011 Leng Ganghua <hiweed@gmail.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
