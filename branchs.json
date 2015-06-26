@@ -7,6 +7,45 @@
         "pkg": "dde-workspace",
         "branch": "release/2.3",
         "packagename": "deepin-desktop-environment"
+    },
+    {
+        "pkg": "deepin-qml-widgets",
+        "branch": "release/2.3",
+        "packagename": "deepin-qml-widgets"
+    },
+    {
+        "pkg": "deepin-screenshot",
+        "branch": "release/3.1",
+        "packagename": "deepin-screenshot"
+    },
+    {
+        "pkg": "deepin-social-sharing",
+        "branch": "release/1.1",
+        "packagename": "deepin-social-sharing"
+    },
+    {
+        "pkg": "deepin-movie",
+        "branch": "release/2.2.2",
+        "packagename": "deepin-movie"
+    },
+    {
+        "pkg": "dde-control-center",
+        "branch": "release/3.0",
+        "packagename": "dde-control-center"
+    },
+    {
+        "pkg": "dde-dock-applets",
+        "branch": "release/3.0",
+        "packagename": "dde-dock-applets"
+    },
+    {
+        "pkg": "deepin-feedback",
+        "branch": "release/1.0",
+        "packagename": "deepin-feedback"
+    },
+    {
+        "pkg": "dbus-factory",
+        "branch": "develop"
     }
     ]
 }
