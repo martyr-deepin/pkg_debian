@@ -129,7 +129,7 @@
 	{
 	    "pkg": "deepin-movie",
 	    "git": "https://cr.deepin.io/deepin-movie",
-	    "branch": "release/2.2.3"
+	    "branch": "release/2.2.2"
 	},
 	{
 	    "pkg": "dde-dock-applets",
@@ -140,6 +140,11 @@
 	    "pkg": "deepin-qml-widgets",
 	    "git": "https://cr.deepin.io/deepin-qml-widgets",
 	    "branch": "release/2.4"
+	},
+	{
+	    "pkg": "deepin-social-sharing",
+	    "git": "https://cr.deepin.io/deepin-social-sharing",
+	    "branch": "release/1.1"
 	}
     ]
 }
