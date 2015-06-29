@@ -1,0 +1,11 @@
+deepin-qml-widgets (0.0.2+20150619102550~daef82ffb6) trusty; urgency=medium
+
+  * dummy update. 
+
+ -- pkg-builder <pkg-builder@packages.linuxdeepin.com>  Fri, 19 Jun 2015 10:17:42 +0800
+
+deepin-qml-widgets (0.0.2+20150423102550~daef82ffb6) trusty; urgency=medium
+
+  * Build from git daef82ffb62d0fdb7638a748e4a7d344e19ed369
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Thu, 23 Apr 2015 10:25:51 +0800

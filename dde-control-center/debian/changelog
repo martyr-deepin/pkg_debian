@@ -1,0 +1,24 @@
+dde-control-center (0.1+20150619164707~6ec15a41de) trusty; urgency=medium
+
+  * dummy update. 
+
+ -- pkg-builder <pkg-builder@packages.linuxdeepin.com>  Fri, 19 Jun 2015 10:31:50 +0800
+
+dde-control-center (0.1+20150413164707~6ec15a41de) trusty; urgency=medium
+
+  * Build from git 6ec15a41de330b1247af735100e63291162b65d8
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Mon, 13 Apr 2015 16:47:09 +0800
+
+dde-control-center (0.1) unstable; urgency=medium
+
+  * New release.
+  * Split dde-dock-applets out.
+
+ -- 宋文武 <songwenwu@linuxdeepin.com>  Tue, 02 Dec 2014 10:19:15 +0800
+
+dde-control-center (0.0~git20141112) unstable; urgency=medium
+
+  * Unstable release.
+
+ -- 宋文武 <songwenwu@linuxdeepin.com>  Thu, 13 Nov 2014 12:34:47 +0800
