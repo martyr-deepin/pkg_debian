@@ -4,11 +4,6 @@
     "base_version": "14.12",
     "packages": [
     {
-        "pkg": "dde-workspace",
-        "branch": "release/2.3",
-        "packagename": "deepin-desktop-environment"
-    },
-    {
         "pkg": "deepin-qml-widgets",
         "branch": "release/2.3",
         "packagename": "deepin-qml-widgets"
