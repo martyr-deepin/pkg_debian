@@ -34,7 +34,7 @@
 	{
 	    "pkg": "dae",
 	    "git": "https://cr.deepin.io/dae",
-	    "branch": "develop"
+	    "branch": "release/1.0"
 	},
 	{
 	    "pkg": "deepin-feedback",
