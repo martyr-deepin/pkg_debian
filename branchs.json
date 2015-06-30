@@ -8,16 +8,16 @@
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-boot-maker",
 	    "branch": "develop"
 	},
-    {
-        "pkg": "dbus-factory",
-        "base_version": "2015.0",
-        "branch": "develop"
-    },
-    {
-        "pkg": "go-dlib",
-        "base_version": "2015.0",
-        "branch": "develop"
-    },
+	{
+	    "pkg": "dbus-factory",
+	    "base_version": "2015.0",
+	    "branch": "develop"
+	},
+	{
+	    "pkg": "go-dlib",
+	    "base_version": "2015.0",
+	    "branch": "develop"
+	},
 	{
 	    "pkg": "qtav",
 	    "branch": "release"
@@ -26,11 +26,16 @@
 	    "pkg": "deepin-gtk-theme",
 	    "branch": "gtk3.14"
 	},
-    {
-        "pkg": "dde-workspace",
-        "branch": "release/2.3",
-        "packagename": "deepin-desktop-environment"
-    },
+	{
+	    "pkg": "dde-workspace",
+	    "branch": "release/2.3",
+	    "packagename": "deepin-desktop-environment"
+	},
+	{
+	    "pkg": "deepin-installer",
+	    "branch": "release/1.1",
+	    "git": "https://cr.deepin.io/deepin-installer"
+	},
 	{
 	    "pkg": "dae",
 	    "git": "https://cr.deepin.io/dae",
