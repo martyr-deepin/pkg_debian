@@ -84,8 +84,7 @@ Package: deepin-mutter-dbg
 Architecture: any
 Section: debug
 Priority: extra
-Depends: deepin-mutter (= ${binary:Version}),
-         libdeepin-mutter0e (= ${binary:Version}),
+Depends: libdeepin-mutter0e (= ${binary:Version}),
          ${misc:Depends}
 Description: Debugging symbols for the Mutter window manager
  Mutter is a small window manager, using GTK+ and Clutter to do
