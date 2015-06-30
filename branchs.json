@@ -39,6 +39,11 @@
         "packagename": "deepin-feedback"
     },
     {
+        "pkg": "deepin-manual",
+        "branch": "develop",
+        "packagename": "deepin-manual"
+    },
+    {
         "pkg": "dbus-factory",
         "branch": "develop"
     }
