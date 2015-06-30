@@ -46,6 +46,10 @@
     {
         "pkg": "dbus-factory",
         "branch": "develop"
+    },
+    {
+        "pkg": "deepin-manual",
+        "branch": "release/1.0"
     }
     ]
 }
