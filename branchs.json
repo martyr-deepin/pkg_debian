@@ -8,6 +8,11 @@
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-boot-maker",
 	    "branch": "develop"
 	},
+    {
+        "pkg": "dbus-factory",
+        "base_version": "2015.0",
+        "branch": "develop"
+    },
 	{
 	    "pkg": "qtav",
 	    "branch": "release"
