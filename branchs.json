@@ -47,5 +47,10 @@
         "pkg": "dbus-factory",
         "branch": "develop"
     },
+	{
+	    "pkg": "deepin-remote-assistance",
+	    "branch": "release/1.0",
+        "packagename": "deepin-remote-assistance"
+	}
     ]
 }
