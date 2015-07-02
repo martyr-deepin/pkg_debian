@@ -90,7 +90,7 @@
 	    "branch": "release/1.1"
 	},
 	{
-	    "pkg": "libdeepin-webkit-3.0-0",
+	    "pkg": "deepin-webkit",
 	    "git": "https://cr.deepin.io/deepin-webkit",
 	    "branch": "master"
 	},
