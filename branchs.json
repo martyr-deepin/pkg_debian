@@ -14,7 +14,6 @@
     },
     {
         "pkg": "go-dlib",
-        "base_version": "2015.0",
         "branch": "develop"
     },
 	{
@@ -25,15 +24,20 @@
 	    "pkg": "deepin-gtk-theme",
 	    "branch": "gtk3.14"
 	},
-    {
-        "pkg": "dde-workspace",
-        "branch": "release/2.3",
-        "packagename": "deepin-desktop-environment"
-    },
+	{
+	    "pkg": "dde-workspace",
+	    "branch": "release/2.3",
+	    "packagename": "deepin-desktop-environment"
+	},
+	{
+	    "pkg": "deepin-installer",
+	    "branch": "release/1.1",
+	    "git": "https://cr.deepin.io/deepin-installer"
+	},
 	{
 	    "pkg": "dae",
 	    "git": "https://cr.deepin.io/dae",
-	    "branch": "develop"
+	    "branch": "release/1.0"
 	},
 	{
 	    "pkg": "deepin-feedback",
