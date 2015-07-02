@@ -10,8 +10,7 @@
 	},
     {
         "pkg": "dbus-factory",
-        "base_version": "2015.0",
-        "branch": "develop"
+        "branch": "release/3.0"
     },
     {
         "pkg": "go-dlib",
