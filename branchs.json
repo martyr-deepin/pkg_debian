@@ -1,7 +1,6 @@
 {
     "repo": "http://10.0.0.12/deepin-2015",
     "default": "develop",
-    "base_version": "15.06",
     "packages": [
 	{
 	    "pkg": "deepin-boot-maker",
