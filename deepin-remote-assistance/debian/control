@@ -19,5 +19,9 @@ Depends: ${misc:Depends},
          python3-pyqt5,
          python3-pyuserinput,
          python3-tornado,
-         python3-xlib
+         python3-xlib,
+	 dde-go-dbus-factory (>=14.12+git20150701094308~402c0f2e5d),
+	 dde-qml-dbus-factory (>=14.12+git20150701094308~402c0f2e5d),
+	 dde-control-center (>=14.12+git20150629151916~bbd68f58e6),
+	 deepin-qml-widgets (>=14.12+git20150629154636~a864d6ff58)
 Description: Deepin Remote Assistance
