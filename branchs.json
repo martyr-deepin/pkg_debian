@@ -154,6 +154,11 @@
 	    "branch": "release/2.4"
 	},
 	{
+	    "pkg": "deepin-software-center",
+	    "git": "https://cr.deepin.io/deepin-store",
+	    "branch": "2015"
+	},
+	{
 	    "pkg": "deepin-social-sharing",
 	    "git": "https://cr.deepin.io/deepin-social-sharing",
 	    "branch": "release/1.1"
