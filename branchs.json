@@ -154,7 +154,7 @@
 	    "branch": "release/2.4"
 	},
 	{
-	    "pkg": "deepin-software-center",
+	    "pkg": "deepin-store",
 	    "git": "https://cr.deepin.io/deepin-store",
 	    "branch": "2015"
 	},
