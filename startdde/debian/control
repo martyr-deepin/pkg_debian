@@ -20,6 +20,7 @@ Depends: ${shlibs:Depends},
  dde-daemon (>= 0.0.1+20140731174758),
  dde-workspace,
  gvfs-bin,
+ libgnome2-bin,
  deepin-wm | deepin-compiz | compiz,
 Conflicts: deepin-session
 Description: starter of deepin desktop environment
