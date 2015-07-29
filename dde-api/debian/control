@@ -22,3 +22,9 @@ Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
 Description: Go-lang bingdings for dde-daemon
  Go-lang bindings for dde-daemon
+
+Package: dde-api-dev
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends},
+Description: Go-lang bingdings for dde-daemon
+ Go-lang bindings for dde-daemon -- dev file
