@@ -1,3 +1,9 @@
+go-dbus-generator (0.6.0-1) stable; urgency=low
+
+  * Autobuild Tag 0.6.0-1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Tue, 30 Jun 2015 08:20:30 +0000
+
 go-dbus-generator (0.0.0) unstable; urgency=medium
 
   * Unstable release.

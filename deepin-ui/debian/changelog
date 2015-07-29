@@ -1,3 +1,21 @@
+deepin-ui (1.0.4-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.4-1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Wed, 01 Jul 2015 09:10:37 +0000
+
+deepin-ui (1.0.3-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.3-1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Wed, 01 Jul 2015 08:29:48 +0000
+
+deepin-ui (1.0.3-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.3-1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Tue, 30 Jun 2015 10:58:39 +0000
+
 deepin-ui (0.0.0) unstable; urgency=medium
 
   * Unstable release.

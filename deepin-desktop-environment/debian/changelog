@@ -1,3 +1,21 @@
+deepin-desktop-environment (2.90.1-1) stable; urgency=low
+
+  * Autobuild Tag 2.90.1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Mon, 06 Jul 2015 09:02:11 +0000
+
+deepin-desktop-environment (2.90.1-1) stable; urgency=low
+
+  * Autobuild Tag 2.90.1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Thu, 02 Jul 2015 16:31:55 +0000
+
+deepin-desktop-environment (2.90.0-1) stable; urgency=low
+
+  * Autobuild Tag 2.90.0-1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Wed, 01 Jul 2015 09:25:42 +0000
+
 deepin-desktop-environment (0.0.0) unstable; urgency=medium
 
   * Unstable release.

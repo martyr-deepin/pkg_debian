@@ -1,3 +1,9 @@
+startdde (2.90.0-1) stable; urgency=low
+
+  * Autobuild Tag 2.90.0-1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Wed, 01 Jul 2015 13:32:44 +0000
+
 startdde (0.0.0) unstable; urgency=medium
 
   * Unstable release.

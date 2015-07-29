@@ -1,3 +1,9 @@
+grub-themes-deepin (1.0.0-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.0-1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Tue, 30 Jun 2015 10:42:08 +0000
+
 grub-themes-deepin (0.6) unstable; urgency=medium
 
   * update license. 
