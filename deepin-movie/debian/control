@@ -23,6 +23,7 @@ Depends: ${shlibs:Depends},
  deepin-menu,
  deepin-qml-widgets,
  dleyna-renderer,
+ dde-qml-dbus-factory,
 Recommends: deepin-manual,
 Description: deepin movie for linuxdeepin desktop environment
  Deepin movie with linuxdeepin desktop environment.
