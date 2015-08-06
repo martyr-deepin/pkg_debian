@@ -162,6 +162,11 @@
 	    "pkg": "deepin-social-sharing",
 	    "git": "https://cr.deepin.io/deepin-social-sharing",
 	    "branch": "release/1.1"
+	},
+        {
+	     "pkg": "deepin-desktop-schemas",
+	     "git": "https://cr.deepin.io/deepin-desktop-schemas",
+	     "branch": "master"
 	}
     ]
 }
