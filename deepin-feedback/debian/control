@@ -5,7 +5,7 @@ Maintainer: 宋文武 <songwenwu@linuxdeepin.com>
 Build-Depends: debhelper (>= 9),
  golang,
  golang-dlib-dev,
- dde-go-dbus-factory,
+ dde-go-dbus-factory(>= 0.6.1),
  qt5-qmake,
  pkg-config,
  libx11-dev,

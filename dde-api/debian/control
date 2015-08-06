@@ -30,3 +30,11 @@ Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends},
 Description: Go-lang bingdings for dde-daemon
  Go-lang bindings for dde-daemon -- dev file
+
+Package: dde-api-dbg
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, dde-api(= ${binary:Version})
+Description: Go-lang bingdings for dde-daemon -- debugging symbols
+ Go-lang bindings for dde-daemon.
+ .
+ This package contains debugging symbols.

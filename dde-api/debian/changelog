@@ -1,3 +1,15 @@
+dde-api (2.91.0-2) unstable; urgency=medium
+
+  * add dde-api-dbg packages. 
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Thu, 06 Aug 2015 14:24:18 +0800
+
+dde-api (2.91.0-1) stable; urgency=low
+
+  * Autobuild Tag 2.91.0 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Thu, 06 Aug 2015 09:57:09 +0000
+
 dde-api (2.90.0-1) stable; urgency=low
 
   * Autobuild Tag 2.90.0-1 

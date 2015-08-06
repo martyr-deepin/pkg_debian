@@ -2,7 +2,7 @@ Source: dbus-factory
 Section: devel
 Priority: extra
 Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
-Build-Depends: debhelper (>= 9), golang-go, golang-dlib-dev, dbus-generator,
+Build-Depends: debhelper (>= 9), golang-go, golang-dlib-dev, dbus-generator(>= 0.6.1),
                qt5-qmake, qt5-default, qtdeclarative5-dev, libqt5webkit5-dev, python
 Standards-Version: 3.9.5
 Homepage: http://www.linuxdeepin.com
@@ -17,4 +17,11 @@ Package: dde-qml-dbus-factory
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Go-lang dbus gen QML for dlib
- Go-lang dubs gen QML for dlib
+ Go-lang dbus gen QML for dlib
+
+Package: dde-qml-dbus-factory-dbg
+Section: debug
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, dde-qml-dbus-factory(= ${binary:Version})
+Description: Go-lang dbus gen QML for dlib - debugging symbols
+ This package contains debugging symbols for dde-qml-dbus-factory.

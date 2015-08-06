@@ -1,3 +1,15 @@
+go-dlib (0.4.1-1) stable; urgency=low
+
+  * Autobuild Tag 0.4.1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Thu, 06 Aug 2015 10:03:13 +0000
+
+go-dlib (0.4.0-1) stable; urgency=low
+
+  * Autobuild Tag 0.4.0 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Thu, 06 Aug 2015 09:16:11 +0000
+
 go-dlib (0.3.0-1) stable; urgency=low
 
   * Autobuild Tag 0.3.0-1 

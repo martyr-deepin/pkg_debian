@@ -3,7 +3,7 @@ Section: devel
 Priority: extra
 Maintainer: 宋文武 <songwenwu@linuxdeepin.com>
 Build-Depends: debhelper (>= 9), golang-go,  dh-golang,
-               golang-dlib-dev, golang-gocheck-dev,
+               golang-dlib-dev(>= 0.4.0), golang-gocheck-dev,
                qt5-default, qt5-qmake, qtdeclarative5-dev
 Standards-Version: 3.9.5
 Homepage: http://www.linuxdeepin.com

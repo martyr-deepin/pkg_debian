@@ -26,3 +26,9 @@ Depends: ${shlibs:Depends}, ${misc:Depends},
  deepin-qml-widgets,
 Description: Dock Applets of Deepin Desktop Environment
  Dock applets of deepin desktop environment.
+
+Package: dde-dock-applets-dbg
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, dde-dock-applets (= ${binary:Version})
+Description: Dock Applets of Deepin Desktop Environment --debugging symbols.
+ Dock applets of deepin desktop environment.

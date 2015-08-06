@@ -8,4 +8,8 @@ export GOPATH := /usr/share/gocode
 ifdef USE_GCCGO
 override_dh_strip:
 	true
+else
+override_dh_strip:
+	dh_strip --dbg-package=dde-api-dbg
 endif
+

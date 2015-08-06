@@ -3,8 +3,8 @@ Section: devel
 Priority: extra
 Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
 Build-Depends: debhelper (>= 9),
- dde-go-dbus-factory,
- golang-dlib-dev,
+ dde-go-dbus-factory(>= 0.6.1),
+ golang-dlib-dev(>= 0.4.0),
  golang-xgb-dev,
  golang-xgbutil-dev,
  golang-go,
@@ -47,6 +47,8 @@ Depends: ${shlibs:Depends},
  iso-codes,
  mobile-broadband-provider-info,
  policykit-1-gnome,
+ deepin-desktop-schemas,
+Breaks: dde-daemon(<< 2.92.2)
 Description: daemon handling the DDE session settings
     This package contains the daemon which is responsible for setting the
     various parameters of a DDE session and the applications that run
