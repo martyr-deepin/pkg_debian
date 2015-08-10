@@ -23,7 +23,7 @@ Homepage: https://gitcafe.com/Deepin/deepin-wm https://launchpad.net/gala
 
 Package: deepin-wm
 Architecture: any
-Depends: dde-daemon,
+Depends: deepin-desktop-schemas,
          libdeepin-wm0 (= ${binary:Version}),
          ${misc:Depends},
          ${shlibs:Depends}

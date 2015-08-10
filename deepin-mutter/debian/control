@@ -60,7 +60,7 @@ Architecture: any
 Depends: ${shlibs:Depends},
          ${misc:Depends},
          deepin-mutter-common (= ${source:Version}),
-         dde-daemon,
+         deepin-desktop-schemas,
          gnome-themes-standard,
          zenity
 Provides: x-window-manager
@@ -102,7 +102,7 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends},
          ${misc:Depends},
-         dde-daemon,
+         deepin-desktop-schemas,
          deepin-mutter-common (= ${source:Version})
 Conflicts: libdeepin-mutter0, libdeepin-mutter0a, libdeepin-mutter0b, libdeepin-mutter0c, libdeepin-mutter0d
 Description: window manager library from the Mutter window manager
