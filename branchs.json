@@ -29,6 +29,11 @@
         "packagename": "dde-control-center"
     },
     {
+        "pkg": "deepin-music",
+        "branch": "release/2.3"
+        "packagename": "deepin-music"
+    },
+    {
         "pkg": "dde-dock-applets",
         "branch": "release/3.0",
         "packagename": "dde-dock-applets"
