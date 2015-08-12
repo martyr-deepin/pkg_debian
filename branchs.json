@@ -30,7 +30,7 @@
     },
     {
         "pkg": "deepin-music",
-        "branch": "release/2.3"
+        "branch": "release/2.3",
         "packagename": "deepin-music"
     },
     {
