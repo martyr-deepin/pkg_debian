@@ -2,9 +2,10 @@ Source: deepin-gettext-tools
 Section: devel
 Priority: extra
 Build-Depends: debhelper (>= 9),
-               qt5-default, qt5-qmake,
-               qtbase5-private-dev,
-               qtdeclarative5-private-dev
+ qt5-default, qt5-qmake,
+ libdouble-conversion-dev,
+ qtbase5-private-dev,
+ qtdeclarative5-private-dev
 Standards-Version: 3.9.5
 Maintainer: 宋文武 <songwenwu@linuxdeepin.com>
 
