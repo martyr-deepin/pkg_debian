@@ -52,6 +52,11 @@
         "pkg": "dbus-factory",
         "branch": "release/2014.3"
     },
+    {
+         "pkg": "deepin-terminal"
+         "branch": "release/1.1"
+	 "packagename": "deepin-terminal"
+    },
 	{
 	    "pkg": "deepin-remote-assistance",
 	    "branch": "release/1.0",

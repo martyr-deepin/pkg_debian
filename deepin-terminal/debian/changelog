@@ -1,0 +1,11 @@
+deepin-terminal (1.1.0-1) stable; urgency=low
+
+  * Autobuild Tag 1.1.0-1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Tue, 30 Jun 2015 11:02:46 +0000
+
+deepin-terminal (0.0.0) unstable; urgency=medium
+
+  * Unstable release.
+
+ -- 宋文武 <songwenwu@linuxdeepin.com>  Mon, 08 Dec 2014 14:16:12 +0800
