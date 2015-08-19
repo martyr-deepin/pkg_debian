@@ -15,7 +15,9 @@ Build-Depends: debhelper (>= 9),
  libmetacity-dev,
  libgtk-3-dev,
  libgdk-pixbuf2.0-dev,
- libcairo2-dev
+ libcairo2-dev,
+ libfreetype6-dev,
+ libpoppler-glib-dev
 Standards-Version: 3.9.5
 Homepage: http://www.linuxdeepin.com
 
@@ -39,7 +41,9 @@ Depends: ${shlibs:Depends}, ${misc:Depends},
  libmetacity-dev,
  libgtk-3-dev,
  libgdk-pixbuf2.0-dev,
- libcairo2-dev
+ libcairo2-dev,
+ libfreetype6-dev,
+ libpoppler-glib-dev
 Description: Go-lang bingdings for dde-daemon
  Go-lang bindings for dde-daemon -- dev file
 
