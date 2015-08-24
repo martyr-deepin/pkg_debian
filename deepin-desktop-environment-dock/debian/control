@@ -1,4 +1,4 @@
-Source: deepin-dock-environment-dock
+Source: deepin-desktop-environment-dock
 Section: deepin
 Priority: optional
 Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
@@ -8,8 +8,8 @@ Build-Depends: debhelper (>= 8.0.0), pkg-config,
 Standards-Version: 3.9.4
 Homepage: http://www.deepin.org/
 
-Package: deepin-dock-environment-dock
+Package: deepin-desktop-environment-dock
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: deepin desktop-environment - desktop module
- Deepin desktop environment 2015 - desktop module.
+Description: deepin desktop-environment - dock module
+ Deepin desktop environment 2015 - dock module.
