@@ -172,6 +172,11 @@
 	     "pkg": "libdui",
 	     "git": "https://cr.deepin.io/dde/libdui",
 	     "branch": "master"
+	},
+	{
+	    "pkg": "deepin-desktop-environment-desktop",
+	    "git": "https://cr.deepin.io/dde/dde-desktop",
+	    "branch": "master"
 	}
     ]
 }
