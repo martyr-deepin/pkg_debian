@@ -177,6 +177,16 @@
 	    "pkg": "deepin-desktop-environment-desktop",
 	    "git": "https://cr.deepin.io/dde/dde-desktop",
 	    "branch": "master"
+	},
+	{
+	    "pkg": "deepin-desktop-environment-dock",
+	    "git": "https://cr.deepin.io/dde/dde-dock",
+	    "branch": "master"
+	},
+	{
+	    "pkg": "deepin-desktop-environment-launcher",
+	    "git": "https://cr.deepin.io/dde/dde-launcher",
+	    "branch": "master"
 	}
     ]
 }
