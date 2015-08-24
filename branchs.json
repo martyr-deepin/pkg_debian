@@ -167,6 +167,13 @@
 	     "pkg": "deepin-desktop-schemas",
 	     "git": "https://cr.deepin.io/deepin-desktop-schemas",
 	     "branch": "master"
+	},
+	{
+	     "pkg": "libdui",
+	     "git": "https://cr.deepin.io/dde/libdui",
+	     "branch": "master"
+	}
+
 	}
     ]
 }
