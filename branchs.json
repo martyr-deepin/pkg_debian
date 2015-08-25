@@ -166,7 +166,8 @@
         {
 	     "pkg": "deepin-desktop-schemas",
 	     "git": "https://cr.deepin.io/deepin-desktop-schemas",
-	     "branch": "dev/2015"
+	     "branch": "dev/2015",
+	     "version": "0.99"
 	},
 	{
 	     "pkg": "libdui",
