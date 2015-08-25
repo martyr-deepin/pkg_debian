@@ -10,7 +10,8 @@ Homepage: http://www.deepin.org/
 
 Package: deepin-desktop-environment-desktop
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends},
+ deepin-file-manager-backend,
 Conflicts: dde-workspace (<< 2.90.5)
 Description: deepin desktop-environment - desktop module
  Deepin desktop environment 2015 - desktop module.
