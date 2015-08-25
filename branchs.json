@@ -95,8 +95,9 @@
 	},
 	{
 	    "pkg": "dde-control-center",
-	    "git": "https://cr.deepin.io/dde-control-center",
-	    "branch": "release/2.3"
+	    "git": "https://cr.deepin.io/dde/dde-control-center",
+	    "branch": "master",
+	    "version": "2.90.5"
 	},
 	{
 	    "pkg": "dde-api",
