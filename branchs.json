@@ -106,7 +106,7 @@
 	{
 	    "pkg": "dde-daemon",
 	    "git": "https://cr.deepin.io/dde-daemon",
-	    "branch": "release/3.0"
+	    "branch": "dev/2015"
 	},
 	{
 	    "pkg": "deepin-mutter",
@@ -166,7 +166,7 @@
         {
 	     "pkg": "deepin-desktop-schemas",
 	     "git": "https://cr.deepin.io/deepin-desktop-schemas",
-	     "branch": "master"
+	     "branch": "dev/2015"
 	},
 	{
 	     "pkg": "libdui",
