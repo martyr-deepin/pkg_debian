@@ -24,9 +24,9 @@
 	    "branch": "gtk3.14"
 	},
 	{
-	    "pkg": "dde-workspace",
-	    "branch": "release/3.0",
-	    "packagename": "deepin-desktop-environment"
+	    "pkg": "deepin-desktop-environment",
+	    "git": "https://cr.deepin.io/dde/dde-workspace",
+	    "branch": "remove"
 	},
 	{
 	    "pkg": "deepin-installer",
