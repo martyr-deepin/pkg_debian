@@ -1,5 +1,5 @@
 Source: deepin-desktop-environment-desktop
-Section: deepin
+Section: testing/deepin
 Priority: optional
 Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
 Build-Depends: debhelper (>= 8.0.0), pkg-config, 
@@ -11,5 +11,6 @@ Homepage: http://www.deepin.org/
 Package: deepin-desktop-environment-desktop
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Conflicts: dde-workspace (<< 2.90.5)
 Description: deepin desktop-environment - desktop module
  Deepin desktop environment 2015 - desktop module.

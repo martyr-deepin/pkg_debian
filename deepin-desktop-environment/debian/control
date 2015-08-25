@@ -1,5 +1,5 @@
 Source: deepin-desktop-environment
-Section: utils
+Section: testing/utils
 Priority: extra
 Maintainer: Li Longyu <leaeasy@gmail.com>
 Standards-Version: 3.9.5
