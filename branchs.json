@@ -100,12 +100,12 @@
 	},
 	{
 	    "pkg": "dde-api",
-	    "git": "https://cr.deepin.io/dde-api",
+	    "git": "https://cr.deepin.io/dde/dde-api",
 	    "branch": "release/3.0"
 	},
 	{
 	    "pkg": "dde-daemon",
-	    "git": "https://cr.deepin.io/dde-daemon",
+	    "git": "https://cr.deepin.io/dde/dde-daemon",
 	    "branch": "dev/2015"
 	},
 	{
@@ -120,7 +120,7 @@
 	},
 	{
 	    "pkg": "startdde",
-	    "git": "https://cr.deepin.io/startdde",
+	    "git": "https://cr.deepin.io/dde/startdde",
 	    "branch": "release/3.0"
 	},
 	{
