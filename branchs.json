@@ -24,7 +24,7 @@
 	    "branch": "gtk3.14"
 	},
 	{
-	    "pkg": "deepin-desktop-environment",
+	    "pkg": "dde-workspace",
 	    "git": "https://cr.deepin.io/dde/dde-workspace",
 	    "branch": "remove"
 	},
@@ -176,17 +176,17 @@
 	     "branch": "master"
 	},
 	{
-	    "pkg": "deepin-desktop-environment-desktop",
+	    "pkg": "dde-desktop",
 	    "git": "https://cr.deepin.io/dde/dde-desktop",
 	    "branch": "master"
 	},
 	{
-	    "pkg": "deepin-desktop-environment-dock",
+	    "pkg": "dde-dock",
 	    "git": "https://cr.deepin.io/dde/dde-dock",
 	    "branch": "master"
 	},
 	{
-	    "pkg": "deepin-desktop-environment-launcher",
+	    "pkg": "dde-launcher",
 	    "git": "https://cr.deepin.io/dde/dde-launcher",
 	    "branch": "master"
 	}
