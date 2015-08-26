@@ -173,7 +173,8 @@
 	{
 	     "pkg": "libdui",
 	     "git": "https://cr.deepin.io/dde/libdui",
-	     "branch": "master"
+	     "branch": "master",
+	     "version" : "1.1"
 	},
 	{
 	    "pkg": "dde-desktop",
