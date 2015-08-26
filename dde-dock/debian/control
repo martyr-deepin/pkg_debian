@@ -17,7 +17,7 @@ Conflicts: dde-workspace (<< 2.90.5)
 Description: deepin desktop-environment - dock module
  Deepin desktop environment 2015 - dock module.
 
-Package: dde-dev
+Package: dde-dock-dev
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: deepin desktop-environment - dock module development files
