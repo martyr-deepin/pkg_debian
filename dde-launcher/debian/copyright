@@ -1,5 +1,5 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: deepin-launcher-environment-launcher
+Upstream-Name: dde-launcher
 
 Files: *
 Copyright: 2015 Deepin Packages Builder <packages@linuxdeepin.com>

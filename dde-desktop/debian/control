@@ -1,4 +1,4 @@
-Source: deepin-desktop-environment-desktop
+Source: dde-desktop
 Section: testing/deepin
 Priority: optional
 Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
@@ -8,7 +8,7 @@ Build-Depends: debhelper (>= 8.0.0), pkg-config,
 Standards-Version: 3.9.4
 Homepage: http://www.deepin.org/
 
-Package: deepin-desktop-environment-desktop
+Package: dde-desktop
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
  deepin-file-manager-backend,

@@ -1,7 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: deepin-desktop-environment-dock
+Upstream-Name: dde-desktop
 
-Files: debian/*
+Files: *
 Copyright: 2015 Deepin Packages Builder <packages@linuxdeepin.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify

@@ -1,4 +1,4 @@
-Source: deepin-desktop-environment
+Source: dde-workspace
 Section: testing/utils
 Priority: extra
 Maintainer: Li Longyu <leaeasy@gmail.com>
@@ -6,7 +6,6 @@ Standards-Version: 3.9.5
 Homepage: http://www.linuxdeepin.com
 Build-Depends: debhelper (>= 9),
  cmake,
-# coffeescript (>> 1.6.2),
  golang-dlib-dev,
  golang-gettext-go-dev,
  golang-go,
@@ -21,12 +20,6 @@ Build-Depends: debhelper (>= 9),
  fake-node,
  pkg-config,
  python,
-
-Package: deepin-desktop-environment
-Architecture: any
-Depends: ${misc:Depends},dde-workspace
-Description: Meta Package for Deepin Desktop Environment
- Meta Package for Deepin Desktop Environment
 
 Package: dde-workspace
 Architecture: any
