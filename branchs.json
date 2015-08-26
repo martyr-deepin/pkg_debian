@@ -96,7 +96,7 @@
 	{
 	    "pkg": "dde-control-center",
 	    "git": "https://cr.deepin.io/dde/dde-control-center",
-	    "branch": "master",
+	    "branch": "dev/2015",
 	    "version": "2.90.5"
 	},
 	{
