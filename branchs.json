@@ -108,7 +108,7 @@
 	{
 	    "pkg": "dde-daemon",
 	    "git": "https://cr.deepin.io/dde/dde-daemon",
-	    "branch": "dev/2015"
+	    "branch": "release/3.0"
 	},
 	{
 	    "pkg": "deepin-mutter",
@@ -168,7 +168,7 @@
         {
 	     "pkg": "deepin-desktop-schemas",
 	     "git": "https://cr.deepin.io/deepin-desktop-schemas",
-	     "branch": "dev/2015",
+	     "branch": "release/3.0",
 	     "version": "0.99"
 	},
 	{
