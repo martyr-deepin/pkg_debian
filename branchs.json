@@ -171,6 +171,12 @@
 	     "branch": "release/3.0",
 	     "version": "0.99"
 	},
+        {
+	     "pkg": "deepin-metacity",
+	     "git": "https://cr.deepin.io/deepin-metacity",
+	     "branch": "master",
+	     "version": "3.17.20"
+	},
 	{
 	     "pkg": "libdui",
 	     "git": "https://cr.deepin.io/dde/libdui",
