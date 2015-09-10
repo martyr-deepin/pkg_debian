@@ -197,6 +197,11 @@
 	    "pkg": "dde-launcher",
 	    "git": "https://cr.deepin.io/dde/dde-launcher",
 	    "branch": "master"
+	},
+	{
+	    "pkg": "lastore-daemon",
+	    "git": "https://cr.deepin.io/lastore/lastore-daemon",
+	    "branch": "master"
 	}
     ]
 }
