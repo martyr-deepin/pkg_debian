@@ -15,3 +15,11 @@ Depends: ${shlibs:Depends},
 Conflicts: deepin-session
 Description: daemon of lastore
  support dbus interface
+
+Package: lastore-daemon-dev
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends},
+ lastore-daemon (= ${binary:Version})
+Conflicts: deepin-session
+Description: daemon of lastore - development files.
+ support dbus interface - development files.
