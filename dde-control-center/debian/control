@@ -23,6 +23,7 @@ Depends: ${shlibs:Depends},
  dde-daemon,
  dde-api,
  deepin-artwork-themes,
+ libqt5multimedia5-plugins,
  xkb-data,
  tzdata-l10n,
 Description: New control center for linux deepin
