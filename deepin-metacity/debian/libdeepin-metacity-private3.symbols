@@ -1,4 +1,4 @@
-libdeepin-metacity-private.so.3 libmetacity-private3 #MINVER#
+libdeepin-metacity-private.so.3 libdeepin-metacity-private3 #MINVER#
  __window_is_terminal@Base 3.17.1
  ag_Xmalloc0@Base 3.17.1
  ag_Xmalloc@Base 3.17.1
