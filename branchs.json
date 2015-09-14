@@ -202,6 +202,11 @@
 	    "pkg": "lastore-daemon",
 	    "git": "https://cr.deepin.io/lastore/lastore-daemon",
 	    "branch": "master"
+	},
+	{
+	    "pkg": "dstore-client",
+	    "git": "https://cr.deepin.io/dstore/dstore-client",
+	    "branch": "master"
 	}
     ]
 }
