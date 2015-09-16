@@ -15,6 +15,7 @@ Homepage: http://github.com/linuxdeepin/startdde
 
 Package: startdde
 Architecture: any
+Provides: x-session-manager
 Depends: ${shlibs:Depends},
  ${misc:Depends},
  dde-daemon (>= 2.92.2),
