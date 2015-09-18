@@ -1,4 +1,12 @@
 #!/usr/bin/make -f
+export QT_SELECT = qt5
+include /usr/share/dpkg/default.mk
+ARCH := $(shell dpkg-architecture -qDEB_BUILD_ARCH)
 
 %:
 	dh $@
+
+ifeq ($(ARCH), alpha)
+override_dh_auto_configure:
+	dh_auto_configure -- WITHOUT_MODULE_GRUB=YES
+endif
