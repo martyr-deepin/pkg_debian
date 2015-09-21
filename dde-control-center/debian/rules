@@ -4,7 +4,7 @@ include /usr/share/dpkg/default.mk
 ARCH := $(shell dpkg-architecture -qDEB_BUILD_ARCH)
 
 %:
-	dh $@
+	dh $@ --parallel
 
 ifeq ($(ARCH), alpha)
 override_dh_auto_configure:
