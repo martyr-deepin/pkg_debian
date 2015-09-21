@@ -12,6 +12,7 @@ Build-Depends: debhelper (>= 9),
  dde-dock-dev,
  libdui-dev (>> 1.1),
  qtmultimedia5-dev,
+ libqt5svg5-dev,
 Standards-Version: 3.9.5
 Homepage: http://gitcafe.com/Deepin/dde-control-center.git
 
