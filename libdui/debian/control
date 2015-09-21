@@ -9,9 +9,17 @@ Package: libdui
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: libdui package head files.
+Description: Deepin graphical user interface library
+ DUI is Deepin graphical user interface for deepin desktop development.
+ .
+ This package contains the shared libraries.
+ 
 
 Package: libdui-dev
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends},libdui( =${binary:Version})
-Description: libdui package  libs .
+Description: Deepin graphical user interface library
+ DUI is Deepin graphical user interface for deepin desktop development.
+ .
+ This package contains the header files and static libraries which are
+ needed for developing DUI applications.
