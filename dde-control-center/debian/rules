@@ -8,5 +8,5 @@ ARCH := $(shell dpkg-architecture -qDEB_BUILD_ARCH)
 
 ifeq ($(ARCH), alpha)
 override_dh_auto_configure:
-	dh_auto_configure -- WITHOUT_MODULE_GRUB=YES
+	dh_auto_configure -- WITH_MODULE_GRUB=NO
 endif
