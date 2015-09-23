@@ -16,4 +16,5 @@ Depends: ${misc:Depends},
  python-wnck,
  python-xpybutil,
  deepin-social-sharing
+Recommends: deepin-manual
 Description: Advanced screen shoting tool
