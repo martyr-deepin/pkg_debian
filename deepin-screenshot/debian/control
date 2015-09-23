@@ -23,4 +23,5 @@ Depends: ${misc:Depends},
  deepin-social-sharing,
  deepin-menu,
  deepin-qml-widgets,
+Recommends: deepin-manual
 Description: Advanced screen shoting tool
