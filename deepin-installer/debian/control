@@ -38,6 +38,8 @@ Depends: ${shlibs:Depends}, libdeepin-webkit-3.0-0,
  hfsprogs,
  tzdata,
  dmidecode,
- gdisk
+ gdisk,
+ python,
+ dde-daemon
 Description: New installer for linuxdeepin
  New installer for Linuxdeepin. 
