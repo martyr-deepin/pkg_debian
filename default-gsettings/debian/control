@@ -1,0 +1,13 @@
+Source: deepin-default-gsettings
+Section: admin
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: https://github.com/linuxdeepin/default-gsettings.git
+
+Package: deepin-default-gsettings
+Architecture: all
+Depends: ${misc:Depends}
+Description: deepin default settings of gsettings
+ This package contails gsettings override to config the system to deepin default.

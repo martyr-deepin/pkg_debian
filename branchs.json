@@ -204,6 +204,11 @@
 	    "branch": "master"
 	},
 	{
+	    "pkg": "deepin-default-gsettings",
+	    "git": "https://cr.deepin.io/default-gsettings",
+	    "branch": "develop"
+	},
+	{
 	    "pkg": "dstore-client",
 	    "git": "https://cr.deepin.io/dstore/dstore-client",
 	    "branch": "master"
