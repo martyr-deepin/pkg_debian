@@ -9,6 +9,7 @@ Build-Depends: debhelper (>= 9),
  libgtk-3-dev,
  golang-go-sqlite3-dev,
  dde-api-dev,
+ dde-go-dbus-factory,
 Standards-Version: 3.9.5
 Homepage: http://www.linuxdeepin.com
 
