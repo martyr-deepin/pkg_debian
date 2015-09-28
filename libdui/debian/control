@@ -17,7 +17,8 @@ Description: Deepin graphical user interface library
 
 Package: libdui-dev
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libdui( =${binary:Version})
+Depends: ${shlibs:Depends}, ${misc:Depends}, libdui( =${binary:Version}), qtdeclarative5-dev, 
+ qtmultimedia5-dev, libqt5x11extras5-dev
 Description: Deepin graphical user interface library
  DUI is Deepin graphical user interface for deepin desktop development.
  .
