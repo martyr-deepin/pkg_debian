@@ -2,14 +2,14 @@ Source: startdde
 Section: admin
 Priority: extra
 Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
-Build-Depends: debhelper (>= 9), cmake, pkg-config, golang-go, coffeescript,
+Build-Depends: debhelper (>= 9),  pkg-config, golang-go, coffeescript,
  libsqlite3-dev,
  libwebkitgtk-3.0-dev,
  golang-dlib-dev,
  golang-xgbutil-dev,
  golang-fsnotify.howeyc-dev,
  dde-go-dbus-factory(>= 0.6.1),
- libdeepin-webkit-3.0-0, libgail-3-dev, libgstreamer-plugins-base0.10-dev,
+# libdeepin-webkit-3.0-0, libgail-3-dev, libgstreamer-plugins-base0.10-dev,
 Standards-Version: 3.9.5
 Homepage: http://github.com/linuxdeepin/startdde
 
