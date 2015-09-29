@@ -1,17 +1,18 @@
-Source: dde-launcher
+Source: dde-session-ui
 Section: dde
 Priority: optional
 Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
 Build-Depends: debhelper (>= 8.0.0), pkg-config, 
  qt5-qmake, qt5-default,
  libxcb-ewmh-dev, libqt5x11extras5-dev,
- libqt5svg5-dev, libgtk2.0-dev, libgsettings-qt-dev,
+ libgsettings-qt-dev, libqt5svg5-dev,
+ libgtk2.0-dev
 Standards-Version: 3.9.4
 Homepage: http://www.deepin.org/
 
-Package: dde-launcher
+Package: dde-session-ui
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends},
 Conflicts: dde-workspace (<< 2.90.5)
-Description: deepin desktop-environment - launcher module
- Deepin desktop environment 2015 - launcher module.
+Description: deepin desktop-environment - dde-session-ui module
+ Deepin desktop environment 2015 - dde-session-ui module.
