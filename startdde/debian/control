@@ -22,9 +22,9 @@ Depends: ${shlibs:Depends},
  dde-workspace,
  gvfs-bin,
  libgnome2-bin,
- deepin-wm | deepin-compiz | compiz,
+ deepin-wm | deepin-metacity,
  deepin-desktop-schemas,
 Conflicts: deepin-session
-Breaks: startdde(<< 2.91.0)
+Breaks: startdde(<= 2.91.1)
 Description: starter of deepin desktop environment
  starter of deepin desktop environment.
