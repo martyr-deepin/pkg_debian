@@ -212,6 +212,11 @@
 	    "pkg": "dstore-client",
 	    "git": "https://cr.deepin.io/dstore/dstore-client",
 	    "branch": "master"
+	},
+	{
+	    "pkg": "dde-session-ui",
+	    "git": "https://cr.deepin.io/dde/dde-session-ui",
+	    "branch": "master"
 	}
     ]
 }
