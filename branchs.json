@@ -113,7 +113,7 @@
 	{
 	    "pkg": "deepin-mutter",
 	    "git": "https://cr.deepin.io/deepin-mutter",
-	    "branch": "release/3.14"
+	    "branch": "release/3.16"
 	},
 	{
 	    "pkg": "deepin-notifications",
