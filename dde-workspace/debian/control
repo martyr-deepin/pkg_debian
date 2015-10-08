@@ -25,7 +25,6 @@ Package: dde-workspace
 Architecture: any
 Depends: ${shlibs:Depends},
          ${misc:Depends},
-         dde-dock-applets,
          deepin-menu,
          libdeepin-webkit-3.0-0,
          deepin-nautilus-properties,
