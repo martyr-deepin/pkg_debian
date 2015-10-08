@@ -25,7 +25,7 @@
     },
     {
         "pkg": "dde-control-center",
-        "branch": "release/3.0",
+        "branch": "release/2.3",
         "packagename": "dde-control-center"
     },
     {
