@@ -24,14 +24,14 @@ Build-Depends: debhelper (>= 9),
 Package: dde-workspace
 Architecture: any
 Depends: ${shlibs:Depends},
-         ${misc:Depends},
-         deepin-menu,
-         libdeepin-webkit-3.0-0,
-         deepin-nautilus-properties,
-         startdde(>= 2.91.0),
-         dde-daemon(>= 2.92.1),
-         deepin-desktop-schemas,
-         lightdm,
+ ${misc:Depends},
+ deepin-menu,
+ libdeepin-webkit-3.0-0,
+ deepin-nautilus-properties,
+ startdde(>= 2.91.0),
+ dde-daemon(>= 2.92.1),
+ deepin-desktop-schemas,
+ lightdm,
 Recommends: dde-control-center
 Description: deepin desktop envrionment for Linuxdeepin new desktop environment.
  deepin desktop envrionment for Linuxdeepin new desktop environment.
