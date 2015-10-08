@@ -36,7 +36,6 @@ Depends: ${shlibs:Depends},
  acpid,
  upower,
  bluez5 | bluez (>=5.4),
- grub-themes-deepin,
  network-manager,
  network-manager-pptp,
  network-manager-l2tp,
@@ -44,12 +43,18 @@ Depends: ${shlibs:Depends},
  network-manager-openvpn,
  network-manager-vpnc,
  xcur2png,
- xserver-xorg-input-wacom,
  iso-codes,
- mobile-broadband-provider-info,
  policykit-1-gnome,
  deepin-desktop-schemas,
 Breaks: dde-daemon(<< 2.92.2)
+Recommends: network-manager-pptp,
+ network-manager-l2tp,
+ network-manager-openconnect,
+ network-manager-openvpn,
+ network-manager-vpnc,
+ xserver-xorg-input-wacom,
+ mobile-broadband-provider-info,
+Suggests: grub-themes-deepin
 Description: daemon handling the DDE session settings
     This package contains the daemon which is responsible for setting the
     various parameters of a DDE session and the applications that run
