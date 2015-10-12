@@ -21,7 +21,7 @@
 	},
 	{
 	    "pkg": "deepin-gtk-theme",
-	    "branch": "gtk3.14"
+	    "branch": "gtk3.18"
 	},
 	{
 	    "pkg": "dde-workspace",
