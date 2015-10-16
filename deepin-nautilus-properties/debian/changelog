@@ -1,4 +1,4 @@
-deepin-nautilus-properties (3.18.0-2) unstable; urgency=medium
+deepin-nautilus-properties (3.14.2-2) unstable; urgency=medium
 
   * Need gnome-desktop-3-10 to 3-12. add libnautilus-extension-dev build dep.
 
