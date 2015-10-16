@@ -215,6 +215,11 @@
 	    "branch": "master"
 	},
 	{
+	    "pkg": "deepin-nautilus-properties",
+	    "git": "https://cr.deepin.io/deepin-nautilus-properties",
+	    "branch": "master"
+	},
+	{
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui",
 	    "branch": "master"
