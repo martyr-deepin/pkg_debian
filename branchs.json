@@ -67,7 +67,7 @@
 	{
 	    "pkg": "deepin-menu",
 	    "git": "https://cr.deepin.io/deepin-menu",
-	    "branch": "release/2.3"
+	    "branch": "release/3.0"
 	},
 	{
 	    "pkg": "deepin-manual",
