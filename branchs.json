@@ -207,14 +207,13 @@
 	{
 	    "pkg": "deepin-default-gsettings",
 	    "git": "https://cr.deepin.io/default-gsettings",
-	    "branch": "develop",
-	    "package_host": "ppa/dstore"
+	    "branch": "develop"
 	},
 	{
 	    "pkg": "dstore-client",
 	    "git": "https://cr.deepin.io/dstore/dstore-client",
 	    "branch": "master",
-	    "package_host": "ppa/dstore"
+	    "package_host": "dstore"
 	},
 	{
 	    "pkg": "deepin-nautilus-properties",
