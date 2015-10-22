@@ -6,7 +6,7 @@ LDFLAGS += -Wl,-z,defs -Wl,-O1 -Wl,--as-needed
 
 
 override_dh_autoreconf:
-	dh_autoreconf ./autogen.sh
+	NOCONFIGURE=yes ./autogen.sh
 
 override_dh_strip:
 	dh_strip --dbg-package=deepin-metacity-dbg
