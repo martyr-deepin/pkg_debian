@@ -202,7 +202,8 @@
 	{
 	    "pkg": "lastore-daemon",
 	    "git": "https://cr.deepin.io/lastore/lastore-daemon",
-	    "branch": "master"
+	    "branch": "master",
+	    "package_host": "dstore"
 	},
 	{
 	    "pkg": "deepin-default-gsettings",
