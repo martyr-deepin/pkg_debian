@@ -62,7 +62,7 @@
 	{
 	    "pkg": "deepin-wm",
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-wm",
-	    "branch": "release/1.0"
+	    "branch": "master"
 	},
 	{
 	    "pkg": "deepin-menu",
