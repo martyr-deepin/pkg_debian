@@ -1,3 +1,2 @@
 usr/
-etc/
 debian/30-deepin-inotify-limit.conf etc/sysctl.d/
