@@ -222,6 +222,11 @@
 	    "branch": "master"
 	},
 	{
+	    "pkg": "deepin-sound-theme",
+	    "git": "https://cr.deepin.io/deepin-sound-theme",
+	    "branch": "master"
+	},
+	{
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui",
 	    "branch": "master"
