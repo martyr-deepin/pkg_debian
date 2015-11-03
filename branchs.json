@@ -169,8 +169,7 @@
         {
 	     "pkg": "deepin-desktop-schemas",
 	     "git": "https://cr.deepin.io/deepin-desktop-schemas",
-	     "branch": "release/3.0",
-	     "version": "0.99"
+	     "branch": "master",
 	},
         {
 	     "pkg": "deepin-metacity",
