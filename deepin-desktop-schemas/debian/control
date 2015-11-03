@@ -11,9 +11,11 @@ Section: misc
 Architecture: all
 Depends: ${misc:Depends},
          ${shlibs:Depends}
+#Conflicts: deepin-default-gsettings
 Breaks: dde-daemon (<< 2.92.2),
         startdde (<< 2.91.0),
-        deepin-wm (<< 0.2.1)
+        deepin-wm (<< 0.2.1),
+        deepin-default-gsettings
 Description: GSettings deepin desktop-wide schemas
  deepin-desktop-schemas contains a collection of GSettings schemas for
  settings shared by various components of a desktop.
