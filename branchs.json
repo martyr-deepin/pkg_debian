@@ -72,7 +72,7 @@
 	{
 	    "pkg": "deepin-manual",
 	    "git": "https://cr.deepin.io/deepin-manual",
-	    "branch": "develop"
+	    "branch": "release/1.0"
 	},
 	{
 	    "pkg": "deepin-ui",
@@ -169,8 +169,7 @@
         {
 	     "pkg": "deepin-desktop-schemas",
 	     "git": "https://cr.deepin.io/deepin-desktop-schemas",
-	     "branch": "release/3.0",
-	     "version": "0.99"
+	     "branch": "master"
 	},
         {
 	     "pkg": "deepin-metacity",
