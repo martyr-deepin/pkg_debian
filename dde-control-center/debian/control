@@ -26,6 +26,7 @@ Depends: ${shlibs:Depends},
  dde-qml-dbus-factory(>= 0.6.1),
  deepin-artwork-themes,
  libqt5multimedia5-plugins,
+ gstreamer1.0-plugins-bad,
  xkb-data,
  tzdata-l10n,
 Description: New control center for linux deepin
