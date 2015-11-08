@@ -4,7 +4,7 @@ Priority: extra
 Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
 Build-Depends: debhelper (>= 9), pkg-config, golang-go, 
  golang-dlib-dev,
- golang-xgbutil-dev,
+ deepin-gettext-tools,
 Standards-Version: 0.1
 Homepage: http://github.com/linuxdeepin/lastore
 
@@ -12,7 +12,6 @@ Package: lastore-daemon
 Architecture: any
 Depends: ${shlibs:Depends},
  ${misc:Depends},
-Conflicts: deepin-session
 Description: daemon of lastore
  support dbus interface
 
@@ -20,6 +19,5 @@ Package: lastore-daemon-dev
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends},
  lastore-daemon (= ${binary:Version})
-Conflicts: deepin-session
 Description: daemon of lastore - development files.
  support dbus interface - development files.
