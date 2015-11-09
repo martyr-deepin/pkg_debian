@@ -210,8 +210,8 @@
 	    "branch": "develop"
 	},
 	{
-	    "pkg": "dstore-client",
-	    "git": "https://cr.deepin.io/dstore/dstore-client",
+	    "pkg": "deepin-appstore",
+	    "git": "https://cr.deepin.io/dstore/deepin-appstore",
 	    "branch": "master",
 	    "package_host": "dstore"
 	},
