@@ -7,7 +7,7 @@ override_dh_auto_configure:
 	./autogen.sh --prefix=/usr \
 		--libexecdir=/usr/lib/deepin-mutter \
 		--sysconfdir=/etc \
-		--enable-gtk-doc \
+		--disable-gtk-doc \
 		--disable-schemas-compile \
 		--enable-wayland \
 		--enable-native-backend \
