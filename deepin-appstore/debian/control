@@ -9,9 +9,9 @@ Build-Depends:
  libqt5webkit5-dev, libqt5x11extras5-dev,
  lastore-daemon-dev, libdui-dev,
 Standards-Version: 3.9.5
-Homepage: https://gitcafe.com/Deepin/dstore-client/
-Vcs-Git: git://gitcafe.com/Deepin/dstore-client.git
-Vcs-Browser: https://gitcafe.com/Deepin/dstore-client/
+Homepage: https://gitcafe.com/Deepin/deepin-appstore/
+Vcs-Git: git://gitcafe.com/Deepin/deepin-appstore.git
+Vcs-Browser: https://gitcafe.com/Deepin/deepin-appstore
 
 Package: deepin-appstore
 Architecture: any
