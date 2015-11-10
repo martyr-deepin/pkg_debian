@@ -19,5 +19,6 @@ Depends:${shlibs:Depends}, ${misc:Depends},
  libglib2.0-0, libdui,
  libqt5webkit5, libqt5x11extras5, libqt5dbus5,
  lastore-daemon, libqt5xcbqpa5, deepin-appstore-data
+Conflicts: dstore-client
 Description: Deepin App Store
  Deepin App Store Client.
