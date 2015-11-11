@@ -9,7 +9,6 @@ Build-Depends: debhelper (>= 9),  pkg-config, golang-go, coffeescript,
  golang-xgbutil-dev,
  golang-fsnotify.howeyc-dev,
  dde-go-dbus-factory(>= 0.6.1),
-# libdeepin-webkit-3.0-0, libgail-3-dev, libgstreamer-plugins-base0.10-dev,
 Standards-Version: 3.9.5
 Homepage: http://github.com/linuxdeepin/startdde
 
@@ -19,12 +18,11 @@ Provides: x-session-manager
 Depends: ${shlibs:Depends},
  ${misc:Depends},
  dde-daemon (>= 2.92.2),
- dde-workspace,
  gvfs-bin,
  libgnome2-bin,
  deepin-wm | deepin-metacity,
  deepin-desktop-schemas,
-Conflicts: deepin-session
-Breaks: startdde(<= 2.91.1)
+Conflicts: deepin-session, dde-workspace
+Breaks: startdde(<= 2.91.1), dde-workspace
 Description: starter of deepin desktop environment
  starter of deepin desktop environment.
