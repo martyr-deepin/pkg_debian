@@ -12,7 +12,7 @@ Homepage: http://www.deepin.org/
 Package: dde-session-ui
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
-Conflicts: dde-workspace (<< 2.90.6)
-Breaks: dde-workspace (<< 2.90.6)
+Conflicts: dde-workspace (<< 2.90.6), startdde (<< 2.91.1)
+Breaks: dde-workspace (<< 2.90.6), startdde(<< 2.91.1)
 Description: deepin desktop-environment - dde-session-ui module
  Deepin desktop environment 2015 - dde-session-ui module.
