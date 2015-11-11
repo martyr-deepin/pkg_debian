@@ -44,7 +44,8 @@ Depends: ${shlibs:Depends},
  policykit-1-gnome,
  deepin-metacity,
  deepin-desktop-schemas,
-Breaks: dde-daemon(<< 2.92.2)
+Breaks: dde-daemon(<< 2.92.2), dde-workspace
+Conflicts: dde-workspace
 Recommends: network-manager-pptp,
  network-manager-l2tp,
  network-manager-openconnect,
