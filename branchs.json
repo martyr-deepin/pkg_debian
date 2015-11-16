@@ -104,7 +104,7 @@
 	    "pkg": "dde-api",
 	    "git": "https://cr.deepin.io/dde/dde-api",
 	    "branch": "release/3.0",
-	    "trigger": ["deepin-file-manager"]
+	    "trigger": ["deepin-file-manager", "dde-daemon"]
 	},
 	{
 	    "pkg": "dde-daemon",
