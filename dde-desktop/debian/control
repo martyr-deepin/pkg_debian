@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 8.0.0), pkg-config,
  qt5-qmake, qt5-default, qtbase5-dev,
  libxcb-ewmh-dev, libqt5x11extras5-dev,
  libgsettings-qt-dev, libqt5svg5-dev,
- libgtk2.0-dev
+ libgtk2.0-dev, libdui-dev
 Standards-Version: 3.9.4
 Homepage: http://www.deepin.org/
 
