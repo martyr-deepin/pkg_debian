@@ -1,4 +1,4 @@
 #!/bin/sh
 set -e
 
-/usr/bin/lastore-tools -item desktop -output /var/lib/lastore/index || true
+/usr/bin/lastore-tools -item desktop -output /var/lib/lastore/ || true
