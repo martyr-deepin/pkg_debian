@@ -29,6 +29,7 @@ Depends: ${shlibs:Depends},
  libqt5multimedia5-plugins,
  gstreamer1.0-plugins-bad,
  xkb-data,
+ deepin-remote-assistance,
  tzdata-l10n,
 Description: New control center for linux deepin
  New control center for linux deepin
