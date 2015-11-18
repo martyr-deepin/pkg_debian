@@ -39,6 +39,11 @@
         "packagename": "dde-dock-applets"
     },
     {
+        "pkg": "deepin-store",
+        "branch": "2014.3",
+        "packagename": "deepin-software-center"
+    },
+    {
         "pkg": "deepin-feedback",
         "branch": "release/2014.3",
         "packagename": "deepin-feedback"
