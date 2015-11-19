@@ -9,4 +9,7 @@ ARCH := $(shell dpkg-architecture -qDEB_BUILD_ARCH)
 ifeq ($(ARCH), alpha)
 override_dh_auto_configure:
 	dh_auto_configure -- WITH_MODULE_GRUB=NO
+else
+override_dh_auto_configure:
+	dh_auto_configure -- QMAKE_CC=clang QMAKE_CXX=clang++
 endif
