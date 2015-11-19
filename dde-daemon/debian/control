@@ -25,6 +25,7 @@ Build-Depends: debhelper (>= 9),
  golang-imaging.disintegration-dev,
  libfontconfig1-dev,
  golang-goconvey-dev,
+ libcanberra-dev,
  dde-api-dev,
 Standards-Version: 3.9.5
 Homepage: http://www.linuxdeepin.com
