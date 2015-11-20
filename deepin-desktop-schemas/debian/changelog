@@ -1,3 +1,9 @@
+deepin-desktop-schemas (2.90.0-1) stable; urgency=low
+
+  * Autobuild Tag 2.90.0 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Fri, 20 Nov 2015 09:20:38 +0000
+
 deepin-desktop-schemas (0.0.1-1) unstable; urgency=medium
 
  * Rewrite makefile, check schemas validity

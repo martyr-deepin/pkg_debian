@@ -1,3 +1,9 @@
+deepin-manual (1.0.1-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Fri, 20 Nov 2015 09:50:19 +0000
+
 deepin-manual (1.0.0-1) stable; urgency=low
 
   * Autobuild Tag 1.0.0 

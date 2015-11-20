@@ -1,6 +1,5 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: go-dlib
-Source: http://github.com:linuxdeepin/go-lib.git
+Upstream-Name: deepin-file-manager
 
 Files: *
 Copyright: 2013 Deepin <linuxdeepin@linuxdeepin.com>

@@ -3,8 +3,8 @@ Section: devel
 Priority: extra
 Maintainer: 宋文武 <songwenwu@linuxdeepin.com>
 Build-Depends: debhelper (>= 9), golang-go,  dh-golang,
-               golang-dlib-dev(>= 0.4.0), golang-gocheck-dev,
-               qt5-default, qt5-qmake, qtdeclarative5-dev
+ golang-dlib-dev(>= 0.4.2), golang-gocheck-dev,
+ qt5-default, qt5-qmake, qtdeclarative5-dev
 Standards-Version: 3.9.5
 Homepage: http://www.linuxdeepin.com
 
@@ -12,3 +12,6 @@ Package: dbus-generator
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
 Description: static dbus binding generator for dlib
+ go-dbus-generate is a static dbus binding tool. 
+ .
+ Currently, it support QDBus target and golang target with pkg.deepin.io/lib/dbus. 

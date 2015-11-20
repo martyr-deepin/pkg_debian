@@ -1,3 +1,15 @@
+dde-daemon (2.93.1-1) stable; urgency=low
+
+  * Autobuild Tag 2.93.1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Fri, 20 Nov 2015 10:04:52 +0000
+
+dde-daemon (2.93.0-1) stable; urgency=low
+
+  * Autobuild Tag 2.93.0 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Fri, 20 Nov 2015 09:22:43 +0000
+
 dde-daemon (2.92.2-1) stable; urgency=low
 
   * Autobuild Tag 2.92.2 

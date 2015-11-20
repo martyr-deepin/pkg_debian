@@ -1,3 +1,9 @@
+deepin-notifications (2.3.3-1) stable; urgency=low
+
+  * Autobuild Tag 2.3.3 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Thu, 19 Nov 2015 19:58:19 +0000
+
 deepin-notifications (2.3.1-1) stable; urgency=low
 
   * Autobuild Tag 2.3.1 

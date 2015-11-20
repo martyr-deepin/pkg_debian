@@ -1,3 +1,9 @@
+dde-control-center (2.91.1-1) stable; urgency=low
+
+  * Autobuild Tag 2.91.1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Fri, 20 Nov 2015 09:52:29 +0000
+
 dde-control-center (2.90.1+r1494~g999cab5) experimental; urgency=low
 
   ** Build revision: 999cab57c67c88f9a9065963c61c0cd262897918  @  origin/release/2.3 **

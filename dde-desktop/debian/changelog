@@ -1,3 +1,9 @@
+dde-desktop (2.90.2-1) stable; urgency=low
+
+  * Autobuild Tag 2.90.2 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Fri, 20 Nov 2015 09:46:23 +0000
+
 dde-desktop (0.0~git20150824-1) unstable; urgency=low
 
   * Initial release.

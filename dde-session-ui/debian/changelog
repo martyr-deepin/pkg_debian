@@ -1,3 +1,9 @@
+dde-session-ui (2.90.1-1) stable; urgency=low
+
+  * Autobuild Tag 2.90.1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Fri, 20 Nov 2015 09:47:11 +0000
+
 dde-session-ui (0.0~git20150824-1) unstable; urgency=low
 
   * Initial release.

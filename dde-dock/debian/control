@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 8.0.0), pkg-config,
  libgtk2.0-dev,
  libxcb-ewmh-dev, libqt5x11extras5-dev,
  libxcb-damage0-dev, libqt5svg5-dev,
- libdui-dev
+ libdui-dev(>=1.2.1)
 Standards-Version: 3.9.4
 Homepage: http://www.deepin.org/
 

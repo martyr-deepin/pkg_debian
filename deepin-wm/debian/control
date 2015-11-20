@@ -18,11 +18,11 @@ Build-Depends: debhelper (>= 9),
                libdeepin-mutter-dev (>= 3.8.4),
                valac (>= 0.22.0)
 Standards-Version: 3.9.5
-Homepage: https://gitcafe.com/Deepin/deepin-wm https://launchpad.net/gala
+Homepage: https://gitcafe.com/Deepin/deepin-wm
 
 Package: deepin-wm
 Architecture: any
-Depends: deepin-desktop-schemas,
+Depends: deepin-desktop-schemas (>> 2.90.0),
          libdeepin-wm0 (= ${binary:Version}),
          ${misc:Depends},
          ${shlibs:Depends}

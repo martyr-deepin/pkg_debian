@@ -1,3 +1,9 @@
+deepin-remote-assistance (1.0.0-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.0 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Fri, 20 Nov 2015 09:51:18 +0000
+
 deepin-remote-assistance (1.0.0+20150608095318~ebb0aabedd) trusty; urgency=medium
 
   * Build from git ebb0aabeddf7b4227fa4f308013bf5ba5f941e0f

@@ -1,3 +1,9 @@
+deepin-installer (1.3.10-1) unstable; urgency=low
+
+  * Autobuild Tag 1.3.10 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Fri, 20 Nov 2015 10:04:38 +0000
+
 deepin-installer (1.3.6-1) stable; urgency=low
 
   * Autobuild Tag 1.3.6 
