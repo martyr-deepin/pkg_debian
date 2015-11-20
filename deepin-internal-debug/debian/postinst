@@ -1,0 +1,14 @@
+#!/bin/sh
+
+set -e
+
+sysctl -p /etc/sysctl.d/99-debug.conf
+
+if ! grep -q 'source /etc/profile' /etc/zsh/zprofile; then
+    echo "emulate sh -c 'source /etc/profile'" >> /etc/zsh/zprofile
+fi
+
+mkdir -p /var/debug
+chmod a+rwx /var/debug
+
+#DEBHELPER#

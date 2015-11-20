@@ -242,6 +242,11 @@
 	    "branch": "master"
 	},
 	{
+	    "pkg": "deepin-internal-debug",
+	    "git": "https://cr.deepin.io/deepin-internal-debug",
+	    "branch": "master"
+	},
+	{
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui",
 	    "branch": "master"
