@@ -7,7 +7,7 @@ Build-Depends:
  cmake, pkg-config,
  libglib2.0-dev,
  libqt5webkit5-dev, libqt5x11extras5-dev,
- lastore-daemon-dev, libdui-dev,
+ lastore-daemon-dev,
 Standards-Version: 3.9.5
 Homepage: https://gitcafe.com/Deepin/deepin-appstore/
 Vcs-Git: git://gitcafe.com/Deepin/deepin-appstore.git
@@ -16,7 +16,7 @@ Vcs-Browser: https://gitcafe.com/Deepin/deepin-appstore
 Package: deepin-appstore
 Architecture: any
 Depends:${shlibs:Depends}, ${misc:Depends},
- libglib2.0-0, libdui,
+ libglib2.0-0,
  libqt5webkit5, libqt5x11extras5, libqt5dbus5,
  lastore-daemon, libqt5xcbqpa5, deepin-appstore-data
 Replaces: dstore-client
