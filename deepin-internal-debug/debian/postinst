@@ -4,8 +4,10 @@ set -e
 
 sysctl -p /etc/sysctl.d/99-debug.conf
 
-if ! grep -q 'source /etc/profile' /etc/zsh/zprofile; then
-    echo "emulate sh -c 'source /etc/profile'" >> /etc/zsh/zprofile
+if [ -f /etc/zsh/zprofile ]; then
+    if ! grep -q 'source /etc/profile' /etc/zsh/zprofile; then
+        echo "emulate sh -c 'source /etc/profile'" >> /etc/zsh/zprofile
+    fi
 fi
 
 mkdir -p /var/debug
