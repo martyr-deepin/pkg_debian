@@ -1,3 +1,9 @@
+dde-api (2.92.1-2) stable; urgency=low
+
+  * Rebuild Version 2.92.1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Mon, 23 Nov 2015 10:22:14 +0000
+
 dde-api (2.92.1-1) stable; urgency=low
 
   * Autobuild Tag 2.92.1 
