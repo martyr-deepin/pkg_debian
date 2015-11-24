@@ -2,10 +2,7 @@ Source: deepin-manual
 Maintainer: Xinkai Chen <chenxinkai@linuxdeepin.com>
 Section: python
 Priority: optional
-Build-Depends:
- debhelper,
- libjs-dmanual-dev,
- python3, ruby-sass
+Build-Depends: libjs-dmanual-dev, python3, ruby-sass
 Standards-Version: 3.9.5
 Homepage: https://gitcafe.com/Deepin/deepin-manual/
 Vcs-Git: git://gitcafe.com/Deepin/deepin-manual.git
@@ -13,7 +10,9 @@ Vcs-Browser: https://gitcafe.com/Deepin/deepin-manual/
 
 Package: deepin-manual
 Architecture: all
+Depends: ${misc: Depends}, python3-dae, python3-gi, 
+ python3-jieba, deepin-qml-widgets, python3-pyqt5.qtwebkit, 
+ python3-pyqt5.qtquick,
+Recommends: dde-help
 Description: Deepin Manual
-Depends:
- python3-dae, python3-gi, python3-jieba, deepin-qml-widgets,
- python3-pyqt5.qtwebkit, python3-pyqt5.qtquick,
+ Deepin User Manual
