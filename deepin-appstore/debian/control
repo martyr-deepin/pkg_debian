@@ -22,3 +22,8 @@ Depends:${shlibs:Depends}, ${misc:Depends},
 Replaces: dstore-client
 Description: Deepin App Store
  Deepin App Store Client.
+
+Package: deepin-appstore-data
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: deepin appstore data file.
