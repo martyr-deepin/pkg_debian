@@ -10,7 +10,6 @@ override_dh_shlibdeps:
 
 override_dh_auto_install:
 	dh_auto_install --destdir=debian/tmp
-	find debian/tmp -name "*.coffee" -exec rm -f {} \;
 
 override_dh_strip:
 	true
