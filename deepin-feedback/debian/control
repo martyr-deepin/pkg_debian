@@ -18,7 +18,7 @@ Build-Depends: debhelper (>= 9),
 Standards-Version: 3.9.5
 
 Package: deepin-feedback
-Architecture: all
+Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
  dde-qml-dbus-factory, qml-module-qtquick-dialogs, rfkill, lshw, wireless-tools, gzip, efibootmgr, deepin-qml-widgets
 Description: report crash information to deepin for debugging
