@@ -7,7 +7,7 @@ Build-Depends:
  cmake, pkg-config,
  libglib2.0-dev,
  libqt5webkit5-dev, libqt5x11extras5-dev,
- lastore-daemon-dev,
+ lastore-daemon-dev,wget,ca-certificates,
 Standards-Version: 3.9.5
 Homepage: https://gitcafe.com/Deepin/deepin-appstore/
 Vcs-Git: git://gitcafe.com/Deepin/deepin-appstore.git
