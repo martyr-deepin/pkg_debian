@@ -3,3 +3,4 @@
 /usr/share/locale
 /etc
 /var/lib/lastore
+/usr/share/update-notifier/notify-reboot-required
