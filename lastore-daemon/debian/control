@@ -14,6 +14,7 @@ Depends: ${shlibs:Depends},
  ${misc:Depends},
 Description: daemon of lastore
  support dbus interface
+Provides: update-notifier
 
 Package: lastore-daemon-dev
 Architecture: all

@@ -1,4 +1,7 @@
 #!/bin/sh
 set -e
 
+
 /usr/bin/test -e /usr/bin/lastore-tools && /usr/bin/lastore-tools -item desktop -output /var/lib/lastore/ || true
+
+/usr/bin/test -e /usr/bin/update-notifier/notify-reboot-required && /usr/bin/update-notifier/notify-reboot-required || true
