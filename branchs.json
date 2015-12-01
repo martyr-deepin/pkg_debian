@@ -63,7 +63,7 @@
 	 "packagename": "deepin-terminal"
     },
     {
-         "pkg": "dde-workspace",
+         "pkg": "deepin-desktop-environment",
          "branch": "maintain/2014",
 	 "packagename": "dde-workspace"
     },
