@@ -64,8 +64,7 @@
     },
     {
          "pkg": "deepin-desktop-environment",
-         "branch": "maintain/2014",
-	 "packagename": "dde-workspace"
+         "branch": "maintain/2014"
     },
 	{
 	    "pkg": "deepin-remote-assistance",
