@@ -62,6 +62,11 @@
          "branch": "release/1.1",
 	 "packagename": "deepin-terminal"
     },
+    {
+         "pkg": "dde-workspace",
+         "branch": "maintain/2014",
+	 "packagename": "dde-workspace"
+    },
 	{
 	    "pkg": "deepin-remote-assistance",
 	    "branch": "release/1.0"
