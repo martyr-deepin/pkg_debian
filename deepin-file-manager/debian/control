@@ -10,6 +10,7 @@ Build-Depends: debhelper (>= 9),
  golang-go-sqlite3-dev,
  dde-api-dev,
  dde-go-dbus-factory,
+ libdeepin-metacity-dev,
 Standards-Version: 3.9.5
 Homepage: http://www.linuxdeepin.com
 
