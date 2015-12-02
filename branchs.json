@@ -247,6 +247,11 @@
 	    "branch": "master"
 	},
 	{
+	    "pkg": "deepin-icon-theme",
+	    "git": "https://cr.deepin.io/deepin-icon-theme",
+	    "branch": "develop"
+	},
+	{
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui",
 	    "branch": "master"
