@@ -64,7 +64,8 @@
     },
     {
          "pkg": "deepin-desktop-environment",
-         "branch": "maintain/2014"
+         "branch": "maintain/2014",
+	 "packagename": "deepin-desktop-environment"
     },
 	{
 	    "pkg": "deepin-remote-assistance",
