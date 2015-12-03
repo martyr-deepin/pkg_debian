@@ -249,8 +249,7 @@
 	{
 	    "pkg": "deepin-icon-theme",
 	    "git": "https://cr.deepin.io/deepin-icon-theme",
-	    "branch": "develop",
-	    "version": "15.12.0"
+	    "branch": "develop"
 	},
 	{
 	    "pkg": "deepin-wm-switcher",
