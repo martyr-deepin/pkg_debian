@@ -252,6 +252,11 @@
 	    "branch": "develop"
 	},
 	{
+	    "pkg": "deepin-wm-switcher",
+	    "git": "https://cr.deepin.io/deepin-wm-switcher",
+	    "branch": "master"
+	},
+	{
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui",
 	    "branch": "master"
