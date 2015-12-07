@@ -18,7 +18,7 @@ Architecture: any
 Depends:${shlibs:Depends}, ${misc:Depends},
  libglib2.0-0,
  libqt5webkit5, libqt5x11extras5, libqt5dbus5,
- lastore-daemon, libqt5xcbqpa5, deepin-appstore-data
+ lastore-daemon (>=0.8.9), libqt5xcbqpa5, deepin-appstore-data
 Replaces: dstore-client
 Description: Deepin App Store
  Deepin App Store Client.
