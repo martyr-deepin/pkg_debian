@@ -18,7 +18,9 @@ Build-Depends: debhelper (>= 9),
  libgdk-pixbuf2.0-dev,
  libcairo2-dev,
  libfreetype6-dev,
- libpoppler-glib-dev
+ libpoppler-glib-dev,
+ dh-systemd,
+ systemd,
 Standards-Version: 3.9.5
 Homepage: http://www.linuxdeepin.com
 

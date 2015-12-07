@@ -3,7 +3,7 @@
 export GOPATH := /usr/share/gocode
 
 %:
-	dh $@
+	dh $@ --with systemd
 
 ifdef USE_GCCGO
 override_dh_strip:
