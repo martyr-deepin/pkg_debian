@@ -1,0 +1,27 @@
+Source: go-gir-generator
+Section: devel
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Build-Depends: debhelper (>= 9), dh-golang, golang-go, libgirepository1.0-dev,golang-dlib-dev,
+Standards-Version: 3.9.6
+Homepage: http://www.linuxdeepin.com
+
+Package: golang-gir-gobject-2.0
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-0,
+Description: Go bindings for Deepin Desktop Environment development
+
+Package: golang-gir-gio-2.0
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-0,
+Description: Go bindings for Deepin Desktop Environment development
+
+Package: golang-gir-glib-2.0
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-0,
+Description: Go bindings for Deepin Desktop Environment development
+
+Package: golang-gir-generator
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},
+Description: This tool can generate library binding code which support gir for golang.
