@@ -8,20 +8,30 @@ Homepage: http://www.linuxdeepin.com
 
 Package: golang-gir-gobject-2.0
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-0, libgirepository1.0-dev,
+Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-dev, libgirepository1.0-dev,
 Description: Go bindings for Deepin Desktop Environment development
+ Go bindings for Deepin Desktop Environment development.
+ .
+ gobject-2.0 go bindings.
 
 Package: golang-gir-gio-2.0
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-0, libgirepository1.0-dev,
+Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-dev, libgirepository1.0-dev,
 Description: Go bindings for Deepin Desktop Environment development
+ Go bindings for Deepin Desktop Environment development.
+ .
+ gio-2.0 go bindings.
 
 Package: golang-gir-glib-2.0
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-0, libgirepository1.0-dev,
+Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-dev, libgirepository1.0-dev,
 Description: Go bindings for Deepin Desktop Environment development
+ Go bindings for Deepin Desktop Environment development
+ .
+ glib-2.0 go bindings.
 
 Package: golang-gir-generator
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
 Description: This tool can generate library binding code which support gir for golang.
+ This tool can generate library binding code which support gir for golang.
