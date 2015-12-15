@@ -257,6 +257,11 @@
 	    "branch": "master"
 	},
 	{
+	    "pkg": "go-gir-generator",
+	    "git": "https://cr.deepin.io/go-gir-generator",
+	    "branch": "master"
+	},
+	{
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui",
 	    "branch": "master"
