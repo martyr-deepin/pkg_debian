@@ -5,9 +5,10 @@ Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
 Build-Depends: debhelper (>= 9),qt5-default, qtdeclarative5-dev, qtmultimedia5-dev, libqt5x11extras5-dev,
 Standards-Version: 3.9.6
 
-Package: libdui
+Package: libdui1
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Conflicts: libdui
 Multi-Arch: same
 Description: Deepin graphical user interface library
  DUI is Deepin graphical user interface for deepin desktop development.
@@ -17,7 +18,7 @@ Description: Deepin graphical user interface library
 
 Package: libdui-dev
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libdui( =${binary:Version}), qtdeclarative5-dev, 
+Depends: ${shlibs:Depends}, ${misc:Depends}, libdui1( =${binary:Version}), qtdeclarative5-dev, 
  qtmultimedia5-dev, libqt5x11extras5-dev
 Description: Deepin graphical user interface library
  DUI is Deepin graphical user interface for deepin desktop development.
