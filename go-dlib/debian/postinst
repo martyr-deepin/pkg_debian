@@ -1,8 +1,0 @@
-#!/bin/sh
-set -e
-
-ln  -s  /usr/share/gocode/src/gir/gio-2.0      /usr/share/gocode/src/pkg.deepin.io/lib/gio-2.0
-ln  -s  /usr/share/gocode/src/gir/glib-2.0     /usr/share/gocode/src/pkg.deepin.io/lib/glib-2.0
-ln  -s  /usr/share/gocode/src/gir/gobject-2.0  /usr/share/gocode/src/pkg.deepin.io/lib/gobject-2.0
-
-exit 0
