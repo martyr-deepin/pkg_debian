@@ -1,3 +1,15 @@
+deepin-desktop-schemas (2.91.3-1) stable; urgency=low
+
+  * Autobuild Tag 2.91.3 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Sat, 19 Dec 2015 16:42:41 +0000
+
+deepin-desktop-schemas (2.91.2-1) stable; urgency=low
+
+  * Autobuild Tag 2.91.2 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Wed, 09 Dec 2015 21:47:04 +0000
+
 deepin-desktop-schemas (2.91.1-1) stable; urgency=low
 
   * Autobuild Tag 2.91.1 

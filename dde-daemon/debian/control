@@ -4,7 +4,8 @@ Priority: extra
 Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
 Build-Depends: debhelper (>= 9),
  dde-go-dbus-factory(>= 0.6.1),
- golang-dlib-dev(>= 0.4.0),golang-gir-gobject-2.0, golang-gir-gio-2.0,  golang-gir-glib-2.0,
+ golang-gir-gobject-2.0, golang-gir-gio-2.0,  golang-gir-glib-2.0,
+ golang-dlib-dev(>= 0.4.3),
  golang-xgb-dev,
  golang-xgbutil-dev,
  golang-go,
@@ -26,7 +27,7 @@ Build-Depends: debhelper (>= 9),
  libfontconfig1-dev,
  golang-goconvey-dev,
  libcanberra-dev,
- dde-api-dev (>=2.92.1),
+ dde-api-dev (>=2.92.2),
 Standards-Version: 3.9.5
 Homepage: http://www.linuxdeepin.com
 
@@ -44,7 +45,7 @@ Depends: ${shlibs:Depends},
  deepin-sound-theme,
  policykit-1-gnome,
  deepin-metacity,
- deepin-desktop-schemas,
+ deepin-desktop-schemas (>= 2.91.2),
 Breaks: dde-daemon(<< 2.92.2), dde-workspace
 Conflicts: dde-workspace
 Recommends: network-manager-pptp,

@@ -1,3 +1,21 @@
+dde-launcher (2.90.4-1) stable; urgency=low
+
+  * Autobuild Tag 2.90.4 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Sat, 19 Dec 2015 13:08:16 +0000
+
+dde-launcher (2.90.3-1) stable; urgency=low
+
+  * Autobuild Tag 2.90.3 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Thu, 10 Dec 2015 20:43:41 +0000
+
+dde-launcher (2.90.2-1) stable; urgency=low
+
+  * Autobuild Tag 2.90.2 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Wed, 09 Dec 2015 21:56:58 +0000
+
 dde-launcher (2.90.1-1) stable; urgency=low
 
   * Autobuild Tag 2.90.1 

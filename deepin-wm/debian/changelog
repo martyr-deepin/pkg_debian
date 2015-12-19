@@ -1,3 +1,15 @@
+deepin-wm (0.91.6-1) stable; urgency=low
+
+  * Autobuild Tag 0.91.6 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Sat, 19 Dec 2015 14:01:05 +0000
+
+deepin-wm (0.91.4-1) stable; urgency=low
+
+  * Autobuild Tag 0.91.4 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Wed, 09 Dec 2015 22:37:28 +0000
+
 deepin-wm (0.91.3-1) stable; urgency=low
 
   * Autobuild Tag 0.91.3 

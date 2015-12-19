@@ -1,7 +1,7 @@
 Source: deepin-screenshot
 Section: misc
 Priority: extra
-Maintainer: 宋文武 <songwenwu@linuxdeepin.com>
+Maintainer: Deepin SysDev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 9),
  python,
  deepin-gettext-tools

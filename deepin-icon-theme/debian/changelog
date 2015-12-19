@@ -1,3 +1,9 @@
+deepin-icon-theme (15.10.5-1) stable; urgency=low
+
+  * Autobuild Tag 15.10.5 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Sat, 19 Dec 2015 15:14:01 +0000
+
 deepin-icon-theme (0.0.0) unstable; urgency=medium
 
   * Unstable release.

@@ -1,3 +1,27 @@
+deepin-qml-widgets (2.3.2-1) stable; urgency=low
+
+  * Autobuild Tag 2.3.2 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Sat, 19 Dec 2015 17:00:26 +0000
+
+deepin-qml-widgets (2.2.99-1) stable; urgency=low
+
+  * Autobuild Tag 2.2.99 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Sat, 19 Dec 2015 17:00:00 +0000
+
+deepin-qml-widgets (2.3.1-1) stable; urgency=low
+
+  * Autobuild Tag 2.3.1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Sat, 19 Dec 2015 16:57:18 +0000
+
+deepin-qml-widgets (2.3.0-2) stable; urgency=low
+
+  * Rebuild Version 2.3.0 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Sat, 19 Dec 2015 16:23:26 +0000
+
 deepin-qml-widgets (2.3.0-1) stable; urgency=low
 
   * Autobuild Tag 2.3.0 

@@ -1,3 +1,33 @@
+deepin-screenshot (3.1.5-1) stable; urgency=low
+
+  * Autobuild Tag 3.1.5 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Sat, 19 Dec 2015 13:04:06 +0000
+
+deepin-screenshot (3.1.4-1) stable; urgency=low
+
+  * Autobuild Tag 3.1.4 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Thu, 10 Dec 2015 16:34:55 +0000
+
+deepin-screenshot (3.1.0-3) stable; urgency=low
+
+  * Rebuild Version 3.1.0 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Thu, 10 Dec 2015 16:04:20 +0000
+
+deepin-screenshot (3.1.0-2) stable; urgency=low
+
+  * Rebuild Version 3.1.0 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Thu, 10 Dec 2015 16:00:24 +0000
+
+deepin-screenshot (3.1.0-1) stable; urgency=low
+
+  * Autobuild Tag 3.1.0 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Wed, 09 Dec 2015 22:07:19 +0000
+
 deepin-screenshot (3.1.1-1) stable; urgency=low
 
   * Autobuild Tag 3.1.1 

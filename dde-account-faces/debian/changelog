@@ -1,3 +1,15 @@
+dde-account-faces (1.0.10-1) unstable; urgency=low
+
+  * Autobuild Tag 1.0.10 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Sat, 19 Dec 2015 13:04:43 +0000
+
+dde-account-faces (1.0.9-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.9 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Wed, 09 Dec 2015 22:43:15 +0000
+
 dde-account-faces (1.0.8) unstable; urgency=medium
 
   * update. 
