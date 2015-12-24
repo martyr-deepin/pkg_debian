@@ -1,0 +1,33 @@
+Source: dde-help
+Section: doc
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: http://www.deepin.org/
+
+Package: dde-help
+Architecture: all
+Depends: ${misc:Depends}
+ dde-help-zhcn,
+ dde-help-enus,
+Description: Help files for dde
+ Help files for dde.
+
+Package: dde-help-zhcn
+Architecture: all
+Depends: ${misc:Depends}, dde-help-common
+Description: Chinese Simplified (zh_CN) Help files for dde
+ Chinese Simplified (zh_CN) Help files for dde
+
+Package: dde-help-enus
+Architecture: all
+Depends: ${misc:Depends}, dde-help-common
+Description: English (en_US) Help files for dde
+ English (en_US) Help files for dde
+
+Package: dde-help-common
+Architecture: all
+Depends: ${misc:Depends}
+Description: common files .
+ common files for dde-help.
