@@ -1,4 +1,5 @@
 /usr/bin
 /usr/share
+/usr/share/locale
 /etc
 /var/lib/lastore
