@@ -1,0 +1,13 @@
+Source: lastore-daemon-migration
+Section: devel
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: http://www.deepin.org
+
+Package: lastore-daemon-migration
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-gobject-2, python-dbus,
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

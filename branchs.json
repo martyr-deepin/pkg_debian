@@ -267,6 +267,16 @@
 	    "branch": "master"
 	},
 	{
+	    "pkg": "dde-help",
+	    "git": "https://cr.deepin.io/dde-help",
+	    "branch": "master"
+	},
+	{
+	    "pkg": "lastore-daemon-migration",
+	    "git": "https://cr.deepin.io/lastore/migration",
+	    "branch": "master"
+	},
+	{
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui",
 	    "branch": "master"

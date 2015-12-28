@@ -1,3 +1,27 @@
+deepin-icon-theme (15.12.21-1) unstable; urgency=low
+
+  * Autobuild Tag 15.12.21 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 21 Dec 2015 20:42:57 +0000
+
+deepin-icon-theme (15.10.5-4) stable; urgency=low
+
+  * Rebuild Version 15.10.5 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 21 Dec 2015 19:47:57 +0000
+
+deepin-icon-theme (15.10.5-3) stable; urgency=low
+
+  * Rebuild Version 15.10.5 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 21 Dec 2015 19:42:13 +0000
+
+deepin-icon-theme (15.10.5-2) stable; urgency=low
+
+  * Rebuild Version 15.10.5 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 21 Dec 2015 19:30:43 +0000
+
 deepin-icon-theme (15.10.5-1) stable; urgency=low
 
   * Autobuild Tag 15.10.5 

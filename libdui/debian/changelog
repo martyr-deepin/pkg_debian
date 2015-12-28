@@ -1,3 +1,9 @@
+libdui (1.2.5-1) stable; urgency=low
+
+  * Autobuild Tag 1.2.5 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 21 Dec 2015 22:05:04 +0000
+
 libdui (1.2.4-1) stable; urgency=low
 
   * Autobuild Tag 1.2.4 

@@ -1,3 +1,21 @@
+dde-control-center (2.91.6-2) stable; urgency=low
+
+  * Rebuild Version 2.91.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 22 Dec 2015 13:22:00 +0000
+
+dde-control-center (2.91.6-1) stable; urgency=low
+
+  * Autobuild Tag 2.91.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 21 Dec 2015 22:37:34 +0000
+
+dde-control-center (2.91.5-2) stable; urgency=low
+
+  * Rebuild Version 2.91.5 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Sun, 20 Dec 2015 12:43:15 +0000
+
 dde-control-center (2.91.5-1) stable; urgency=low
 
   * Autobuild Tag 2.91.5 

@@ -8,5 +8,8 @@ case "$1" in
 
     triggered)
 	[ -x /usr/bin/lastore-tools ] && /usr/bin/lastore-tools -item desktop -output /var/lib/lastore/ || true
+
+	# old store.api, used to marking opened desktop file
+	[ -x /var/lib/lastore/mark-desktopfile-daemon ] && /var/lib/lastore/mark-desktopfile-daemon -s || true
 	;;
 esac

@@ -1,3 +1,39 @@
+deepin-desktop-base (2015.12.19-9) unstable; urgency=low
+
+  * Rebuild Version 2015.12.19 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 21 Dec 2015 11:21:11 +0000
+
+deepin-desktop-base (2015.12.19-8) unstable; urgency=low
+
+  * Rebuild Version 2015.12.19 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 21 Dec 2015 11:04:54 +0000
+
+deepin-desktop-base (2015.12.19-7) unstable; urgency=low
+
+  * Rebuild Version 2015.12.19 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 21 Dec 2015 10:54:30 +0000
+
+deepin-desktop-base (2015.12.19-6) unstable; urgency=low
+
+  * Rebuild Version 2015.12.19 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 21 Dec 2015 10:32:59 +0000
+
+deepin-desktop-base (2015.12.19-5) unstable; urgency=low
+
+  * Autobuild Tag 2015.12.19 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 21 Dec 2015 10:31:16 +0000
+
+deepin-desktop-base (2015.12.19-1) unstable; urgency=low
+
+  * Autobuild Tag 2015.12.19 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 21 Dec 2015 10:31:16 +0000
+
 deepin-desktop-base (2015.12.11) unstable; urgency=medium
 
   * modify 2015 desktop to 2015, grub-update. 

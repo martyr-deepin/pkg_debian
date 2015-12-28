@@ -49,7 +49,7 @@ Depends: ${shlibs:Depends}, ${misc:Depends},
  libgdk-pixbuf2.0-dev,
  libcairo2-dev,
  libfreetype6-dev,
- libpoppler-glib-dev
+ libpoppler-glib-dev,deepin-desktop-base
 Description: Go-lang bingdings for dde-daemon
  Go-lang bindings for dde-daemon -- dev file
 
