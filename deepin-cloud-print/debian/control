@@ -1,0 +1,26 @@
+Homepage: http://www.deepin-cloud-print.de
+Source: deepin-cloud-print
+Section: graphics
+Priority: optional
+Maintainer: Debian CUPS Maintainers <debian-printing@lists.debian.org>
+Uploaders: Martin-Éric Racine <martin-eric.racine@iki.fi>
+Build-Depends: debhelper (>= 9.0~), qt5-default, golang-go, golang-thrift-dev, thrift-compiler,libthrift-dev,dbus-generator,libcups2-dev,libevent-dev, libboost1.58-dev,
+Standards-Version: 3.9.6
+
+Package: printer-driver-deepin-cloud-print
+Architecture: any
+Depends: cups,
+         cups-client,
+         ghostscript,
+         libpaper-utils,
+         ${misc:Depends},
+         ${shlibs:Depends}
+Provides: deepin-cloud-print
+Replaces: deepin-cloud-print
+Suggests: system-config-printer-gnome | system-config-printer-kde | system-config-printer
+Description: printer driver for PDF writing via CUPS
+ deepin-cloud-print provides a PDF Writer backend to CUPS. This can be used as a
+ virtual printer in a paperless network or to perform testing on CUPS.
+ .
+ Documents are written to a configurable directory (by default to ~/PDF)
+ or can be further manipulated by a post-processing command.
