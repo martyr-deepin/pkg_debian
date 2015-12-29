@@ -273,7 +273,7 @@
 	},
 	{
 	    "pkg": "lastore-daemon-migration",
-	    "git": "https://cr.deepin.io/lastore/migration",
+	    "git": "https://cr.deepin.io/lastore/lastore-daemon-migration",
 	    "branch": "master"
 	},
 	{

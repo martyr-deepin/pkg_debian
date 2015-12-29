@@ -8,6 +8,7 @@ Homepage: http://www.deepin.org
 
 Package: lastore-daemon-migration
 Architecture: all
+Conflicts: deepin-software-center, deepin-software-center-data
 Depends: ${shlibs:Depends}, ${misc:Depends}, python-gobject-2, python-dbus,
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: migrate deepin-software-center api to lastore-daemon
+ migrate deepin-software-center api to lastore-daemon.
