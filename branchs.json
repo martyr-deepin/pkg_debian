@@ -72,7 +72,7 @@
 	{
 	    "pkg": "deepin-manual",
 	    "git": "https://cr.deepin.io/deepin-manual",
-	    "branch": "release/1.0"
+	    "branch": "master"
 	},
 	{
 	    "pkg": "deepin-ui",
