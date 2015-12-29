@@ -282,6 +282,11 @@
 	    "branch": "master"
 	},
 	{
+	    "pkg": "netease-cloud-music",
+	    "git": "https://cr.deepin.io/private/netease-cloud-music",
+	    "branch": "master"
+	},
+	{
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui",
 	    "branch": "master"
