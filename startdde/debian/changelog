@@ -1,3 +1,9 @@
+startdde (3.0.0-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.0 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 28 Dec 2015 20:35:37 +0000
+
 startdde (2.92.3-2) stable; urgency=low
 
   * Rebuild Version 2.92.3 

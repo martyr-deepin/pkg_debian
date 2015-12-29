@@ -1,3 +1,15 @@
+deepin-manual (1.0.5-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.5 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 29 Dec 2015 14:30:31 +0000
+
+deepin-manual (1.0.3-2) stable; urgency=low
+
+  * Rebuild Version 1.0.3 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 28 Dec 2015 21:28:20 +0000
+
 deepin-manual (1.0.3-1) stable; urgency=low
 
   * Autobuild Tag 1.0.3 

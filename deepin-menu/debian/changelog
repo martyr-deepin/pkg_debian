@@ -1,3 +1,9 @@
+deepin-menu (3.0.0-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.0 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 28 Dec 2015 21:06:03 +0000
+
 deepin-menu (2.90.2-1) stable; urgency=low
 
   * Autobuild Tag 2.90.2 

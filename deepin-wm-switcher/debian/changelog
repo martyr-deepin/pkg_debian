@@ -1,3 +1,9 @@
+deepin-wm-switcher (1.0.0-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.0 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 28 Dec 2015 23:17:01 +0000
+
 deepin-wm-switcher (0.0.4-1) stable; urgency=low
 
   * Autobuild Tag 0.0.4 
