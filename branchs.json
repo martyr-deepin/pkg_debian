@@ -277,6 +277,11 @@
 	    "branch": "master"
 	},
 	{
+	    "pkg": "deepin-cloud-print",
+	    "git": "https://cr.deepin.io/private/deepin-cloud-print-client",
+	    "branch": "master"
+	},
+	{
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui",
 	    "branch": "master"
