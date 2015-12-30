@@ -278,9 +278,8 @@
 	},
 	{
 	    "pkg": "deepin-cloud-print",
-	    "git": "https://cr.deepin.io/private/deepin-cloud-print-client",
 	    "branch": "master",
-	    "git": "/home/gerrit/repos/private/deepin-cloud-print.git",
+	    "git": "/home/gerrit/repos/private/deepin-cloud-print-client.git",
 	    "package_host": "deepin-clound-print"
 	},
 	{
