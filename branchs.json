@@ -280,7 +280,7 @@
 	    "pkg": "deepin-cloud-print",
 	    "branch": "master",
 	    "git": "/home/gerrit/repos/private/deepin-cloud-print-client.git",
-	    "package_host": "deepin-clound-print"
+	    "package_host": "deepin-cloud-print"
 	},
 	{
 	    "pkg": "netease-cloud-music",
