@@ -13,6 +13,3 @@ else
 override_dh_auto_configure:
 	dh_auto_configure -- QMAKE_CC=clang QMAKE_CXX=clang++
 endif
-
-override_dh_auto_build:
-	$(MAKE) -j `grep -c ^processor /proc/cpuinfo`
