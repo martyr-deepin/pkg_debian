@@ -129,7 +129,7 @@
 	{
 	    "pkg": "deepin-music",
 	    "git": "https://cr.deepin.io/deepin-music",
-	    "branch": "release/2.3"
+	    "branch": "master"
 	},
 	{
 	    "pkg": "deepin-remote-assistance",
