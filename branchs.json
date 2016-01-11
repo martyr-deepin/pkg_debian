@@ -149,8 +149,7 @@
 	},
 	{
 	    "pkg": "deepin-movie",
-	    "git": "https://cr.deepin.io/deepin-movie",
-	    "branch": "release/2.3"
+	    "git": "https://cr.deepin.io/deepin-movie"
 	},
 	{
 	    "pkg": "dde-dock-applets",
