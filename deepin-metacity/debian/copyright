@@ -2,8 +2,10 @@ This package was debianized by Thom May <thom@debian.org> on
 Sun, 10 Feb 2002 12:03:22 +0000.
 
 It was downloaded from http://ftp.gnome.org/pub/GNOME/sources/metacity/
+and forked by deepin project
 
 Upstream Author: Havoc Pennington <hp@redhat.com>
+   deepin <support@linuxdeepin.com>
 
 Copyright:
    Copyright © 2001-2008  Havoc Pennington, Red Hat, Inc., and others

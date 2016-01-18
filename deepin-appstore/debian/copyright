@@ -1,6 +1,5 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: go-dbus-generator
-Source: http://github.com/linuxdeepin/go-dbus-generator
+Upstream-Name: deepin-appstore
 
 Files: *
 Copyright: 2015 deepin <support@linuxdeepin.com>

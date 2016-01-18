@@ -1,8 +1,12 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: go-dbus-generator
-Source: http://github.com/linuxdeepin/go-dbus-generator
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: deepin-manual
+Source: https://gitcafe.com/Deepin/deepin-manual.git
 
 Files: *
+Copyright: 2015 Deepin, Inc
+License: GPL-2+
+
+Files: debian/*
 Copyright: 2015 deepin <support@linuxdeepin.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify

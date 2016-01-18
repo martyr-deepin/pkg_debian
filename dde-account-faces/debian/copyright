@@ -1,6 +1,5 @@
 Format: http://dep.debian.net/deps/dep5/
-Upstream-Name: deepin-artwork
-Upstream-Contact: Yong Wang <lazycat.manatee@gmail.com>
+Upstream-Name: dde-account-faces
 Source: http://www.linuxdeepin.com
 
 License: LGPL-3+
@@ -20,8 +19,3 @@ License: LGPL-3+
  02110-1301  USA.
  .
  See /usr/share/common-licenses/LGPL-3 on your debian system.
-
-Files: debian/*
-Copyright: 2011 Deepin, Inc.
-           2011 Zhang Cheng <zhangcheng@linuxdeepin.com>
-License: LGPL-3+

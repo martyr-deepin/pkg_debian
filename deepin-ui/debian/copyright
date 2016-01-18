@@ -1,6 +1,5 @@
 Format: http://dep.debian.net/deps/dep5
 Upstream-Name: deepin-ui
-Source: <url://example.com>
 
 Files: *
 Copyright: 2013 Deepin, Inc

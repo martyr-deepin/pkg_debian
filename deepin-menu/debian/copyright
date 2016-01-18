@@ -3,11 +3,11 @@ Upstream-Name: deepin-menu
 Source: https://gitcafe.com/Deepin/deepin-menu.git
 
 Files: *
-Copyright: 2013 Deepin, Inc
+Copyright: 2015 Deepin, Inc
 License: GPL-2+
 
 Files: debian/*
-Copyright: 2012 Li Longyu <leaeasy@gmail.com>
+Copyright: 2015 deepin <support@linuxdeepin.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
