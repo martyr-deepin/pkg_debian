@@ -1,8 +1,10 @@
 Format: http://dep.debian.net/deps/dep5/
-Upstream-Name: deepin-artwork
-Upstream-Contact: Yong Wang <lazycat.manatee@gmail.com>
+Upstream-Name: deepin-artwork-themes
+Upstream-Contact: Deepin Project <support@linuxdeepin.com>
 Source: http://www.linuxdeepin.com
 
+Files: *
+Copyright: Deepin Technology Co., Ltd.
 License: LGPL-3+
  This is free software; you can redistribute it and/or modify it
  under the terms of the GNU Lesser General Public License as published by the
@@ -20,8 +22,3 @@ License: LGPL-3+
  02110-1301  USA.
  .
  See /usr/share/common-licenses/LGPL-3 on your debian system.
-
-Files: debian/*
-Copyright: 2011 Deepin, Inc.
-           2011 Zhang Cheng <zhangcheng@linuxdeepin.com>
-License: LGPL-3+

@@ -1,7 +1,7 @@
 Source: deepin-terminal
 Section: utils
 Priority: extra
-Maintainer: Yueqian Zhang <zhangyueqian@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 9), python
 Standards-Version: 3.9.5
 Homepage: http://www.linuxdeepin.com/

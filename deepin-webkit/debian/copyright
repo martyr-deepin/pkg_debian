@@ -1,8 +1,10 @@
 Original source may be found at http://webkitgtk.org/
+Modified code may be found at http://gitcafe.com/Deepin/deepin-webkit
 
 Files: debian/*
 Copyright: © 2007-2009 Mike Hommey <glandium@debian.org>
            © 2009 Gustavo Noronha Silva <kov@debian.org>
+           © 2013-2015 Deepin Sysdev <sysdev@linuxdeepin.com>
 License: LGPL-2+ (/usr/share/common-licenses/LGPL-2)
 
 Files: JavaScriptCore/API/*,

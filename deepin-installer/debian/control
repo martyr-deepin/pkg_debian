@@ -1,7 +1,7 @@
 Source: deepin-installer
 Section: utils
 Priority: extra
-Maintainer: Li Longyu (Ai Kotoba) <leaeasy@gmail.com>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 8.0.0),
  cmake,
  coffeescript,

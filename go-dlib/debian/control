@@ -1,7 +1,7 @@
 Source: go-dlib
 Section: devel
 Priority: extra
-Maintainer: Yueqian Zhang <zhangyueqian@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 9), dh-golang, golang-go,
  golang-xgb-dev (>= 0.0+git20151209), golang-fsnotify.howeyc-dev,
  golang-gocheck-dev, golang-goconvey-dev,

@@ -1,7 +1,7 @@
 Source: deepin-qml-widgets
 Section: devel
 Priority: extra
-Maintainer: 宋文武 <songwenwu@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 9),
  qt5-qmake,
  qt5-default,

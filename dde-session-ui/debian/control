@@ -1,7 +1,7 @@
 Source: dde-session-ui
 Section: dde
 Priority: optional
-Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 8.0.0), pkg-config,
  qt5-qmake, qt5-default, qtbase5-dev, liblightdm-qt5-3-dev,
  libxcb-ewmh-dev, libqt5x11extras5-dev, libdui-dev (>= 1.2.2),

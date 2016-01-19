@@ -1,3 +1,9 @@
+dbus-factory (3.0.1-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.1 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 12 Jan 2016 17:53:32 +0000
+
 dbus-factory (3.0.0-1) stable; urgency=low
 
   * Autobuild Tag 3.0.0 

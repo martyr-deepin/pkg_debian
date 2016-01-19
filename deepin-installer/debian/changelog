@@ -1,3 +1,15 @@
+deepin-installer (1.3.19-1) unstable; urgency=low
+
+  * Autobuild Tag 1.3.19 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 12 Jan 2016 18:02:17 +0000
+
+deepin-installer (1.3.18-1) unstable; urgency=low
+
+  * Autobuild Tag 1.3.18 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 29 Dec 2015 21:44:40 +0000
+
 deepin-installer (1.3.16-1) unstable; urgency=low
 
   * Autobuild Tag 1.3.16 

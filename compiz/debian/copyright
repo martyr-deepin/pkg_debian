@@ -4,7 +4,8 @@ Upstream-Contact: Sam Spilsbury <sam.spilsbury@canonical.com>
 Source: https://launchpad.net/compiz
 
 Files: *
-Copyright: 2010-2011, Canonical Ltd
+Copyright: 2013-2015, Deepin Technology Co., Ltd.
+           2010-2011, Canonical Ltd
            2007-2008, Quinn Storm <quinn@beryl-project.org>
            2007-2008, Patrick Niklaus
            2007-2008, Christopher Williams

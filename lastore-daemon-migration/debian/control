@@ -1,7 +1,7 @@
 Source: lastore-daemon-migration
 Section: devel
 Priority: optional
-Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
 Homepage: http://www.deepin.org

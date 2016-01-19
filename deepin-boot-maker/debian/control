@@ -1,7 +1,7 @@
 Source: deepin-boot-maker
 Section: misc
 Priority: extra
-Maintainer: 宋文武 <songwenwu@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 9), qt5-default, qt5-qmake, qttools5-dev-tools
 Standards-Version: 3.9.5
 Homepage: http://www.linuxdeepin.com/

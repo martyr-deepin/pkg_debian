@@ -1,7 +1,7 @@
 Source: grub-themes-deepin
 Section: universe/misc
 Priority: extra
-Maintainer: Yueqian Zhang <zhangyueqian@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.5
 Homepage: http://www.deepin.org/

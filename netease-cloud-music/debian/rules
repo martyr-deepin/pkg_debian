@@ -1,8 +1,8 @@
 #!/usr/bin/make -f
-
+export QT_SELECT=qt5
 %:
-	dh $@ 
+	dh $@ --parallel
 
 override_dh_auto_configure:
-	qmake "CONFIG+=debug"
+	dh_auto_configure -- CONFIG+=debug
 

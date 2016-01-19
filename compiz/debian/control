@@ -1,9 +1,7 @@
 Source: compiz
 Section: x11
 Priority: optional
-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
-XSBC-Original-Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
-Uploaders: David Nusinow <dnusinow@debian.org>, Sean Finney <seanius@debian.org>, Cyril Brulebois <kibi@debian.org>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: cmake (>= 2.6),
                debhelper (>= 9~),
                intltool,
@@ -53,7 +51,6 @@ Build-Depends: cmake (>= 2.6),
                gnome-control-center-dev,
                gsettings-desktop-schemas-dev,
 Standards-Version: 3.9.3
-Vcs-Bzr: https://code.launchpad.net/+branch/ubuntu/compiz
 
 Package: compiz
 Architecture: any

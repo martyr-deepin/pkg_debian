@@ -1,3 +1,21 @@
+dde-launcher (3.0.2-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.2 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 12 Jan 2016 18:33:22 +0000
+
+dde-launcher (3.0.1-2) stable; urgency=low
+
+  * Rebuild Version 3.0.1 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Wed, 30 Dec 2015 14:00:02 +0000
+
+dde-launcher (3.0.1-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.1 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 29 Dec 2015 21:29:50 +0000
+
 dde-launcher (3.0.0-1) stable; urgency=low
 
   * Autobuild Tag 3.0.0 

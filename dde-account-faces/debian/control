@@ -1,7 +1,7 @@
 Source: dde-account-faces
 Section: deepin
 Priority: optional
-Maintainer: lilongyu <leaeasy@gmail.com>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Standards-Version: 3.9.2
 Build-Depends: debhelper (>= 8),
 

@@ -1,3 +1,3 @@
 resources/misc/cloud-music.desktop    /usr/share/applications/
 resources/misc/cloud-music.png        /usr/share/icons/hicolor/256x256/apps/
-cloud-music                           /usr/bin/
+out/cloud-music                           /usr/bin/

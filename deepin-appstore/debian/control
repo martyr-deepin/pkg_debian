@@ -1,5 +1,5 @@
 Source: deepin-appstore
-Maintainer: Xinkai Chen <chenxinkai@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Section: admin
 Priority: optional
 Build-Depends:

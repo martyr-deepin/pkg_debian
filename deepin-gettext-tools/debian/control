@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 9),
  qtbase5-private-dev,
  qtdeclarative5-private-dev
 Standards-Version: 3.9.5
-Maintainer: 宋文武 <songwenwu@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 
 Package: deepin-gettext-tools
 Architecture: any

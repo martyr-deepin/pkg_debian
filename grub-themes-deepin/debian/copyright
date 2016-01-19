@@ -3,13 +3,13 @@ Upstream-Name: grub-themes-deepin
 Source: <url://example.com>
 
 Files: *
-Copyright: 2015 LinuxDeepin Project
+Copyright: Deepin Technology Co., Ltd.
 License: Creative Commons Public Licenses
  The comlete text of Licenses can be found 
  in "/usr/share/doc/grub-themes-deepin/LICENSE.gz".
 
 Files: debian/*
-Copyright: 2015 Yueqian Zhang <zhangyueqian@linuxdeepin.com>
+Copyright: 2015 Deepin Sysdev <sysdev@linuxdeepin.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
