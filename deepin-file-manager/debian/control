@@ -1,7 +1,7 @@
 Source: deepin-file-manager
 Section: devel
 Priority: extra
-Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 9),
  golang-dlib-dev(>=0.4.2),
  golang-go,

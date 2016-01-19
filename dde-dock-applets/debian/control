@@ -1,7 +1,7 @@
 Source: dde-dock-applets
 Section: admin
 Priority: optional
-Maintainer: Mellon Xie <xielingyun@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 9),
  pkg-config,
  libx11-dev,

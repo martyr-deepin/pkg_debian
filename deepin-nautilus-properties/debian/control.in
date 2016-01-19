@@ -1,7 +1,7 @@
 Source: deepin-nautilus-properties
 Section: gnome
 Priority: optional
-Maintainer: Deepin Maintainers <maintainers@deepin.org>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 8),
                dh-autoreconf,
                cdbs (>= 0.4.90),

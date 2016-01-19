@@ -2,7 +2,7 @@ Homepage: http://www.deepin-cloud-print.de
 Source: deepin-cloud-print
 Section: graphics
 Priority: optional
-Maintainer: Debian CUPS Maintainers <debian-printing@lists.debian.org>
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Uploaders: Martin-Éric Racine <martin-eric.racine@iki.fi>
 Build-Depends: debhelper (>= 9.0~), qt5-default, golang-go, golang-thrift-dev, thrift-compiler,libthrift-dev,dbus-generator,libcups2-dev,libevent-dev, libboost1.58-dev, golang-dlib-dev,
 Standards-Version: 3.9.6
