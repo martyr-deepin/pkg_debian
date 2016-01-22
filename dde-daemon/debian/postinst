@@ -20,7 +20,4 @@ fi
 if [ -f /usr/share/fcitx/addon/fcitx-xkb.conf ];then
     sed -i 's/Enabled=.*$/Enabled=False/' /usr/share/fcitx/addon/fcitx-xkb.conf || true
 fi
-if [ "$1" = "triggered" ];then
-    /usr/lib/deepin-daemon/theme-thumb-tool -o /var/cache/thumbnails/appearance/ all
-fi
 #DEBHELPER#
