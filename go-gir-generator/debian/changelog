@@ -1,3 +1,9 @@
+go-gir-generator (0.9.2-3) stable; urgency=low
+
+  * Rebuild Version 0.9.2 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 25 Jan 2016 16:36:37 +0000
+
 go-gir-generator (0.9.2-2) stable; urgency=low
 
   * Rebuild Version 0.9.2 
