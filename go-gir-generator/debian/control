@@ -9,6 +9,9 @@ Homepage: http://www.linuxdeepin.com
 Package: golang-gir-gobject-2.0-dev
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-dev,
+Conflicts: golang-gir-gobject-2.0
+Breaks: golang-gir-gobject-2.0
+Provides: golang-gir-gobject-2.0
 Description: Go bindings for Deepin Desktop Environment development
  Go bindings for Deepin Desktop Environment development.
  .
@@ -17,6 +20,9 @@ Description: Go bindings for Deepin Desktop Environment development
 Package: golang-gir-gio-2.0-dev
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-dev,
+Conflicts: golang-gir-gio-2.0
+Provides: golang-gir-gio-2.0
+Breaks: golang-gir-gio-2.0
 Description: Go bindings for Deepin Desktop Environment development
  Go bindings for Deepin Desktop Environment development.
  .
@@ -25,6 +31,9 @@ Description: Go bindings for Deepin Desktop Environment development
 Package: golang-gir-glib-2.0-dev
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-dev,
+Conflicts: golang-gir-glib-2.0
+Provides: golang-gir-glib-2.0
+Breaks: golang-gir-glib-2.0
 Description: Go bindings for Deepin Desktop Environment development
  Go bindings for Deepin Desktop Environment development
  .
