@@ -1,3 +1,15 @@
+deepin-boot-maker (1.1.2-1) stable; urgency=low
+
+  * Autobuild Tag 1.1.2 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 29 Dec 2015 17:50:10 +0000
+
+deepin-boot-maker (1.1.1-2) stable; urgency=low
+
+  * Rebuild Version 1.1.1 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 29 Dec 2015 17:36:51 +0000
+
 deepin-boot-maker (1.1.1-1) stable; urgency=low
 
   * Autobuild Tag 1.1.1 

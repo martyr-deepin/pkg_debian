@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 8.0.0), pkg-config,
  qt5-qmake, qt5-default, qtbase5-dev, liblightdm-qt5-3-dev,
- libxcb-ewmh-dev, libqt5x11extras5-dev, libdui-dev,
+ libxcb-ewmh-dev, libqt5x11extras5-dev, libdui-dev (>= 1.2.2),
  libgsettings-qt-dev, libqt5svg5-dev,liblightdm-qt5-3-dev,
  libglib2.0-dev, libgtk2.0-dev, qttools5-dev-tools
 Standards-Version: 3.9.4
@@ -12,7 +12,7 @@ Homepage: http://www.deepin.org/
 
 Package: dde-session-ui
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, deepin-desktop-schemas (>>2.91.1)
+Depends: ${shlibs:Depends}, ${misc:Depends}, deepin-desktop-schemas (>= 2.91.2)
 Conflicts: dde-workspace, startdde (<< 2.91.1)
 Breaks: dde-workspace, startdde(<< 2.91.1)
 Description: deepin desktop-environment - dde-session-ui module

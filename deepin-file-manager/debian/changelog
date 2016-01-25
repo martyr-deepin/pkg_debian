@@ -1,3 +1,51 @@
+deepin-file-manager (0.1.9-1) stable; urgency=low
+
+  * Autobuild Tag 0.1.9 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Fri, 22 Jan 2016 20:30:38 +0000
+
+deepin-file-manager (0.1.8-1) stable; urgency=low
+
+  * Autobuild Tag 0.1.8 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 12 Jan 2016 20:19:33 +0000
+
+deepin-file-manager (0.1.7-1) stable; urgency=low
+
+  * Autobuild Tag 0.1.7 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Wed, 30 Dec 2015 15:35:03 +0000
+
+deepin-file-manager (0.1.6-1) stable; urgency=low
+
+  * Autobuild Tag 0.1.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 29 Dec 2015 21:58:59 +0000
+
+deepin-file-manager (0.1.5-1) stable; urgency=low
+
+  * Autobuild Tag 0.1.5 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 28 Dec 2015 21:01:17 +0000
+
+deepin-file-manager (0.1.4-2) stable; urgency=low
+
+  * Rebuild Version 0.1.4 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Sun, 20 Dec 2015 12:36:59 +0000
+
+deepin-file-manager (0.1.4-1) stable; urgency=low
+
+  * Autobuild Tag 0.1.4 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Sat, 19 Dec 2015 16:39:29 +0000
+
+deepin-file-manager (0.1.2-1) stable; urgency=low
+
+  * Autobuild Tag 0.1.2 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Wed, 09 Dec 2015 22:02:20 +0000
+
 deepin-file-manager (0.1.1-1) stable; urgency=low
 
   * Autobuild Tag 0.1.1 
