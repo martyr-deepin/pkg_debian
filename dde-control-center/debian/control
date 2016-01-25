@@ -33,5 +33,6 @@ Depends: ${shlibs:Depends},
  xkb-data,
  deepin-remote-assistance,
  tzdata-l10n,
+ netselect,
 Description: New control center for linux deepin
  New control center for linux deepin
