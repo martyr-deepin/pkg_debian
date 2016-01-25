@@ -1,3 +1,9 @@
+deepin-screenshot (3.1.7-1) stable; urgency=low
+
+  * Autobuild Tag 3.1.7 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Fri, 22 Jan 2016 19:06:29 +0000
+
 deepin-screenshot (3.1.6-1) stable; urgency=low
 
   * Autobuild Tag 3.1.6 

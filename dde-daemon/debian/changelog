@@ -1,3 +1,15 @@
+dde-daemon (3.0.6-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Fri, 22 Jan 2016 19:33:15 +0000
+
+dde-daemon (3.0.5-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.5 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Wed, 20 Jan 2016 20:07:25 +0000
+
 dde-daemon (3.0.3-2) stable; urgency=low
 
   * Rebuild Version 3.0.3 

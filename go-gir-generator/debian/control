@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9), dh-golang, golang-go, libgirepository1.0-dev,
 Standards-Version: 3.9.6
 Homepage: http://www.linuxdeepin.com
 
-Package: golang-gir-gobject-2.0
+Package: golang-gir-gobject-2.0-dev
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-dev,
 Description: Go bindings for Deepin Desktop Environment development
@@ -14,7 +14,7 @@ Description: Go bindings for Deepin Desktop Environment development
  .
  gobject-2.0 go bindings.
 
-Package: golang-gir-gio-2.0
+Package: golang-gir-gio-2.0-dev
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-dev,
 Description: Go bindings for Deepin Desktop Environment development
@@ -22,7 +22,7 @@ Description: Go bindings for Deepin Desktop Environment development
  .
  gio-2.0 go bindings.
 
-Package: golang-gir-glib-2.0
+Package: golang-gir-glib-2.0-dev
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, libglib2.0-dev,
 Description: Go bindings for Deepin Desktop Environment development

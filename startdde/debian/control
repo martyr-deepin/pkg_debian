@@ -5,9 +5,9 @@ Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 9), pkg-config, golang-go,
  libsqlite3-dev,
  libwebkitgtk-3.0-dev,
- golang-dlib-dev (>= 0.4.3),
- golang-xgbutil-dev (>= 1+git20151209),
- golang-fsnotify.howeyc-dev,
+ golang-dlib-dev,
+ golang-github-burntsushi-xgbutil-dev,
+ golang-github-howeyc-fsnotify-dev,
  dde-go-dbus-factory(>= 2.92.1),
  dde-api-dev(>= 2.92.2),
 Standards-Version: 3.9.5

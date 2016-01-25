@@ -1,3 +1,9 @@
+dde-desktop (3.0.4-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.4 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Fri, 22 Jan 2016 19:59:43 +0000
+
 dde-desktop (3.0.3-1) stable; urgency=low
 
   * Autobuild Tag 3.0.3 
