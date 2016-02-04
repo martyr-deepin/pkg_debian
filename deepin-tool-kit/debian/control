@@ -1,0 +1,23 @@
+Source: deepin-tool-kit
+Section: devel
+Priority: optional
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Build-Depends: debhelper (>= 9),qt5-default,
+Standards-Version: 3.9.6
+
+Package: libdtklog
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Multi-Arch: same
+Description: Deepin Tool Kit Log library
+ DtkLog is standard log library of Deepin Qt/C++ applications.
+ .
+ This package contains the shared libraries.
+
+Package: libdtklog-dev
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libdtklog( =${binary:Version}),
+Description: Deepin Tool Kit Log library
+ DtkLog is standard log library of Deepin Qt/C++ applications.
+ .
+ This package contains the header files and static libraries of Dtk/Log
