@@ -3,12 +3,14 @@ Section: sound
 Priority: optional
 Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 9),
-               google-perftools,
+               libfontconfig1-dev,
                libpackagekitqt5-dev,
                libqt5webkit5-dev,
-               libgoogle-perftools-dev,
                libqt5x11extras5-dev,
-               nodejs-dev,
+               libx11-dev,
+               libxext-dev,
+               libxtst-dev,
+               nodejs,
                qtmultimedia5-dev,
                zlib1g-dev,pkgconf
 Standards-Version: 3.9.6
