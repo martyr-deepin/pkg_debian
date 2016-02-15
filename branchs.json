@@ -290,6 +290,11 @@
 	    "package_host": "netease-cloud-music"
 	},
 	{
+	    "pkg": "deepin-tool-kit",
+	    "git": "https://cr.deepin.io/deepin-tool-kit",
+	    "branch": "master"
+	},
+	{
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui",
 	    "branch": "master"
