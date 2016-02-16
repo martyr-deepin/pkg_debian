@@ -295,6 +295,11 @@
 	    "branch": "master"
 	},
 	{
+	    "pkg": "dde-file-manager",
+	    "git": "https://cr.deepin.io/dde/dde-file-manager",
+	    "branch": "master"
+	},
+	{
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui",
 	    "branch": "master"

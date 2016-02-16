@@ -1,0 +1,13 @@
+Source: dde-file-manager
+Section: devel
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Build-Depends: debhelper (>=9), pkg-config, qt5-qmake, qt5-default, qtbase5-dev, libxcb-ewmh-dev, libgtk2.0-dev, libqt5x11extras5-dev, libgsettings-qt-dev,libdui-dev, libqt5svg5-dev, qttools5-dev-tools
+Standards-Version: 3.9.6
+Homepage: http://www.deepin.org
+
+Package: dde-file-manager
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: File manager front end of Deepin OS
+ File manager front end of Deepin OS
