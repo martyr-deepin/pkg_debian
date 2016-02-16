@@ -10,7 +10,7 @@ Build-Depends: debhelper (>= 9),
                libxext-dev,
                libxtst-dev,
                nodejs,
-               pkgconf,
+               pkg-config,
                qtmultimedia5-dev,
                zlib1g-dev,
 Standards-Version: 3.9.6
