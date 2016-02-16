@@ -5,22 +5,22 @@ Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Build-Depends: debhelper (>= 9),qt5-default,
 Standards-Version: 3.9.6
 
-Package: libdtklog
+Package: libdtkutil
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
-Description: Deepin Tool Kit Log library
- DtkLog is standard log library of Deepin Qt/C++ applications.
+Description: Deepin Tool Kit Util library
+ DtkUtil is standard utils library of Deepin Qt/C++ applications.
  .
  This package contains the shared libraries.
 
-Package: libdtklog-dev
+Package: libdtkutil-dev
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libdtklog( =${binary:Version}),
-Description: Deepin Tool Kit Log library
- DtkLog is standard log library of Deepin Qt/C++ applications.
+Depends: ${shlibs:Depends}, ${misc:Depends}, libdtkutil( =${binary:Version}),
+Description: Deepin Tool Kit Util library
+ DtkUtil is standard utils library of Deepin Qt/C++ applications.
  .
- This package contains the header files and static libraries of Dtk/Log
+ This package contains the header files and static libraries of DtkUtil
 
 Package: libdtkwidget
 Architecture: any
@@ -33,7 +33,7 @@ Description: Deepin graphical user interface library
 
 Package: libdtkwidget-dev
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libdtkwidget( =${binary:Version}), qtdeclarative5-dev, 
+Depends: ${shlibs:Depends}, ${misc:Depends}, libdtkwidget( =${binary:Version}), qtdeclarative5-dev,
  qtmultimedia5-dev, libqt5x11extras5-dev
 Description: Deepin graphical user interface library
  DtkWidget is Deepin graphical user interface for deepin desktop development.
