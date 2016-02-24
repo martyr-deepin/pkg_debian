@@ -300,6 +300,11 @@
 	    "branch": "master"
 	},
 	{
+	    "pkg": "deepin-image-viewer",
+	    "git": "https://cr.deepin.io/deepin-image-viewer",
+	    "branch": "master"
+	},
+	{
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui",
 	    "branch": "master"
