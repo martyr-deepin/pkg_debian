@@ -1,19 +1,16 @@
 {
     "repo": "http://10.0.0.12/deepin-2015",
-    "default": "develop",
+    "default": "master",
     "packages": [
 	{
 	    "pkg": "deepin-boot-maker",
-	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-boot-maker",
-	    "branch": "develop"
+	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-boot-maker"
 	},
     {
-        "pkg": "dbus-factory",
-        "branch": "release/3.0"
+        "pkg": "dbus-factory"
     },
     {
-        "pkg": "go-dlib",
-        "branch": "develop"
+        "pkg": "go-dlib"
     },
 	{
 	    "pkg": "qtav",
@@ -31,18 +28,15 @@
 	},
 	{
 	    "pkg": "deepin-installer",
-	    "branch": "master",
 	    "git": "https://cr.deepin.io/deepin-installer"
 	},
 	{
 	    "pkg": "dae",
-	    "git": "https://cr.deepin.io/dae",
-	    "branch": "release/1.0"
+	    "git": "https://cr.deepin.io/dae"
 	},
 	{
 	    "pkg": "deepin-feedback",
-	    "git": "https://cr.deepin.io/deepin-feedback",
-	    "branch": "release/1.0"
+	    "git": "https://cr.deepin.io/deepin-feedback"
 	},
 	{
 	    "pkg": "deepin-crossover",
@@ -56,61 +50,50 @@
 	},
 	{
 	    "pkg": "deepin-gettext-tools",
-	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-gettext-tools",
-	    "branch": "develop"
+	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-gettext-tools"
 	},
 	{
 	    "pkg": "deepin-wm",
-	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-wm",
-	    "branch": "master"
+	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-wm"
 	},
 	{
 	    "pkg": "deepin-menu",
-	    "git": "https://cr.deepin.io/deepin-menu",
-	    "branch": "release/3.0"
+	    "git": "https://cr.deepin.io/deepin-menu"
 	},
 	{
 	    "pkg": "deepin-manual",
-	    "git": "https://cr.deepin.io/deepin-manual",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-manual"
 	},
 	{
 	    "pkg": "deepin-ui",
-	    "git": "https://cr.deepin.io/deepin-ui",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-ui"
 	},
 	{
 	    "pkg": "deepin-os-upgrader",
-	    "git": "https://cr.deepin.io/deepin-os-upgrader",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-os-upgrader"
 	},
 	{
 	    "pkg": "deepin-terminal",
-	    "git": "https://cr.deepin.io/deepin-terminal",
-	    "branch": "release/1.1"
+	    "git": "https://cr.deepin.io/deepin-terminal"
 	},
 	{
 	    "pkg": "deepin-webkit",
-	    "git": "https://cr.deepin.io/deepin-webkit",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-webkit"
 	},
 	{
 	    "pkg": "dde-control-center",
 	    "git": "https://cr.deepin.io/dde/dde-control-center",
-	    "branch": "dev/2015",
 	    "version": "2.90.5"
 	},
 	{
 	    "pkg": "dde-api",
 	    "git": "https://cr.deepin.io/dde/dde-api",
-	    "branch": "release/3.0",
 	    "version": "3.0.1",
 	    "trigger": ["deepin-file-manager", "dde-daemon"]
 	},
 	{
 	    "pkg": "dde-daemon",
-	    "git": "https://cr.deepin.io/dde/dde-daemon",
-	    "branch": "release/3.0"
+	    "git": "https://cr.deepin.io/dde/dde-daemon"
 	},
 	{
 	    "pkg": "deepin-mutter",
@@ -119,34 +102,27 @@
 	},
 	{
 	    "pkg": "deepin-notifications",
-	    "git": "https://cr.deepin.io/deepin-notifications",
-	    "branch": "release/2.3"
+	    "git": "https://cr.deepin.io/deepin-notifications"
 	},
 	{
 	    "pkg": "startdde",
-	    "git": "https://cr.deepin.io/dde/startdde",
-	    "branch": "release/3.0"
+	    "git": "https://cr.deepin.io/dde/startdde"
 	},
 	{
 	    "pkg": "deepin-music",
-	    "git": "https://cr.deepin.io/deepin-music",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-music"
 	},
 	{
 	    "pkg": "deepin-remote-assistance",
-	    "git": "https://cr.deepin.io/deepin-remote-assistance",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-remote-assistance"
 	},
 	{
 	    "pkg": "deepin-screenshot",
-	    "git": "https://cr.deepin.io/deepin-screenshot",
-	    "branch": "release/3.1"
+	    "git": "https://cr.deepin.io/deepin-screenshot"
 	},
 	{
 	    "pkg": "go-dbus-factory",
-	    "git": "https://cr.deepin.io/go-dbus-generator",
-	    "branch": "develop"
-
+	    "git": "https://cr.deepin.io/go-dbus-generator"
 	},
 	{
 	    "pkg": "deepin-movie",
@@ -154,160 +130,122 @@
 	},
 	{
 	    "pkg": "dde-dock-applets",
-	    "git": "https://cr.deepin.io/dde-dock-applets",
-	    "branch": "release/2.3"
+	    "git": "https://cr.deepin.io/old/dde-dock-applets"
 	},
 	{
 	    "pkg": "deepin-qml-widgets",
-	    "git": "https://cr.deepin.io/deepin-qml-widgets",
-	    "branch": "release/2.4"
+	    "git": "https://cr.deepin.io/deepin-qml-widgets"
 	},
 	{
 	    "pkg": "deepin-store",
-	    "git": "https://cr.deepin.io/deepin-store",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-store"
 	},
 	{
 	    "pkg": "deepin-social-sharing",
-	    "git": "https://cr.deepin.io/deepin-social-sharing",
-	    "branch": "release/1.1"
+	    "git": "https://cr.deepin.io/deepin-social-sharing"
 	},
-        {
+    {
 	     "pkg": "deepin-desktop-schemas",
-	     "git": "https://cr.deepin.io/deepin-desktop-schemas",
-	     "branch": "master"
+	     "git": "https://cr.deepin.io/deepin-desktop-schemas"
 	},
-        {
+    {
 	     "pkg": "deepin-metacity",
 	     "git": "https://cr.deepin.io/deepin-metacity",
-	     "branch": "master",
 	     "version": "3.17.20"
 	},
 	{
 	     "pkg": "libdui",
 	     "git": "https://cr.deepin.io/dde/libdui",
-	     "branch": "master",
 	     "version" : "1.1"
 	},
 	{
 	    "pkg": "dde-desktop",
-	    "git": "https://cr.deepin.io/dde/dde-desktop",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/dde/dde-desktop"
 	},
 	{
 	    "pkg": "dde-dock",
-	    "git": "https://cr.deepin.io/dde/dde-dock",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/dde/dde-dock"
 	},
 	{
 	    "pkg": "dde-launcher",
-	    "git": "https://cr.deepin.io/dde/dde-launcher",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/dde/dde-launcher"
 	},
 	{
 	    "pkg": "lastore-daemon",
 	    "git": "https://cr.deepin.io/lastore/lastore-daemon",
-	    "branch": "master",
 	    "package_host": "dstore"
-	},
-	{
-	    "pkg": "deepin-default-gsettings",
-	    "git": "https://cr.deepin.io/default-gsettings",
-	    "branch": "develop"
 	},
 	{
 	    "pkg": "deepin-appstore",
 	    "git": "https://cr.deepin.io/dstore/deepin-appstore",
-	    "branch": "master",
 	    "package_host": "dstore"
 	},
 	{
 	    "pkg": "deepin-nautilus-properties",
-	    "git": "https://cr.deepin.io/deepin-nautilus-properties",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-nautilus-properties"
 	},
 	{
 	    "pkg": "deepin-sound-theme",
-	    "git": "https://cr.deepin.io/deepin-sound-theme",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-sound-theme"
 	},
 	{
 	    "pkg": "deepin-artwork-themes",
-	    "git": "https://cr.deepin.io/deepin-artwork-themes",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-artwork-themes"
 	},
 	{
 	    "pkg": "dde-account-faces",
-	    "git": "https://cr.deepin.io/dde-account-faces",
-	    "branch": "master"
-	},
-	{
-	    "pkg": "deepin-internal-debug",
-	    "git": "https://cr.deepin.io/deepin-internal-debug",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/dde-account-faces"
 	},
 	{
 	    "pkg": "deepin-icon-theme",
-	    "git": "https://cr.deepin.io/deepin-icon-theme",
-	    "branch": "develop"
+	    "git": "https://cr.deepin.io/deepin-icon-theme"
 	},
 	{
 	    "pkg": "deepin-wm-switcher",
-	    "git": "https://cr.deepin.io/deepin-wm-switcher",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-wm-switcher"
 	},
 	{
 	    "pkg": "go-gir-generator",
-	    "git": "https://cr.deepin.io/go-gir-generator",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/go-gir-generator"
 	},
 	{
 	    "pkg": "deepin-desktop-base",
-	    "git": "https://cr.deepin.io/deepin-desktop-base",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-desktop-base"
 	},
 	{
 	    "pkg": "dde-help",
-	    "git": "https://cr.deepin.io/dde-help",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/dde-help"
 	},
 	{
 	    "pkg": "lastore-daemon-migration",
-	    "git": "https://cr.deepin.io/lastore/lastore-daemon-migration",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/lastore/lastore-daemon-migration"
 	},
 	{
 	    "pkg": "deepin-cloud-print",
-	    "branch": "master",
 	    "git": "/home/gerrit/repos/private/deepin-cloud-print-client.git",
 	    "package_host": "deepin-cloud-print"
 	},
 	{
 	    "pkg": "netease-cloud-music",
 	    "git": "https://cr.deepin.io/private/netease-cloud-music",
-	    "branch": "master",
 	    "git": "/home/gerrit/repos/private/netease-cloud-music.git",
 	    "package_host": "netease-cloud-music"
 	},
 	{
 	    "pkg": "deepin-tool-kit",
-	    "git": "https://cr.deepin.io/deepin-tool-kit",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-tool-kit"
 	},
 	{
 	    "pkg": "dde-file-manager",
-	    "git": "https://cr.deepin.io/dde/dde-file-manager",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/dde/dde-file-manager"
 	},
 	{
 	    "pkg": "deepin-image-viewer",
-	    "git": "https://cr.deepin.io/deepin-image-viewer",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/deepin-image-viewer"
 	},
 	{
 	    "pkg": "dde-session-ui",
-	    "git": "https://cr.deepin.io/dde/dde-session-ui",
-	    "branch": "master"
+	    "git": "https://cr.deepin.io/dde/dde-session-ui"
 	}
     ]
 }
