@@ -31,7 +31,7 @@
 	},
 	{
 	    "pkg": "deepin-installer",
-	    "branch": "release/1.3",
+	    "branch": "master",
 	    "git": "https://cr.deepin.io/deepin-installer"
 	},
 	{
