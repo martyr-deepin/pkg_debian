@@ -14,7 +14,7 @@ Build-Depends: debhelper (>= 9),
                nodejs,
                pkg-config,
                qtmultimedia5-dev,
-               zlib1g-dev,
+               zlib1g-dev,libfontconfig1-dev
 Standards-Version: 3.9.6
 Homepage: http://www.deepin.org
 
