@@ -26,3 +26,9 @@ Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: deepin desktop-environment - dock module development files
  Deepin desktop environment 2015 - dock module development files. 
+
+Package: dde-dock-dbg
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, dde-dock(= ${binary:Version})
+Description: deepin desktop-environment - dock module dbg files
+ Deepin desktop environment 2015 - dock module dbg files. 
