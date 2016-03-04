@@ -1,3 +1,21 @@
+lastore-daemon (0.9.18-1) unstable; urgency=low
+
+  * Autobuild Tag 0.9.18 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 01 Mar 2016 14:38:46 +0000
+
+lastore-daemon (0.9.17-2) unstable; urgency=low
+
+  * Rebuild Version 0.9.17 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 23 Feb 2016 17:31:10 +0000
+
+lastore-daemon (0.9.17-1) unstable; urgency=low
+
+  * Autobuild Tag 0.9.17 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 23 Feb 2016 17:11:50 +0000
+
 lastore-daemon (0.9.16-1) unstable; urgency=low
 
   * Autobuild Tag 0.9.16 

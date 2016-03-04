@@ -1,3 +1,15 @@
+deepin-appstore (4.0.7-1) stable; urgency=low
+
+  * Autobuild Tag 4.0.7 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Wed, 27 Jan 2016 18:52:02 +0000
+
+deepin-appstore (4.0.6-1) stable; urgency=low
+
+  * Autobuild Tag 4.0.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Wed, 27 Jan 2016 15:26:44 +0000
+
 deepin-appstore (4.0.5-2) stable; urgency=low
 
   * Rebuild Version 4.0.5 

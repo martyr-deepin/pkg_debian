@@ -1,3 +1,9 @@
+deepin-movie (2.2.3-1) stable; urgency=low
+
+  * Autobuild Tag 2.2.3 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 25 Feb 2016 09:51:43 +0000
+
 deepin-movie (2.2.2-1) stable; urgency=low
 
   * Autobuild Tag 2.2.2-1 

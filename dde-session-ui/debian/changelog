@@ -1,3 +1,21 @@
+dde-session-ui (3.0.8-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.8 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 25 Feb 2016 09:51:31 +0000
+
+dde-session-ui (3.0.7-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.7 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 22 Feb 2016 16:41:00 +0000
+
+dde-session-ui (3.0.6-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Wed, 27 Jan 2016 18:51:46 +0000
+
 dde-session-ui (3.0.5-1) stable; urgency=low
 
   * Autobuild Tag 3.0.5 

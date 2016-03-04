@@ -1,3 +1,15 @@
+deepin-desktop-schemas (3.0.3-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.3 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 22 Feb 2016 10:18:46 +0000
+
+deepin-desktop-schemas (3.0.1-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.1 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 28 Jan 2016 13:40:29 +0000
+
 deepin-desktop-schemas (3.0.0-1) stable; urgency=low
 
   * Autobuild Tag 3.0.0 

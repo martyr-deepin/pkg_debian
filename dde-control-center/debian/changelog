@@ -1,3 +1,33 @@
+dde-control-center (3.0.9-3) stable; urgency=low
+
+  * Rebuild Version 3.0.9 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 25 Feb 2016 16:16:18 +0000
+
+dde-control-center (3.0.9-2) stable; urgency=low
+
+  * Rebuild Version 3.0.9 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 25 Feb 2016 11:24:31 +0000
+
+dde-control-center (3.0.9-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.9 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 25 Feb 2016 11:09:23 +0000
+
+dde-control-center (3.0.8-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.8 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 22 Feb 2016 17:01:22 +0000
+
+dde-control-center (3.0.7-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.7 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Wed, 27 Jan 2016 18:51:35 +0000
+
 dde-control-center (3.0.6-1) stable; urgency=low
 
   * Autobuild Tag 3.0.6 
