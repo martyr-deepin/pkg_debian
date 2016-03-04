@@ -16,3 +16,9 @@ Depends: ${shlibs:Depends}, ${misc:Depends}, libnotify-bin, lastore-daemon,
 Conflicts: dde-workspace (<< 2.90.5)
 Description: deepin desktop-environment - launcher module
  Deepin desktop environment 2015 - launcher module.
+
+Package: dde-launcher-dbg
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},dde-launcher(= ${binary:Version})
+Description: deepin desktop-environment - launcher dbg module 
+ Deepin desktop environment 2015 - launcher dbg module.
