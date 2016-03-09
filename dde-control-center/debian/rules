@@ -13,3 +13,6 @@ else
 override_dh_auto_configure:
 	dh_auto_configure -- QMAKE_CC=clang QMAKE_CXX=clang++
 endif
+
+override_dh_strip:
+	dh_strip --dbg-package=dde-control-center-dbg

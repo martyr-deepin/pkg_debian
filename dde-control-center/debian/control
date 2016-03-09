@@ -39,3 +39,9 @@ Depends: ${shlibs:Depends},
  netselect,
 Description: New control center for linux deepin
  New control center for linux deepin
+
+Package: dde-control-center-dbg
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, dde-control-center-dbg(= ${binary:Version})
+Description: New control center for linux deepin dbg
+ New control center for linux deepin dbg
