@@ -18,7 +18,7 @@ Build-Depends: debhelper (>= 9),
  libgtk2.0-dev,
  libdtkbase-dev,
  libdtkutil-dev,
- libdtkwidget-dev,
+ libdtkwidget-dev,libdui-dev,
 Standards-Version: 3.9.5
 Homepage: http://gitcafe.com/Deepin/dde-control-center.git
 
