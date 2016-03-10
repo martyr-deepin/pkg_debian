@@ -18,3 +18,9 @@ Depends: ${shlibs:Depends}, ${misc:Depends},
 Conflicts: dde-workspace (<< 2.90.5)
 Description: deepin desktop-environment - desktop module
  Deepin desktop environment 2015 - desktop module.
+
+Package: dde-desktop-dbg
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, dde-desktop(= ${binary:Version})
+Description: deepin desktop-environment - desktop dbg module
+ Deepin desktop environment 2015 - desktop dbg module.
