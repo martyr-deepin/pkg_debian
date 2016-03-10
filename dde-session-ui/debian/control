@@ -17,3 +17,8 @@ Conflicts: dde-workspace, startdde (<< 2.91.1)
 Breaks: dde-workspace, startdde(<< 2.91.1)
 Description: deepin desktop-environment - dde-session-ui module
  Deepin desktop environment 2015 - dde-session-ui module.
+
+Package: dde-session-ui-dbg
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, dde-session-ui(= ${binary:Version})
+Description: deepin desktop-environment - dde-session-ui dbg module
