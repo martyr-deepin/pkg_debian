@@ -1,1 +1,4 @@
 debian/reconfigure-dde-daemon /etc/kernel/postinst.d/
+/usr
+/etc
+/var
