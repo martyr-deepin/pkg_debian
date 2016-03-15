@@ -229,7 +229,8 @@
 	    "pkg": "netease-cloud-music",
 	    "git": "https://cr.deepin.io/private/netease-cloud-music",
 	    "git": "/home/gerrit/repos/private/netease-cloud-music.git",
-	    "package_host": "netease-cloud-music"
+	    "package_host": "netease-cloud-music",
+	    "private": "True"
 	},
 	{
 	    "pkg": "deepin-tool-kit",
