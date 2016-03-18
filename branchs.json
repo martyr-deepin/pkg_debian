@@ -241,6 +241,10 @@
 	    "git": "https://cr.deepin.io/dde/dde-file-manager"
 	},
 	{
+	    "pkg": "dde-calendar",
+	    "git": "https://cr.deepin.io/dde/dde-calendar"
+	},
+	{
 	    "pkg": "deepin-image-viewer",
 	    "git": "https://cr.deepin.io/deepin-image-viewer"
 	},
