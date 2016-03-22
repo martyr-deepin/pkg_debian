@@ -14,7 +14,7 @@ case "$1" in
 	    state=$?
 	    set -e
 
-	    if [ $state == 0 ]; then
+	    if [ $state -eq 0 ]; then
 		/usr/bin/lastore-tools update -j desktop -o /var/lib/lastore/ || true
 	    else
 		/usr/bin/lastore-tools -item desktop -output /var/lib/lastore/ || true
