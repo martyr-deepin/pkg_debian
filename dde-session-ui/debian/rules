@@ -4,8 +4,16 @@
 # Uncomment this to turn on verbose mode.
 #export DH_VERBOSE=1
 
+include /usr/share/dpkg/default.mk
+ARCH := $(shell dpkg-architecture -qDEB_BUILD_ARCH)
+
 %:
 	dh $@ --parallel
+
+ifeq($(ARCH), alpha)
+override_dh_auto_configure:
+	dh_auto_configure -- SHUTDOWN_NO_QUIT=YES
+endif
 
 override_dh_strip:
 	dh_strip --dbg-package=dde-session-ui-dbg
