@@ -9,7 +9,7 @@ include /usr/share/dpkg/default.mk
 %:
 	dh $@ --parallel
 
-ifeq($(DEB_BUILD_ARCH), alpha)
+ifeq ($(DEB_BUILD_ARCH), alpha)
 override_dh_auto_configure:
 	dh_auto_configure -- SHUTDOWN_NO_QUIT=YES
 endif
