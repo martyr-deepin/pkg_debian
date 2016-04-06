@@ -230,6 +230,7 @@
 	    "git": "https://cr.deepin.io/private/netease-cloud-music",
 	    "git": "/home/gerrit/repos/private/netease-cloud-music.git",
 	    "package_host": "netease-cloud-music",
+	    "branch": "qtcef",
 	    "private": "True"
 	},
 	{
