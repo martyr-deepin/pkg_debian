@@ -3,34 +3,42 @@
     "default": "master",
     "packages": [
 	{
+	    "package_host": "deepin-boot-maker",
 	    "pkg": "deepin-boot-maker",
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-boot-maker"
 	},
     {
-        "pkg": "dbus-factory"
+        "pkg": "dbus-factory",
+	    "package_host": "dde"
     },
     {
+	    "package_host": "dde",
         "pkg": "go-dlib"
     },
 	{
+	    "package_host": "deepin-movie",
 	    "pkg": "qtav",
 	    "branch": "release"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-gtk-theme",
 	    "branch": "gtk3.18",
 	    "version": "15.06.1"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dde-workspace",
 	    "git": "https://cr.deepin.io/dde/dde-workspace",
 	    "branch": "remove"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-installer",
 	    "git": "https://cr.deepin.io/deepin-installer"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dae",
 	    "git": "https://cr.deepin.io/dae"
 	},
@@ -40,36 +48,44 @@
 	    "package_host": "deepin-feedback"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-crossover",
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-crossover",
 	    "branch": "develop"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-file-manager",
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-file-manager",
 	    "branch": "master"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-gettext-tools",
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-gettext-tools"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-wm",
 	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-wm"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-menu",
 	    "git": "https://cr.deepin.io/deepin-menu"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-manual",
 	    "git": "https://cr.deepin.io/deepin-manual"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-ui",
 	    "git": "https://cr.deepin.io/deepin-ui"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-os-upgrader",
 	    "git": "https://cr.deepin.io/deepin-os-upgrader"
 	},
@@ -79,34 +95,41 @@
 	    "package_host": "deepin-terminal"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-webkit",
 	    "git": "https://cr.deepin.io/deepin-webkit"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dde-control-center",
 	    "git": "https://cr.deepin.io/dde/dde-control-center",
 	    "version": "2.90.5"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dde-api",
 	    "git": "https://cr.deepin.io/dde/dde-api",
 	    "version": "3.0.1",
 	    "trigger": ["deepin-file-manager", "dde-daemon"]
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dde-daemon",
 	    "git": "https://cr.deepin.io/dde/dde-daemon"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-mutter",
 	    "git": "https://cr.deepin.io/deepin-mutter",
 	    "branch": "release/3.18"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-notifications",
 	    "git": "https://cr.deepin.io/deepin-notifications"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "startdde",
 	    "git": "https://cr.deepin.io/dde/startdde"
 	},
@@ -116,14 +139,17 @@
 	    "package_host": "deepin-music"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-remote-assistance",
 	    "git": "https://cr.deepin.io/deepin-remote-assistance"
 	},
 	{
+	    "package_host": "deepin-screenshot",
 	    "pkg": "deepin-screenshot",
 	    "git": "https://cr.deepin.io/deepin-screenshot"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "go-dbus-factory",
 	    "git": "https://cr.deepin.io/go-dbus-generator"
 	},
@@ -132,10 +158,12 @@
 	    "git": "https://cr.deepin.io/deepin-movie"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dde-dock-applets",
 	    "git": "https://cr.deepin.io/old/dde-dock-applets"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-qml-widgets",
 	    "git": "https://cr.deepin.io/deepin-qml-widgets"
 	},
@@ -144,32 +172,39 @@
 	    "git": "https://cr.deepin.io/deepin-store"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-social-sharing",
 	    "git": "https://cr.deepin.io/deepin-social-sharing"
 	},
     {
+	    "package_host": "dde",
 	     "pkg": "deepin-desktop-schemas",
 	     "git": "https://cr.deepin.io/deepin-desktop-schemas"
 	},
     {
+	    "package_host": "dde",
 	     "pkg": "deepin-metacity",
 	     "git": "https://cr.deepin.io/deepin-metacity",
 	     "version": "3.17.20"
 	},
 	{
+	    "package_host": "dde",
 	     "pkg": "libdui",
 	     "git": "https://cr.deepin.io/dde/libdui",
 	     "version" : "1.1"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dde-desktop",
 	    "git": "https://cr.deepin.io/dde/dde-desktop"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dde-dock",
 	    "git": "https://cr.deepin.io/dde/dde-dock"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dde-launcher",
 	    "git": "https://cr.deepin.io/dde/dde-launcher"
 	},
@@ -184,38 +219,47 @@
 	    "package_host": "dstore"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-nautilus-properties",
 	    "git": "https://cr.deepin.io/deepin-nautilus-properties"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-sound-theme",
 	    "git": "https://cr.deepin.io/deepin-sound-theme"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-artwork-themes",
 	    "git": "https://cr.deepin.io/deepin-artwork-themes"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dde-account-faces",
 	    "git": "https://cr.deepin.io/dde-account-faces"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-icon-theme",
 	    "git": "https://cr.deepin.io/deepin-icon-theme"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-wm-switcher",
 	    "git": "https://cr.deepin.io/deepin-wm-switcher"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "go-gir-generator",
 	    "git": "https://cr.deepin.io/go-gir-generator"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-desktop-base",
 	    "git": "https://cr.deepin.io/deepin-desktop-base"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dde-help",
 	    "git": "https://cr.deepin.io/dde-help"
 	},
@@ -237,14 +281,17 @@
 	    "private": "True"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "deepin-tool-kit",
 	    "git": "https://cr.deepin.io/deepin-tool-kit"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dde-file-manager",
 	    "git": "https://cr.deepin.io/dde/dde-file-manager"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dde-calendar",
 	    "git": "https://cr.deepin.io/dde/dde-calendar"
 	},
@@ -254,6 +301,7 @@
 	    "package_host": "deepin-image-viewer"
 	},
 	{
+	    "package_host": "dde",
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui"
 	}
