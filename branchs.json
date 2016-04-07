@@ -110,7 +110,8 @@
 	},
 	{
 	    "pkg": "deepin-music",
-	    "git": "https://cr.deepin.io/deepin-music"
+	    "git": "https://cr.deepin.io/deepin-music",
+	    "package_host": "deepin-music"
 	},
 	{
 	    "pkg": "deepin-remote-assistance",
