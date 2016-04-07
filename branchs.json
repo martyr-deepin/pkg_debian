@@ -36,7 +36,8 @@
 	},
 	{
 	    "pkg": "deepin-feedback",
-	    "git": "https://cr.deepin.io/deepin-feedback"
+	    "git": "https://cr.deepin.io/deepin-feedback",
+	    "package_host": "deepin-feedback"
 	},
 	{
 	    "pkg": "deepin-crossover",
@@ -74,7 +75,8 @@
 	},
 	{
 	    "pkg": "deepin-terminal",
-	    "git": "https://cr.deepin.io/deepin-terminal"
+	    "git": "https://cr.deepin.io/deepin-terminal",
+	    "package_host": "deepin-terminal"
 	},
 	{
 	    "pkg": "deepin-webkit",
@@ -248,7 +250,8 @@
 	},
 	{
 	    "pkg": "deepin-image-viewer",
-	    "git": "https://cr.deepin.io/deepin-image-viewer"
+	    "git": "https://cr.deepin.io/deepin-image-viewer",
+	    "package_host": "deepin-image-viewer"
 	},
 	{
 	    "pkg": "dde-session-ui",
