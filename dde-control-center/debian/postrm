@@ -1,0 +1,11 @@
+#!/bin/sh
+set -e 
+
+
+if [ "$1" = "purge" ];then
+    if [ "mipsel" = `uname -m` ];then 
+    [ -e /etc/xdg/autostart/dde-control-center.desktop ] && rm -f /etc/xdg/autostart/dde-control-center.desktop || true
+    fi
+fi
+
+#DEBHELPER#

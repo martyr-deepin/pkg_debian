@@ -10,7 +10,7 @@ case "$1" in
 	if [ -x /usr/bin/lastore-tools ]; then
 	    set +e
 	    # lastore-tools interface changed after 0.9.18
-	    lastore-tools -v &> /dev/null
+	    lastore-tools -v > /dev/null 2>&1
 	    state=$?
 	    set -e
 
