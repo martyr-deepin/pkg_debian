@@ -286,7 +286,7 @@
 	    "git": "https://cr.deepin.io/deepin-tool-kit"
 	},
 	{
-	    "package_host": "dde",
+	    "package_host": "dde-file-manager",
 	    "pkg": "dde-file-manager",
 	    "git": "https://cr.deepin.io/dde/dde-file-manager"
 	},
