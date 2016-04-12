@@ -139,7 +139,7 @@
 	    "package_host": "deepin-music"
 	},
 	{
-	    "package_host": "dde",
+	    "package_host": "deepin-remote-assistance",
 	    "pkg": "deepin-remote-assistance",
 	    "git": "https://cr.deepin.io/deepin-remote-assistance"
 	},
