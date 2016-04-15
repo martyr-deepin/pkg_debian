@@ -301,6 +301,11 @@
 	    "package_host": "deepin-image-viewer"
 	},
 	{
+	    "pkg": "deepin-license",
+	    "git": "https://cr.deepin.io/deepin-license",
+	    "package_host": "deepin-license"
+	},
+	{
 	    "package_host": "dde",
 	    "pkg": "dde-session-ui",
 	    "git": "https://cr.deepin.io/dde/dde-session-ui"
