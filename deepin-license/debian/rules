@@ -1,5 +1,7 @@
 #!/usr/bin/make -f
 
+export BUILD_ARCH=$(shell dpkg-architecture -qDEB_BUILD_ARCH)
+
 %:
 	dh $@ --parallel --with=systemd
 
