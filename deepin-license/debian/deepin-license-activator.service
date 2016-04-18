@@ -1,0 +1,11 @@
+[Unit]
+Description=service_description
+
+[Service]
+Type=dbus
+BusName=com.deepin.license.LicenseDaemon
+ExecStart=/usr/lib/deepin-daemon/license-daemon
+
+[Install]
+WantedBy=default.target
+Alias=license.service
