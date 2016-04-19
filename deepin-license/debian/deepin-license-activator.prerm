@@ -4,8 +4,7 @@ set -e
 
 case "$1" in
     remove)
-        login_hits="session    optional   pam_exec.so type=open_session stdout /usr/bin/deepin-activator-cli -s"
-        sed -i '/$login_hits/d' /etc/pam.d/login
+        sed -i '/deepin-activator-cli/d' /etc/pam.d/login
         ;;
     upgrade|deconfigure|failed-upgrade)
         ;;
