@@ -1,3 +1,4 @@
 usr/src/*/*
-usr/share/deepin_license-dkms/postinst
+usr/share/deepin-license-dkms/postinst
+usr/share/deepin-license-dkms/version
 etc/modules-load.d/deepin_license.conf

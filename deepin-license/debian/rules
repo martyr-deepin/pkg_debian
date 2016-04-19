@@ -1,6 +1,7 @@
 #!/usr/bin/make -f
 
 export BUILD_ARCH=$(shell dpkg-architecture -qDEB_BUILD_ARCH)
+export VERSION=$(shell dpkg-parsechangelog | sed -nr '/^Version:/s/Version: (.*:)?(.*)-(.*)/\2/p')
 
 %:
 	dh $@ --parallel --with=systemd
