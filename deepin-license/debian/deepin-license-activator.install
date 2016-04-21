@@ -7,3 +7,4 @@ usr/bin/deepin-activator
 usr/bin/deepin-activator-cli
 etc/dbus-1/system.d/com.deepin.license.LicenseDaemon.conf
 etc/xdg/autostart/deepin-activator-autostart.desktop
+var/deepin/
