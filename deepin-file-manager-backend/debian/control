@@ -1,4 +1,4 @@
-Source: deepin-file-manager
+Source: deepin-file-manager-backend
 Section: devel
 Priority: extra
 Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
