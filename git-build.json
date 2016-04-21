@@ -55,8 +55,8 @@
 	},
 	{
 	    "package_host": "dde",
-	    "pkg": "deepin-file-manager",
-	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-file-manager",
+	    "pkg": "deepin-file-manager-backend",
+	    "git": "ssh://jenkins@cr.deepin.io:29418/deepin-file-manager-backend",
 	    "branch": "master"
 	},
 	{
@@ -110,7 +110,7 @@
 	    "pkg": "dde-api",
 	    "git": "https://cr.deepin.io/dde/dde-api",
 	    "version": "3.0.1",
-	    "trigger": ["deepin-file-manager", "dde-daemon"]
+	    "trigger": ["deepin-file-manager-backend", "dde-daemon"]
 	},
 	{
 	    "package_host": "dde",
