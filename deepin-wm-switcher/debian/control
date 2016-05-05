@@ -9,5 +9,5 @@ Homepage: http://www.linuxdeepin.com
 Package: deepin-wm-switcher
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
+Description: deepin window manager monitoring and auto-switching service
  deepin window manager monitoring and auto-switching service.
