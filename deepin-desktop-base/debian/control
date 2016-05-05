@@ -7,6 +7,6 @@ Build-Depends: debhelper (>= 9)
 
 Package: deepin-desktop-base
 Architecture: all
-Depends: ${misc:Depends}, deepin-keyring,
+Depends: ${misc:Depends}, deepin-keyring, distro-info-data,
  eject, plymouth-theme-deepin-logo, friendly-recovery
 Description: Base files for Deepin Desktop
