@@ -1,0 +1,8 @@
+#!/bin/bash
+set -e
+
+if [ "$1" = "purge" ];then
+    if [ "mipsel" = `uname -m` ];then
+        [ -e /etc/xdg/autostart/dde-launcher.desktop ] && rm -f /etc/xdg/autostart/dde-launcher.desktop || true
+    fi
+fi
