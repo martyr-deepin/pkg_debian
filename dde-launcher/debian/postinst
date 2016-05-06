@@ -3,7 +3,7 @@ set -e
 
 if [ "$1" = "configure" ];then
     if [ "mipsel" = `uname -m` ];then
-        cat >/etc/xdg/autostart/dde-launcher.desktop <<EOF
+        cat >/etc/xdg/autostart/dde-launcher_autostart.desktop <<EOF
 [Desktop Entry]
 Exec=/usr/bin/dde-launcher
 Name=Deepin Launcher
@@ -11,6 +11,7 @@ OnlyShowIn=Deepin
 StartupNotify=false
 Terminal=false
 Type=Application
+X-GNOME-Autostart-Delay=5
 EOF
     fi
 fi
