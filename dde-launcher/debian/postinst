@@ -2,7 +2,7 @@
 set -e
 
 if [ "$1" = "configure" ];then
-    if [ "mipsel" = `uname -m` ];then
+    if [ "mips32" = `uname -m` ] || [ "mips64" = `uname -m` ];then
         cat >/etc/xdg/autostart/dde-launcher_autostart.desktop <<EOF
 [Desktop Entry]
 Exec=/usr/bin/dde-launcher
