@@ -57,7 +57,7 @@ Suggests: network-manager-pptp,
  network-manager-vpnc,
  xserver-xorg-input-wacom,
  mobile-broadband-provider-info,
-Suggests: grub-themes-deepin
+ grub-themes-deepin
 Description: daemon handling the DDE session settings
  This package contains the daemon which is responsible for setting the
  various parameters of a DDE session and the applications that run
