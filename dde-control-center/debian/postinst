@@ -5,7 +5,7 @@ set -e
 if [ "$1" = "configure" ];then
     [ -e /etc/xdg/autostart/dss.desktop ] && rm -f /etc/xdg/autostart/dss.desktop || true
     [ -e /etc/xdg/autostart/dss-daemon.desktop ] && rm -f /etc/xdg/autostart/dss-daemon.desktop || true
-    if [ "mipsel" = `uname -m` ];then 
+    if [ "mips64" = `uname -m` ] || [ "mips32" = `uname -m` ];then
     cat >/etc/xdg/autostart/dde-control-center_autostart.desktop <<EOF
 [Desktop Entry]
 Exec=/usr/bin/dde-control-center
