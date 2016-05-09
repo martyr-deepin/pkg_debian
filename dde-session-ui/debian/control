@@ -14,6 +14,7 @@ Homepage: http://www.deepin.org/
 Package: dde-session-ui
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, deepin-desktop-schemas (>= 2.91.2)
+Provides: lightdm-greeter
 Conflicts: dde-workspace, startdde (<< 2.91.1)
 Breaks: dde-workspace, startdde(<< 2.91.1)
 Description: deepin desktop-environment - dde-session-ui module
