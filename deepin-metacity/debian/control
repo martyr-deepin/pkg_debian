@@ -43,7 +43,6 @@ Depends: dde-daemon,
          ${misc:Depends},
          ${shlibs:Depends}
 Provides: x-window-manager
-Recommends: gnome-themes-standard
 Suggests: xdg-user-dirs
 Description: lightweight GTK+ window manager
  Metacity is a small window manager, using GTK+ to do everything.
