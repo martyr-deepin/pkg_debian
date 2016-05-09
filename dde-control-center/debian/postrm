@@ -3,7 +3,7 @@ set -e
 
 
 if [ "$1" = "purge" ];then
-    if [ "mipsel" = `uname -m` ];then 
+    if [ "mips64" = `uname -m` ] || [ "mips32" = `uname -m` ] || [ "mips" = `uname -m` ];then
     [ -e /etc/xdg/autostart/dde-control-center.desktop ] && rm -f /etc/xdg/autostart/dde-control-center.desktop || true
     fi
 fi
