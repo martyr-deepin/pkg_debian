@@ -1,3 +1,9 @@
+deepin-gtk-theme (15.12.6-2) stable; urgency=low
+
+  * Rebuild Version 15.12.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 21 Apr 2016 16:17:57 +0000
+
 deepin-gtk-theme (15.12.6-1) stable; urgency=low
 
   * Autobuild Tag 15.12.6 

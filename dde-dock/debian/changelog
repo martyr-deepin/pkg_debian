@@ -1,3 +1,21 @@
+dde-dock (3.0.7-3) stable; urgency=low
+
+  * Rebuild Version 3.0.7 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 25 Apr 2016 11:20:50 +0000
+
+dde-dock (3.0.7-2) stable; urgency=low
+
+  * Rebuild Version 3.0.7 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 21 Apr 2016 16:18:53 +0000
+
+dde-dock (3.0.7-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.7 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 07 Mar 2016 15:49:07 +0000
+
 dde-dock (3.0.6-1) stable; urgency=low
 
   * Autobuild Tag 3.0.6 

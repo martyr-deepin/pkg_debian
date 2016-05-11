@@ -1,3 +1,9 @@
+deepin-feedback (1.0.2-2) stable; urgency=low
+
+  * Rebuild Version 1.0.2 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 21 Apr 2016 16:17:38 +0000
+
 deepin-feedback (1.0.2-1) stable; urgency=low
 
   * Autobuild Tag 1.0.2 

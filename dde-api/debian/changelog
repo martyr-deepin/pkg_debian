@@ -1,3 +1,9 @@
+dde-api (3.0.6-2) stable; urgency=low
+
+  * Rebuild Version 3.0.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 21 Apr 2016 16:15:45 +0000
+
 dde-api (3.0.6-1) stable; urgency=low
 
   * Autobuild Tag 3.0.6 

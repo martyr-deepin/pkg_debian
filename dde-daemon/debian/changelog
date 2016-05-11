@@ -1,3 +1,9 @@
+dde-daemon (3.0.11-2) unstable; urgency=low
+
+  * Rebuild Version 3.0.11 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 21 Apr 2016 16:16:46 +0000
+
 dde-daemon (3.0.11-1) unstable; urgency=low
 
   * Autobuild Tag 3.0.11 

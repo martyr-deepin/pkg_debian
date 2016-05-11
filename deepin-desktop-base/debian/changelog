@@ -1,3 +1,15 @@
+deepin-desktop-base (2016.01.29-2) unstable; urgency=low
+
+  * Rebuild Version 2016.01.29 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 21 Apr 2016 16:17:21 +0000
+
+deepin-desktop-base (2016.01.29-1) unstable; urgency=low
+
+  * Autobuild Tag 2016.01.29 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 07 Mar 2016 17:17:02 +0000
+
 deepin-desktop-base (2016.01.28-1) unstable; urgency=low
 
   * Autobuild Tag 2016.01.28 

@@ -1,3 +1,9 @@
+startdde (3.0.3-3) stable; urgency=low
+
+  * Rebuild Version 3.0.3 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 21 Apr 2016 16:15:54 +0000
+
 startdde (3.0.3-2) stable; urgency=low
 
   * Rebuild Version 3.0.3 

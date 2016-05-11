@@ -1,3 +1,9 @@
+go-dbus-generator (0.6.4-4) stable; urgency=low
+
+  * Rebuild Version 0.6.4 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 21 Apr 2016 15:52:34 +0000
+
 go-dbus-generator (0.6.4-3) stable; urgency=low
 
   * Rebuild Version 0.6.4 
