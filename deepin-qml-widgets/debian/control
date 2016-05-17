@@ -19,7 +19,13 @@ Homepage: http://www.linuxdeepin.com
 
 Package: deepin-qml-widgets
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, qt5-extra
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+ qml-module-qtwebkit, qml-module-qtquick-controls, qml-module-qtquick-dialogs, qml-module-qtquick-layouts,
+ qml-module-qtquick-privatewidgets, qml-module-qtgraphicaleffects, qtquick1-qml-plugins, qtquick1-qmltooling-plugins,
+ qml-module-qtsensors, qml-module-qt-labs-folderlistmodel, qml-model-qtqml-models2,
+ qml-module-qt-labs-settings, qml-module-qtquick-localstorage, qml-module-qtquick-particles2, qml-module-qtquick-window2,
+ qml-module-qtquick-xmllistmodel, qml-module-qtquick2, qml-module-qtmultimedia, qtgstreamer-plugins
+Recommends: qml-module-qttest, qml-module-qtaudioengine
 Replaces: dde-qml-gettext-plugin
 Provides: dde-qml-gettext-plugin
 Conflicts: dde-qml-gettext-plugin
