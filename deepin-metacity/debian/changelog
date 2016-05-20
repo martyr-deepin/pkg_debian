@@ -1,3 +1,9 @@
+deepin-metacity (3.18.1.12-1) unstable; urgency=low
+
+  * Autobuild Tag 3.18.1.12 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 17 May 2016 19:03:56 +0000
+
 deepin-metacity (3.18.1.7-1) stable; urgency=low
 
   * Autobuild Tag 3.18.1.7 

@@ -1,3 +1,9 @@
+deepin-mutter (3.18.2.8-1) stable; urgency=low
+
+  * Autobuild Tag 3.18.2.8 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Tue, 17 May 2016 19:05:26 +0000
+
 deepin-mutter (3.18.2.4-1) stable; urgency=low
 
   * Autobuild Tag 3.18.2.4 
