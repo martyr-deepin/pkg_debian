@@ -1,10 +1,10 @@
-usr/share/dbus-1/system-services/com.deepin.license.LicenseDaemon.service
+usr/share/dbus-1/system-services/com.deepin.license.service
 usr/share/applications/deepin-activator.desktop
 usr/share/icons/hicolor/scalable/apps/deepin-activator.svg
 usr/lib/liblicense.so
-usr/lib/deepin-daemon/license-daemon
+usr/lib/deepin-daemon/license-agent
 usr/bin/deepin-activator
 usr/bin/deepin-activator-cli
-etc/dbus-1/system.d/com.deepin.license.LicenseDaemon.conf
+etc/dbus-1/system.d/com.deepin.license.conf
 etc/xdg/autostart/deepin-activator-autostart.desktop
 var/deepin/
