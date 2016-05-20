@@ -16,3 +16,6 @@ endif
 
 override_dh_strip:
 	dh_strip --dbg-package=dde-session-ui-dbg
+
+override_dh_insall:
+	dh_install debian/60-lightdm-deepin-greeter.conf usr/share/lightdm/lightdm.conf.d/
