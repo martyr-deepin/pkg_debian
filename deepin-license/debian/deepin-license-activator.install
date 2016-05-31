@@ -1,6 +1,7 @@
 usr/share/dbus-1/system-services/com.deepin.license.service
 usr/share/applications/deepin-activator.desktop
 usr/share/icons/hicolor/scalable/apps/deepin-activator.svg
+usr/share/deepin-activator/translations/*
 usr/lib/liblicense.so
 usr/lib/deepin-daemon/license-agent
 usr/bin/deepin-activator
