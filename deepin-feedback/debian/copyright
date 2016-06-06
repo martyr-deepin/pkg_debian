@@ -3,7 +3,7 @@ Upstream-Name: deepin-feedback
 
 Files: *
 Copyright: 2014 xufasheng  <fasheng.xu@gmail.com>
-           杨万青          <yangwanqing@linuxdeepin.com>
+           杨万青          <yangwanqing@deepin.com>
 License: GPL-3.0+
 
 Files: debian/*
