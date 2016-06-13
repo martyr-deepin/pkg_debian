@@ -3,7 +3,7 @@ Upstream-Name: deepin-boot-maker
 Source: https://gitcafe.com/Deepin/deepin-boot-maker
 
 Files: *
-Copyright: 2014 Li He <lihe@linuxdeepin.com>
+Copyright: 2014 Li He <lihe@deepin.com>
 License: GPL-3+
 
 Files: debian/*

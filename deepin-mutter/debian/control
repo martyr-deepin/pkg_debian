@@ -1,7 +1,7 @@
 Source: deepin-mutter
 Section: x11
 Priority: optional
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-Depends: cdbs (>= 0.4.90),
                debhelper (>= 9),
                gnome-pkg-tools (>= 0.10),
