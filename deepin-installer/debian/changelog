@@ -1,3 +1,27 @@
+deepin-installer (1.4.7-1) stable; urgency=low
+
+  * Autobuild Tag 1.4.7 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Fri, 27 May 2016 10:06:46 +0000
+
+deepin-installer (1.4.6-2) stable; urgency=low
+
+  * Rebuild Version 1.4.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 26 May 2016 19:04:45 +0000
+
+deepin-installer (1.4.6-1) stable; urgency=low
+
+  * Autobuild Tag 1.4.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 26 May 2016 17:25:40 +0000
+
+deepin-installer (1.4.5-1) stable; urgency=low
+
+  * Autobuild Tag 1.4.5 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 23 May 2016 14:16:58 +0000
+
 deepin-installer (1.4.4-4) stable; urgency=low
 
   * Rebuild Version 1.4.4 

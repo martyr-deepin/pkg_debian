@@ -1,3 +1,9 @@
+deepin-screenshot (3.1.8-2) stable; urgency=low
+
+  * Rebuild Version 3.1.8 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 23 May 2016 14:18:43 +0000
+
 deepin-screenshot (3.1.8-1) stable; urgency=low
 
   * Autobuild Tag 3.1.8 

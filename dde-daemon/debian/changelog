@@ -1,3 +1,27 @@
+dde-daemon (3.0.16-1) unstable; urgency=low
+
+  * Autobuild Tag 3.0.16 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 30 May 2016 11:50:22 +0000
+
+dde-daemon (3.0.15-1) unstable; urgency=low
+
+  * Autobuild Tag 3.0.15 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Fri, 27 May 2016 10:02:01 +0000
+
+dde-daemon (3.0.14-1) unstable; urgency=low
+
+  * Autobuild Tag 3.0.14 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 26 May 2016 09:11:00 +0000
+
+dde-daemon (3.0.13-1) unstable; urgency=low
+
+  * Autobuild Tag 3.0.13 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 23 May 2016 11:38:25 +0000
+
 dde-daemon (3.0.11-2) unstable; urgency=low
 
   * Rebuild Version 3.0.11 
