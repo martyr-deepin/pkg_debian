@@ -1,3 +1,33 @@
+deepin-movie (2.2.7-1) stable; urgency=low
+
+  * Autobuild Tag 2.2.7 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 26 May 2016 20:49:13 +0000
+
+deepin-movie (2.2.6-3) stable; urgency=low
+
+  * Rebuild Version 2.2.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Wed, 25 May 2016 12:26:23 +0000
+
+deepin-movie (2.2.6-2) stable; urgency=low
+
+  * Rebuild Version 2.2.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Wed, 25 May 2016 11:35:52 +0000
+
+deepin-movie (2.2.6-1) stable; urgency=low
+
+  * Autobuild Tag 2.2.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Wed, 25 May 2016 11:31:13 +0000
+
+deepin-movie (2.2.5-1) stable; urgency=low
+
+  * Autobuild Tag 2.2.5 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 23 May 2016 14:20:11 +0000
+
 deepin-movie (2.2.3-3) stable; urgency=low
 
   * Rebuild Version 2.2.3 

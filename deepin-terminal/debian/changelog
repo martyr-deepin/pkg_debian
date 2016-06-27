@@ -1,3 +1,21 @@
+deepin-terminal (1.1.7-1) stable; urgency=low
+
+  * Autobuild Tag 1.1.7 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 30 May 2016 11:21:43 +0000
+
+deepin-terminal (1.1.6-1) stable; urgency=low
+
+  * Autobuild Tag 1.1.6 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Fri, 27 May 2016 05:36:57 +0000
+
+deepin-terminal (1.1.5-1) stable; urgency=low
+
+  * Autobuild Tag 1.1.5 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 23 May 2016 14:19:22 +0000
+
 deepin-terminal (1.1.4-2) stable; urgency=low
 
   * Rebuild Version 1.1.4 

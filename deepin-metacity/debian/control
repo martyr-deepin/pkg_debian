@@ -30,6 +30,7 @@ Build-Depends: cdbs (>= 0.4.41),
  libxrender-dev,
  libxt-dev,
  yelp-tools,
+ libbamf3-dev,
  zenity
 Standards-Version: 3.9.6
 Homepage: https://git.gnome.org/browse/metacity

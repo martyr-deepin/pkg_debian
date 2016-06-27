@@ -1,3 +1,15 @@
+dde-control-center (3.0.13-1) unstable; urgency=low
+
+  * Autobuild Tag 3.0.13 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 26 May 2016 17:24:07 +0000
+
+dde-control-center (3.0.12-1) unstable; urgency=low
+
+  * Autobuild Tag 3.0.12 
+
+ -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 23 May 2016 14:49:33 +0000
+
 dde-control-center (3.0.10-7) unstable; urgency=low
 
   * Rebuild Version 3.0.10 
