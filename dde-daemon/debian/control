@@ -49,6 +49,7 @@ Depends: ${shlibs:Depends},
  policykit-1-gnome,
  deepin-metacity,
  deepin-desktop-schemas (>= 2.91.2),
+ mobile-broadband-provider-info
 Breaks: dde-daemon(<< 2.92.2), dde-workspace
 Conflicts: dde-workspace
 Suggests: network-manager-pptp,
@@ -57,7 +58,6 @@ Suggests: network-manager-pptp,
  network-manager-openvpn,
  network-manager-vpnc,
  xserver-xorg-input-wacom,
- mobile-broadband-provider-info,
  grub-themes-deepin
 Description: daemon handling the DDE session settings
  This package contains the daemon which is responsible for setting the
