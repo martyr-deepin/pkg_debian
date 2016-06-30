@@ -2,8 +2,8 @@ Source: deepin-image-viewer
 Section: utils
 Priority: optional
 Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
-Build-Depends: debhelper (>=9), qt5-qmake, qt5-default, qtbase5-dev, pkg-config, libqt5gui5, libdtkutil-dev, libdtkwidget-dev, libdtkbase-dev, 
- libexif-dev, libqt5svg5-dev, libqt5libqgtk2, libqt5sql5, libsqlite3-dev, libqt5libqgtk2, qttools5-dev-tools
+Build-Depends: debhelper (>=9), qt5-qmake, qt5-default, qtbase5-dev, pkg-config, libdtkutil-dev, libdtkwidget-dev, libdtkbase-dev, 
+ libexif-dev, libqt5svg5-dev, libqt5x11extras5-dev, libsqlite3-dev, qttools5-dev-tools
 Standards-Version: 3.9.6
 Homepage: http://www.deepin.org
 
