@@ -1,2 +1,2 @@
-interest /usr/share/fcitx/addon/fcitx-xkb.conf
-interest /etc/systemd/logind.conf
+interest-noawait /usr/share/fcitx/addon/fcitx-xkb.conf
+interest-noawait /etc/systemd/logind.conf
