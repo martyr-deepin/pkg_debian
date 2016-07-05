@@ -42,9 +42,6 @@ Description: Go bindings for Deepin Desktop Environment development
 Package: golang-gir-gudev-1.0-dev
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, libgudev-1.0-dev,
-Conflicts: golang-gir-glib-2.0
-Provides: golang-gir-glib-2.0
-Breaks: golang-gir-glib-2.0
 Description: Go bindings for Deepin Desktop Environment development
  Go bindings for Deepin Desktop Environment development
  .
