@@ -1,0 +1,19 @@
+Source: deepin-installer-reborn
+Section: utils
+Priority: extra
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Build-Depends: debhelper (>=9),
+    qt5-qmake,
+    qt5-default,
+    qtbase5-dev,
+    pkg-config,
+    libqt5svg5-dev,
+    libqt5x11extras5-dev
+Standards-Version: 3.9.6
+Homepage: http://www.deepin.org
+
+Package: deepin-installer-reborn
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Reborn version of deepin installer
+ New version of deepin-installer, rewritten with Qt5.
