@@ -12,3 +12,4 @@ export DEB_BUILD_OPTIONS="nocheck"
 override_dh_auto_install:
 	dh_auto_install
 	find ${CURDIR}/debian/golang-dlib-dev -regex '.*\.git\|.*testdata\|.*LICENSE\|.*\.gitignore' | xargs rm -rf
+override_dh_auto_test:
