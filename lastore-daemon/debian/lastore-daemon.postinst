@@ -4,6 +4,9 @@ set -e
 case "$1" in
     configure|abort-upgrade)
 	[ -x /usr/share/update-notifier/notify-reboot-required ] && /usr/share/update-notifier/notify-reboot-required || true
+	if dpkg --compare-versions "$2" le 0.9.18.5; then
+		[ -f /etc/apt/apt.conf.d/99lastore.conf.dpkg-dist ] && mv /etc/apt/apt.conf.d/99lastore.conf.dpkg-dist  /etc/apt/apt.conf.d/99lastore.conf
+	fi
 	;;
 
     triggered)
