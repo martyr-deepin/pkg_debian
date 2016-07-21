@@ -52,7 +52,9 @@ Depends: ${shlibs:Depends},
  mobile-broadband-provider-info
 Breaks: dde-daemon(<< 2.92.2), dde-workspace
 Conflicts: dde-workspace
-Suggests: network-manager-pptp,
+Suggests: 
+ systemd,
+ network-manager-pptp,
  network-manager-l2tp,
  network-manager-openconnect,
  network-manager-openvpn,
