@@ -25,6 +25,7 @@ Homepage: http://www.deepin.org
 Package: deepin-installer-reborn
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
+    hdparm,
     util-linux,
 Description: Reborn version of deepin installer
  New version of deepin-installer, rewritten with Qt5.
