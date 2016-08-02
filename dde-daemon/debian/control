@@ -46,13 +46,13 @@ Depends: ${shlibs:Depends},
  gnome-keyring,
  deepin-sound-theme,
  user-setup,
- policykit-1-gnome,
  deepin-metacity,
  deepin-desktop-schemas (>= 2.91.2),
  mobile-broadband-provider-info
 Breaks: dde-daemon(<< 2.92.2), dde-workspace
 Conflicts: dde-workspace
 Suggests: 
+ policykit-1-gnome,
  systemd,
  network-manager-pptp,
  network-manager-l2tp,
