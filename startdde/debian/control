@@ -24,6 +24,7 @@ Depends: ${shlibs:Depends},
  deepin-desktop-schemas (>> 2.91.2),
  dde-desktop, dde-dock, dde-launcher,
  dde-session-ui,
+ libgnome2-bin,
 Conflicts: deepin-session
 Breaks: startdde(<= 2.91.1)
 Description: starter of deepin desktop environment
