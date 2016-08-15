@@ -1,19 +1,13 @@
 Source: deepin-terminal
 Section: utils
-Priority: extra
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
-Build-Depends: debhelper (>= 9), python
-Standards-Version: 3.9.5
-Homepage: http://www.linuxdeepin.com/
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Build-Depends: debhelper (>=9),valac, libgtk-3-dev, libgee-dev, libvte-2.91-dev, libjson-glib-dev, libsecret-1-dev
+Standards-Version: 3.9.8
+Homepage: http://www.deepin.org
 
 Package: deepin-terminal
-Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends},
-         python, deepin-ui, python-vte, expect, python-dbus,
-         hicolor-icon-theme, xdotool, python-deepin-gsettings
-Provides: x-terminal-emulator
-Description: Terminal Emulator from LinuxDeepin.
- This is a new generation terminal emulator made by linuxdeepin team.
- Depends on Deepin-UI.
- .
- More features to be discovered!
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

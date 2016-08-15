@@ -1,53 +1,5 @@
-deepin-terminal (1.1.7-1) stable; urgency=low
+deepin-terminal (2.0.0) unstable; urgency=medium
 
-  * Autobuild Tag 1.1.7 
+  * 
 
- -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 30 May 2016 11:21:43 +0000
-
-deepin-terminal (1.1.6-1) stable; urgency=low
-
-  * Autobuild Tag 1.1.6 
-
- -- TagBuilder <tagbuilder@linuxdeepin.com>  Fri, 27 May 2016 05:36:57 +0000
-
-deepin-terminal (1.1.5-1) stable; urgency=low
-
-  * Autobuild Tag 1.1.5 
-
- -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 23 May 2016 14:19:22 +0000
-
-deepin-terminal (1.1.4-2) stable; urgency=low
-
-  * Rebuild Version 1.1.4 
-
- -- TagBuilder <tagbuilder@linuxdeepin.com>  Thu, 21 Apr 2016 16:18:07 +0000
-
-deepin-terminal (1.1.4-1) stable; urgency=low
-
-  * Autobuild Tag 1.1.4 
-
- -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 22 Feb 2016 10:19:40 +0000
-
-deepin-terminal (1.1.2-1) stable; urgency=low
-
-  * Autobuild Tag 1.1.2 
-
- -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 28 Dec 2015 20:36:16 +0000
-
-deepin-terminal (1.1.1-1) stable; urgency=low
-
-  * Autobuild Tag 1.1.1 
-
- -- TagBuilder <tabbuilder@linuxdeepin.com>  Wed, 09 Dec 2015 21:50:11 +0000
-
-deepin-terminal (1.1.0-1) stable; urgency=low
-
-  * Autobuild Tag 1.1.0-1 
-
- -- TagBuilder <tabbuilder@linuxdeepin.com>  Tue, 30 Jun 2015 11:02:46 +0000
-
-deepin-terminal (0.0.0) unstable; urgency=medium
-
-  * Unstable release.
-
- -- 宋文武 <songwenwu@linuxdeepin.com>  Mon, 08 Dec 2014 14:16:12 +0800
+ -- Deepin Packages Builder <packages@deepin.com>  Tue, 02 Aug 2016 11:25:20 +0800
