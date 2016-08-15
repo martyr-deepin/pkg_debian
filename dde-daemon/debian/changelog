@@ -1,3 +1,39 @@
+dde-daemon (3.0.18-1) unstable; urgency=low
+
+  * Autobuild Tag 3.0.18 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Fri, 12 Aug 2016 18:46:04 +0000
+
+dde-daemon (3.0.17-1) unstable; urgency=low
+
+  * Autobuild Tag 3.0.17 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Fri, 22 Jul 2016 07:46:25 +0000
+
+dde-daemon (3.0.16-5) unstable; urgency=low
+
+  * Rebuild Version 3.0.16 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Thu, 21 Jul 2016 05:28:25 +0000
+
+dde-daemon (3.0.16-4) unstable; urgency=low
+
+  * Rebuild Version 3.0.16 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Wed, 20 Jul 2016 10:15:01 +0000
+
+dde-daemon (3.0.16-3) unstable; urgency=low
+
+  * Rebuild Version 3.0.16 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Fri, 01 Jul 2016 07:43:28 +0000
+
+dde-daemon (3.0.16-2) unstable; urgency=low
+
+  * Rebuild Version 3.0.16 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Fri, 01 Jul 2016 07:29:26 +0000
+
 dde-daemon (3.0.16-1) unstable; urgency=low
 
   * Autobuild Tag 3.0.16 

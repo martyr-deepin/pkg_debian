@@ -1,3 +1,15 @@
+deepin-wm (1.1.0-1) stable; urgency=low
+
+  * Autobuild Tag 1.1.0 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Fri, 12 Aug 2016 15:18:30 +0000
+
+deepin-wm (1.0.9-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.9 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Wed, 20 Jul 2016 01:34:56 +0000
+
 deepin-wm (1.0.8-2) stable; urgency=low
 
   * Rebuild Version 1.0.8 

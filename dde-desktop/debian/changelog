@@ -1,3 +1,9 @@
+dde-desktop (3.0.11-1) unstable; urgency=low
+
+  * Autobuild Tag 3.0.11 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Fri, 12 Aug 2016 17:30:16 +0000
+
 dde-desktop (3.0.10-1) unstable; urgency=low
 
   * Autobuild Tag 3.0.10 

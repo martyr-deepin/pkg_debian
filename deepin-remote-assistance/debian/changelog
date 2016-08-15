@@ -1,3 +1,9 @@
+deepin-remote-assistance (1.0.7-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.7 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Fri, 12 Aug 2016 14:11:34 +0000
+
 deepin-remote-assistance (1.0.6-2) stable; urgency=low
 
   * Rebuild Version 1.0.6 

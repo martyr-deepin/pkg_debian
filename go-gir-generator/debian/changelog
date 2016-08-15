@@ -1,3 +1,15 @@
+go-gir-generator (0.9.5-1) stable; urgency=low
+
+  * Autobuild Tag 0.9.5 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Wed, 03 Aug 2016 08:54:04 +0000
+
+go-gir-generator (0.9.4-1) stable; urgency=low
+
+  * Autobuild Tag 0.9.4 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Sat, 09 Jul 2016 00:40:37 +0000
+
 go-gir-generator (0.9.3-1) stable; urgency=low
 
   * Autobuild Tag 0.9.3 

@@ -1,3 +1,9 @@
+deepin-file-manager-backend (0.1.15-1) unstable; urgency=low
+
+  * Autobuild Tag 0.1.15 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Fri, 12 Aug 2016 18:39:39 +0000
+
 deepin-file-manager-backend (0.1.14-1) unstable; urgency=low
 
   * Autobuild Tag 0.1.14 

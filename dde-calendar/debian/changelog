@@ -1,3 +1,9 @@
+dde-calendar (1.0.0-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.0 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Fri, 12 Aug 2016 17:34:34 +0000
+
 dde-calendar (1.0-1) unstable; urgency=medium
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>

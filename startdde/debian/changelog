@@ -1,3 +1,15 @@
+startdde (3.0.7-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.7 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Fri, 12 Aug 2016 18:39:37 +0000
+
+startdde (3.0.6-1) stable; urgency=low
+
+  * Autobuild Tag 3.0.6 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Fri, 22 Jul 2016 07:48:25 +0000
+
 startdde (3.0.5-2) stable; urgency=low
 
   * Rebuild Version 3.0.5 

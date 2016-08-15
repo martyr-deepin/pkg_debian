@@ -1,3 +1,9 @@
+go-dlib (0.4.11-1) unstable; urgency=low
+
+  * Autobuild Tag 0.4.11 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Fri, 22 Jul 2016 07:45:33 +0000
+
 go-dlib (0.4.10-1) unstable; urgency=low
 
   * Autobuild Tag 0.4.10 

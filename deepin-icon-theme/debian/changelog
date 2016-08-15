@@ -1,3 +1,15 @@
+deepin-icon-theme (15.12.29-1) unstable; urgency=low
+
+  * Autobuild Tag 15.12.29 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Fri, 12 Aug 2016 18:41:35 +0000
+
+deepin-icon-theme (15.12.28-1) unstable; urgency=low
+
+  * Autobuild Tag 15.12.28 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Tue, 26 Jul 2016 03:10:47 +0000
+
 deepin-icon-theme (15.12.27-2) unstable; urgency=low
 
   * Rebuild Version 15.12.27 
