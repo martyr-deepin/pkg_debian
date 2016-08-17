@@ -4,7 +4,7 @@ Section: graphics
 Priority: optional
 Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
 Uploaders: Iceyer <me@iceyer.net>
-Build-Depends: debhelper (>= 9.0~), qt5-default, qtdeclarative5-dev, qttools5-dev-tools, libqt5x11extras5-dev, golang-go, golang-thrift-dev, thrift-compiler,libthrift-dev,dbus-generator,libcups2-dev,libevent-dev, libboost1.58-dev, golang-dlib-dev,
+Build-Depends: debhelper (>= 9.0~), qt5-default, qtdeclarative5-dev, qttools5-dev-tools, libqt5x11extras5-dev, golang-go, golang-thrift-dev, thrift-compiler,libthrift-dev,dbus-generator,libcups2-dev,libevent-dev, libboost1.58-dev, golang-dlib-dev, libdtkbase-dev, libdtkutil-dev, libdtkwidget-dev
 Standards-Version: 3.9.6
 
 Package: printer-driver-deepin-cloud-print
