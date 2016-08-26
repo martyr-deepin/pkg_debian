@@ -10,7 +10,7 @@ Standards-Version: 3.9.6
 
 Package: libdtkbase
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, libqt5dxcb-plugin
 Multi-Arch: same
 Description: Deepin Tool Kit Base library
  DtkBase is base library of Deepin Qt/C++ applications.
