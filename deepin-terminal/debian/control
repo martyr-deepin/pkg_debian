@@ -9,6 +9,6 @@ Homepage: http://www.deepin.org
 Package: deepin-terminal
 Architecture: any
 Provides: x-terminal-emulator
-Depends: ${shlibs:Depends}, ${misc:Depends}, zssh
+Depends: ${shlibs:Depends}, ${misc:Depends}, zssh, lrzsz
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
