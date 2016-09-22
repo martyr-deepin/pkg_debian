@@ -1,7 +1,7 @@
 Source: deepin-desktop-schemas
 Section: misc
 Priority: optional
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-depends: debhelper (>= 8), libglib2.0-bin
 Standards-Version: 3.9.5
 Homepage: http://www.deepin.org/

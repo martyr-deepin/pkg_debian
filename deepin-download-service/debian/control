@@ -1,12 +1,12 @@
 Source: deepin-download-service
 Section: devel
 Priority: optional
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-Depends: debhelper (>= 9),
                golang-go, golang-dlib-dev,
                dde-go-dbus-factory
 Standards-Version: 3.9.5
-Homepage: http://www.linuxdeepin.com
+Homepage: http://www.deepin.com
 
 Package: deepin-download-service
 Architecture: any

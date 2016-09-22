@@ -1,7 +1,7 @@
 Source: dde-api
 Section: devel
 Priority: extra
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-Depends: debhelper (>= 9),
  golang-go | gccgo-5,
  golang-dlib-dev (>= 0.4.2),golang-gir-gobject-2.0-dev, 
@@ -25,7 +25,7 @@ Build-Depends: debhelper (>= 9),
  systemd,
  libcroco3-dev
 Standards-Version: 3.9.5
-Homepage: http://www.linuxdeepin.com
+Homepage: http://www.deepin.com
 
 Package: dde-api
 Architecture: any

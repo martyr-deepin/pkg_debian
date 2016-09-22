@@ -1,7 +1,7 @@
 Source: deepin-installer
 Section: utils
 Priority: extra
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-Depends: debhelper (>= 8.0.0),
  cmake,
  coffeescript,
@@ -19,7 +19,7 @@ Build-Depends: debhelper (>= 8.0.0),
  pkg-config,
  python,
 Standards-Version: 3.9.5
-Homepage: http://www.linuxdeepin.com
+Homepage: http://www.deepin.com
 
 Package: deepin-installer
 Architecture: any

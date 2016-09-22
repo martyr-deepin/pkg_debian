@@ -1,11 +1,11 @@
 Source: dbus-factory
 Section: devel
 Priority: extra
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-Depends: debhelper (>= 9), golang-go, golang-dlib-dev(>= 0.4.2), dbus-generator(>= 0.6.2),
                qt5-qmake, qt5-default, qtdeclarative5-dev, libqt5webkit5-dev, python
 Standards-Version: 3.9.5
-Homepage: http://www.linuxdeepin.com
+Homepage: http://www.deepin.com
 
 Package: dde-go-dbus-factory
 Architecture: all

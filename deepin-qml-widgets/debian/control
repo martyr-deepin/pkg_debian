@@ -1,7 +1,7 @@
 Source: deepin-qml-widgets
 Section: devel
 Priority: extra
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-Depends: debhelper (>= 9),
  qt5-qmake,
  qt5-default,
@@ -15,7 +15,7 @@ Build-Depends: debhelper (>= 9),
  libgtk2.0-dev,
  deepin-gettext-tools
 Standards-Version: 3.9.5
-Homepage: http://www.linuxdeepin.com
+Homepage: http://www.deepin.com
 
 Package: deepin-qml-widgets
 Architecture: any

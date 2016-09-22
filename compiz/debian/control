@@ -1,7 +1,7 @@
 Source: compiz
 Section: x11
 Priority: optional
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-Depends: cmake (>= 2.6),
                debhelper (>= 9~),
                intltool,

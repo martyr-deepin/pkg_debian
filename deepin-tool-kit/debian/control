@@ -1,7 +1,7 @@
 Source: deepin-tool-kit
 Section: devel
 Priority: optional
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-Depends: debhelper (>= 9), qt5-default, pkg-config, 
  qtmultimedia5-dev, libqt5x11extras5-dev, libxext-dev,
  x11proto-xext-dev, libxcb-util0-dev, libstartup-notification0-dev,

@@ -1,10 +1,10 @@
 Source: go-gir-generator
 Section: devel
 Priority: optional
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-Depends: debhelper (>= 9), dh-golang, golang-go, libgirepository1.0-dev, libgtk-3-dev,libgudev-1.0-dev,
 Standards-Version: 3.9.6
-Homepage: http://www.linuxdeepin.com
+Homepage: http://www.deepin.com
 
 Package: golang-gir-gobject-2.0-dev
 Architecture: any

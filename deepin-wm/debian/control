@@ -1,7 +1,7 @@
 Source: deepin-wm
 Section: x11
 Priority: optional
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-Depends: debhelper (>= 9),
  dh-autoreconf, gnome-common,
  gsettings-desktop-schemas-dev,

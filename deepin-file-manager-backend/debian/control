@@ -1,7 +1,7 @@
 Source: deepin-file-manager-backend
 Section: devel
 Priority: extra
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-Depends: debhelper (>= 9),
  golang-dlib-dev(>=0.4.2),
  golang-go,
@@ -12,7 +12,7 @@ Build-Depends: debhelper (>= 9),
  dde-go-dbus-factory,
  libdeepin-metacity-dev,
 Standards-Version: 3.9.5
-Homepage: http://www.linuxdeepin.com
+Homepage: http://www.deepin.com
 
 Package: deepin-file-manager-backend
 Architecture: any

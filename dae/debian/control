@@ -1,5 +1,5 @@
 Source: dae
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Section: python
 Priority: optional
 Build-Depends: debhelper (>= 9), dh-python,

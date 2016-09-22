@@ -1,7 +1,7 @@
 Source:deepin-webkit
 Priority: optional
 Section: web
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-Depends: build-essential, gawk, chrpath, debhelper (>= 5.0), libglib2.0-dev (>= 2.31.2), libgtk2.0-dev (>= 2.24.3), libgtk-3-dev, libpango1.0-dev (>= 1.21), libicu-dev, libxslt-dev, libsoup2.4-dev (>= 2.37.2.1), libsqlite3-dev, gperf, bison27, flex, libjpeg-dev, libpng12-dev, libxt-dev, autotools-dev, libgstreamer-plugins-base0.10-dev, libenchant-dev, gtk-doc-tools, libgail-dev, libgail-3-dev, libgeoclue-dev
 Standards-Version: 3.9.2
 Homepage: http://webkitgtk.org/

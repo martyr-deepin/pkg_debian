@@ -1,7 +1,7 @@
 Source: dde-daemon
 Section: devel
 Priority: extra
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Build-Depends: debhelper (>= 9), golang-go,
  dde-go-dbus-factory(>= 0.6.1),
  golang-dlib-dev(>= 0.4.0), golang-gir-gobject-2.0-dev,
@@ -29,7 +29,7 @@ Build-Depends: debhelper (>= 9), golang-go,
  libcanberra-dev,
  dde-api-dev (>=2.92.2),deepin-desktop-schemas,golang-gir-gudev-1.0-dev,
 Standards-Version: 3.9.5
-Homepage: http://www.linuxdeepin.com
+Homepage: http://www.deepin.com
 
 Package: dde-daemon
 Architecture: any

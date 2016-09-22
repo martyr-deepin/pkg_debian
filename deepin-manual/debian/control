@@ -1,5 +1,5 @@
 Source: deepin-manual
-Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
 Section: python
 Priority: optional
 Build-Depends: libjs-dmanual-dev, python3, ruby-sass

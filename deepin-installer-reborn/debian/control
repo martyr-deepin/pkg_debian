@@ -1,7 +1,7 @@
 Source: deepin-installer-reborn
 Section: utils
 Priority: extra
-Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Maintainer: Deepin Packages Builder <packages@deepin.com>
 Build-Depends: debhelper (>=9),
     cmake,
     g++,
