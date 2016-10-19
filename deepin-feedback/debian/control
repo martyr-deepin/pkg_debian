@@ -21,5 +21,6 @@ Package: deepin-feedback
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends},
  dde-qml-dbus-factory, qml-module-qtquick-dialogs, rfkill, lshw,
- wireless-tools, gzip, efibootmgr, deepin-qml-widgets, dmidecode, boot-info-script
+ wireless-tools, gzip, efibootmgr, deepin-qml-widgets, dmidecode,
+ boot-info-script, jq
 Description: report crash information to deepin for debugging
