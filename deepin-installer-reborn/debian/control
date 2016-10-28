@@ -26,6 +26,6 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
     tshark,
     udev,
     util-linux,
-    x11-server-utils,
+    x11-xserver-utils,
 Description: Reborn version of deepin installer
  New version of deepin-installer, rewritten with Qt5.
