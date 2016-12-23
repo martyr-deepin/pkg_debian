@@ -1,3 +1,9 @@
+dde-dock (4.0.6-1) stable; urgency=low
+
+  * Autobuild Tag 4.0.6 
+
+ -- TagBuilder <tagbuilder@deepin.com>  Sat, 17 Dec 2016 18:37:14 +0000
+
 dde-dock (3.0.12-1) unstable; urgency=low
 
   * Autobuild Tag 3.0.12 
