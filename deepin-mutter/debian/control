@@ -157,7 +157,7 @@ Section: introspection
 Architecture: any
 Depends: ${gir:Depends},
          ${shlibs:Depends},
-         ${misc:Depends}
+         ${misc:Depends},
          libdeepin-mutter0g (= ${binary:Version})
 Description: GObject introspection data for Mutter
  Mutter is a small window manager, using GTK+ and Clutter to do
